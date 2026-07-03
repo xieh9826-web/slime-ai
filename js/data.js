@@ -1,86 +1,92 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-02T19:25:12.297063+00:00
+// Generated: 2026-07-03T03:19:43.812175+00:00
 const NEWS_DATA = [
+  { day: '2026-07-03', items: [
+    {
+      id: 8806,
+      zh: { title: '[arXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning', desc: 'LLMs memorize sensitive training data, including personally identifiable information (PII), creating' },
+      ja: { title: '[arXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning', desc: 'LLMs memorize sensitive training data, including personally identifiable information (PII), creating' },
+      en: { title: '[arXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning', desc: 'LLMs memorize sensitive training data, including personally identifiable information (PII), creating' },
+      source: 'arXiv', time: '03:19', heat: 71,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02513v1'
+    },
+    {
+      id: 6965,
+      zh: { title: '[arXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions', desc: 'Many everyday programming tasks resist clean rule-based implementation, such as alerting on importan' },
+      ja: { title: '[arXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions', desc: 'Many everyday programming tasks resist clean rule-based implementation, such as alerting on importan' },
+      en: { title: '[arXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions', desc: 'Many everyday programming tasks resist clean rule-based implementation, such as alerting on importan' },
+      source: 'arXiv', time: '03:19', heat: 71,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02512v1'
+    },
+    {
+      id: 4191,
+      zh: { title: '[arXiv] Online Safety Monitoring for LLMs', desc: 'Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monit' },
+      ja: { title: '[arXiv] Online Safety Monitoring for LLMs', desc: 'Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monit' },
+      en: { title: '[arXiv] Online Safety Monitoring for LLMs', desc: 'Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monit' },
+      source: 'arXiv', time: '03:19', heat: 82,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02510v1'
+    },
+    {
+      id: 1415,
+      zh: { title: '[arXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Mult', desc: 'LLM agents will increasingly act in socially structured settings where role, audience, and relationa' },
+      ja: { title: '[arXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Mult', desc: 'LLM agents will increasingly act in socially structured settings where role, audience, and relationa' },
+      en: { title: '[arXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Mult', desc: 'LLM agents will increasingly act in socially structured settings where role, audience, and relationa' },
+      source: 'arXiv', time: '03:19', heat: 66,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02507v1'
+    },
+    {
+      id: 9282,
+      zh: { title: '[arXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas', desc: 'Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deci' },
+      ja: { title: '[arXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas', desc: 'Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deci' },
+      en: { title: '[arXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas', desc: 'Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deci' },
+      source: 'arXiv', time: '03:19', heat: 71,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02504v1'
+    },
+  ]},
   { day: '2026-07-02', items: [
     {
-      id: 5870,
-      zh: { title: 'Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed', desc: '' },
-      ja: { title: 'Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed', desc: '' },
-      en: { title: 'Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed', desc: '' },
-      source: 'HN (fkozlowski)', time: '18:48', heat: 55,
-      tags: ["model", "product"], url: 'https://willpenman.com/klara/'
+      id: 6821,
+      zh: { title: 'Claude-real-video － any LLM can watch a video', desc: '' },
+      ja: { title: 'Claude-real-video － any LLM can watch a video', desc: '' },
+      en: { title: 'Claude-real-video － any LLM can watch a video', desc: '' },
+      source: 'HN (cortexosmain)', time: '19:10', heat: 94,
+      tags: ["model", "product"], url: 'https://github.com/HUANGCHIHHUNGLeo/claude-real-video'
     },
     {
-      id: 8597,
-      zh: { title: 'AI can\'t be listed as inventor on patent applications, Japan\'s top court rules', desc: '' },
-      ja: { title: 'AI can\'t be listed as inventor on patent applications, Japan\'s top court rules', desc: '' },
-      en: { title: 'AI can\'t be listed as inventor on patent applications, Japan\'s top court rules', desc: '' },
-      source: 'HN (mushstory)', time: '13:43', heat: 95,
-      tags: ["model", "product"], url: 'https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/'
+      id: 3352,
+      zh: { title: 'The short leash AI coding method for beating Fable', desc: '' },
+      ja: { title: 'The short leash AI coding method for beating Fable', desc: '' },
+      en: { title: 'The short leash AI coding method for beating Fable', desc: '' },
+      source: 'HN (Riseed)', time: '19:11', heat: 87,
+      tags: ["model", "product"], url: 'https://blog.okturtles.org/2026/07/short-leash-ai-method/'
     },
     {
-      id: 9043,
+      id: 3073,
       zh: { title: 'Spain Orders Blacklist of Palantir from Public and Private Companies', desc: '' },
       ja: { title: 'Spain Orders Blacklist of Palantir from Public and Private Companies', desc: '' },
       en: { title: 'Spain Orders Blacklist of Palantir from Public and Private Companies', desc: '' },
       source: 'HN (mgh2)', time: '15:02', heat: 95,
       tags: ["model", "product"], url: 'https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv'
     },
+  ]},
+  { day: '2026-06-27', items: [
     {
-      id: 1258,
-      zh: { title: 'Kimi K2.7 Code is generally available in GitHub Copilot', desc: '' },
-      ja: { title: 'Kimi K2.7 Code is generally available in GitHub Copilot', desc: '' },
-      en: { title: 'Kimi K2.7 Code is generally available in GitHub Copilot', desc: '' },
-      source: 'HN (unliftedq)', time: '04:32', heat: 95,
-      tags: ["model", "product"], url: 'https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/'
+      id: 5758,
+      zh: { title: 'Reality has a surprising amount of detail (2017)', desc: '' },
+      ja: { title: 'Reality has a surprising amount of detail (2017)', desc: '' },
+      en: { title: 'Reality has a surprising amount of detail (2017)', desc: '' },
+      source: 'HN (vinhnx)', time: '23:36', heat: 95,
+      tags: ["model", "product"], url: 'https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail'
     },
+  ]},
+  { day: '2026-06-25', items: [
     {
-      id: 1348,
-      zh: { title: 'The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing', desc: '' },
-      ja: { title: 'The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing', desc: '' },
-      en: { title: 'The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing', desc: '' },
-      source: 'HN (toomuchtodo)', time: '13:25', heat: 95,
-      tags: ["model", "product"], url: 'https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a'
-    },
-    {
-      id: 5136,
-      zh: { title: '[arXiv] Measuring the Gap Between Human and LLM Research Ideas', desc: 'LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge indiv' },
-      ja: { title: '[arXiv] Measuring the Gap Between Human and LLM Research Ideas', desc: 'LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge indiv' },
-      en: { title: '[arXiv] Measuring the Gap Between Human and LLM Research Ideas', desc: 'LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge indiv' },
-      source: 'arXiv', time: '19:25', heat: 75,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.01233v1'
-    },
-    {
-      id: 8083,
-      zh: { title: '[arXiv] AutoMem: Automated Learning of Memory as a Cognitive Skill', desc: 'Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize k' },
-      ja: { title: '[arXiv] AutoMem: Automated Learning of Memory as a Cognitive Skill', desc: 'Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize k' },
-      en: { title: '[arXiv] AutoMem: Automated Learning of Memory as a Cognitive Skill', desc: 'Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize k' },
-      source: 'arXiv', time: '19:25', heat: 71,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.01224v1'
-    },
-    {
-      id: 7601,
-      zh: { title: '[arXiv] Theoria: Rewrite-Acceptability Verification over Informal Reasoning States', desc: 'When should an AI system\'s answer be trusted? Formal proof assistants offer certainty but cannot rea' },
-      ja: { title: '[arXiv] Theoria: Rewrite-Acceptability Verification over Informal Reasoning States', desc: 'When should an AI system\'s answer be trusted? Formal proof assistants offer certainty but cannot rea' },
-      en: { title: '[arXiv] Theoria: Rewrite-Acceptability Verification over Informal Reasoning States', desc: 'When should an AI system\'s answer be trusted? Formal proof assistants offer certainty but cannot rea' },
-      source: 'arXiv', time: '19:25', heat: 67,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.01223v1'
-    },
-    {
-      id: 8135,
-      zh: { title: '[arXiv] The State-Prediction Separation Hypothesis', desc: 'Transformers use the same forward computation stream to both predict the next token and store useful' },
-      ja: { title: '[arXiv] The State-Prediction Separation Hypothesis', desc: 'Transformers use the same forward computation stream to both predict the next token and store useful' },
-      en: { title: '[arXiv] The State-Prediction Separation Hypothesis', desc: 'Transformers use the same forward computation stream to both predict the next token and store useful' },
-      source: 'arXiv', time: '19:25', heat: 77,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.01218v1'
-    },
-    {
-      id: 4367,
-      zh: { title: '[arXiv] Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation', desc: 'Language models deployed in high-stakes roles can potentially favor certain entities, brands, or vie' },
-      ja: { title: '[arXiv] Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation', desc: 'Language models deployed in high-stakes roles can potentially favor certain entities, brands, or vie' },
-      en: { title: '[arXiv] Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation', desc: 'Language models deployed in high-stakes roles can potentially favor certain entities, brands, or vie' },
-      source: 'arXiv', time: '19:25', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.01208v1'
+      id: 2580,
+      zh: { title: 'A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time', desc: '' },
+      ja: { title: 'A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time', desc: '' },
+      en: { title: 'A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time', desc: '' },
+      source: 'HN (HardwareLust)', time: '01:11', heat: 64,
+      tags: ["model", "product"], url: 'https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/'
     },
   ]},
 ];
