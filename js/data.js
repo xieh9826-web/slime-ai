@@ -1,9 +1,67 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-06T19:58:11.365380+00:00
+// Generated: 2026-07-07T03:27:15.663170+00:00
 const NEWS_DATA = [
+  { day: '2026-07-07', items: [
+    {
+      id: 3380,
+      zh: { title: '[arXiv] Weak-to-Strong Generalization via Direct On-Policy Distillation', desc: 'Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-mo' },
+      ja: { title: '[arXiv] Weak-to-Strong Generalization via Direct On-Policy Distillation', desc: 'Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-mo' },
+      en: { title: '[arXiv] Weak-to-Strong Generalization via Direct On-Policy Distillation', desc: 'Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-mo' },
+      source: 'arXiv', time: '03:27', heat: 78,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.05394v1'
+    },
+    {
+      id: 8286,
+      zh: { title: '[arXiv] LLM-as-a-Verifier: A General-Purpose Verification Framework', desc: 'Scaling pre-training, post-training, and test-time compute have become the central paradigms for imp' },
+      ja: { title: '[arXiv] LLM-as-a-Verifier: A General-Purpose Verification Framework', desc: 'Scaling pre-training, post-training, and test-time compute have become the central paradigms for imp' },
+      en: { title: '[arXiv] LLM-as-a-Verifier: A General-Purpose Verification Framework', desc: 'Scaling pre-training, post-training, and test-time compute have become the central paradigms for imp' },
+      source: 'arXiv', time: '03:27', heat: 74,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.05391v1'
+    },
+    {
+      id: 3225,
+      zh: { title: '[arXiv] What Does a Discrete Diffusion Model Learn?', desc: 'What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor' },
+      ja: { title: '[arXiv] What Does a Discrete Diffusion Model Learn?', desc: 'What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor' },
+      en: { title: '[arXiv] What Does a Discrete Diffusion Model Learn?', desc: 'What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor' },
+      source: 'arXiv', time: '03:27', heat: 85,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.05381v1'
+    },
+    {
+      id: 4671,
+      zh: { title: '[arXiv] GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks', desc: 'For robots to work reliably in commercial and industrial applications, can recent advances in agenti' },
+      ja: { title: '[arXiv] GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks', desc: 'For robots to work reliably in commercial and industrial applications, can recent advances in agenti' },
+      en: { title: '[arXiv] GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks', desc: 'For robots to work reliably in commercial and industrial applications, can recent advances in agenti' },
+      source: 'arXiv', time: '03:27', heat: 66,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.05369v1'
+    },
+    {
+      id: 3909,
+      zh: { title: '[arXiv] SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models', desc: 'Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic spee' },
+      ja: { title: '[arXiv] SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models', desc: 'Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic spee' },
+      en: { title: '[arXiv] SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models', desc: 'Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic spee' },
+      source: 'arXiv', time: '03:27', heat: 65,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.05365v1'
+    },
+  ]},
   { day: '2026-07-06', items: [
     {
-      id: 9902,
+      id: 9453,
+      zh: { title: 'GLM 5.2 and the coming AI margin collapse', desc: '' },
+      ja: { title: 'GLM 5.2 and the coming AI margin collapse', desc: '' },
+      en: { title: 'GLM 5.2 and the coming AI margin collapse', desc: '' },
+      source: 'HN (martinald)', time: '20:14', heat: 95,
+      tags: ["model", "product"], url: 'https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/'
+    },
+    {
+      id: 3620,
+      zh: { title: 'Small AI Models Gain Traction In places with unreliable networks', desc: '' },
+      ja: { title: 'Small AI Models Gain Traction In places with unreliable networks', desc: '' },
+      en: { title: 'Small AI Models Gain Traction In places with unreliable networks', desc: '' },
+      source: 'HN (sscaryterry)', time: '23:59', heat: 67,
+      tags: ["model", "product"], url: 'https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals'
+    },
+    {
+      id: 8339,
       zh: { title: 'AMD Ryzen AI Halo – $4k AI Dev Kit', desc: '' },
       ja: { title: 'AMD Ryzen AI Halo – $4k AI Dev Kit', desc: '' },
       en: { title: 'AMD Ryzen AI Halo – $4k AI Dev Kit', desc: '' },
@@ -11,70 +69,20 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo'
     },
     {
-      id: 7716,
+      id: 8660,
       zh: { title: 'OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files', desc: '' },
       ja: { title: 'OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files', desc: '' },
       en: { title: 'OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files', desc: '' },
-      source: 'HN (maxloh)', time: '16:47', heat: 76,
+      source: 'HN (maxloh)', time: '16:47', heat: 95,
       tags: ["model", "product"], url: 'https://github.com/iOfficeAI/OfficeCLI'
     },
     {
-      id: 9131,
+      id: 8814,
       zh: { title: 'Real-time map of Great Britain\'s rail network', desc: '' },
       ja: { title: 'Real-time map of Great Britain\'s rail network', desc: '' },
       en: { title: 'Real-time map of Great Britain\'s rail network', desc: '' },
       source: 'HN (scrlk)', time: '09:38', heat: 95,
       tags: ["model", "product"], url: 'https://www.map.signalbox.io'
-    },
-    {
-      id: 2917,
-      zh: { title: '[arXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning', desc: 'LLMs memorize sensitive training data, including personally identifiable information (PII), creating' },
-      ja: { title: '[arXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning', desc: 'LLMs memorize sensitive training data, including personally identifiable information (PII), creating' },
-      en: { title: '[arXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning', desc: 'LLMs memorize sensitive training data, including personally identifiable information (PII), creating' },
-      source: 'arXiv', time: '19:58', heat: 66,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02513v1'
-    },
-    {
-      id: 4331,
-      zh: { title: '[arXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions', desc: 'Many everyday programming tasks resist clean rule-based implementation, such as alerting on importan' },
-      ja: { title: '[arXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions', desc: 'Many everyday programming tasks resist clean rule-based implementation, such as alerting on importan' },
-      en: { title: '[arXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions', desc: 'Many everyday programming tasks resist clean rule-based implementation, such as alerting on importan' },
-      source: 'arXiv', time: '19:58', heat: 66,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02512v1'
-    },
-    {
-      id: 1721,
-      zh: { title: '[arXiv] Online Safety Monitoring for LLMs', desc: 'Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monit' },
-      ja: { title: '[arXiv] Online Safety Monitoring for LLMs', desc: 'Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monit' },
-      en: { title: '[arXiv] Online Safety Monitoring for LLMs', desc: 'Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monit' },
-      source: 'arXiv', time: '19:58', heat: 74,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02510v1'
-    },
-    {
-      id: 1001,
-      zh: { title: '[arXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Mult', desc: 'LLM agents will increasingly act in socially structured settings where role, audience, and relationa' },
-      ja: { title: '[arXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Mult', desc: 'LLM agents will increasingly act in socially structured settings where role, audience, and relationa' },
-      en: { title: '[arXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Mult', desc: 'LLM agents will increasingly act in socially structured settings where role, audience, and relationa' },
-      source: 'arXiv', time: '19:58', heat: 84,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02507v1'
-    },
-    {
-      id: 3040,
-      zh: { title: '[arXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas', desc: 'Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deci' },
-      ja: { title: '[arXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas', desc: 'Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deci' },
-      en: { title: '[arXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas', desc: 'Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deci' },
-      source: 'arXiv', time: '19:58', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.02504v1'
-    },
-  ]},
-  { day: '2026-07-05', items: [
-    {
-      id: 9195,
-      zh: { title: 'Does code cleanliness affect coding agents? A controlled minimal-pair study', desc: '' },
-      ja: { title: 'Does code cleanliness affect coding agents? A controlled minimal-pair study', desc: '' },
-      en: { title: 'Does code cleanliness affect coding agents? A controlled minimal-pair study', desc: '' },
-      source: 'HN (softwaredoug)', time: '23:03', heat: 95,
-      tags: ["model", "product"], url: 'https://arxiv.org/abs/2605.20049'
     },
   ]},
 ];
