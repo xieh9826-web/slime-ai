@@ -1,88 +1,90 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-09T15:10:56.100539+00:00
+// Generated: 2026-07-09T19:47:05.957782+00:00
 const NEWS_DATA = [
   { day: '2026-07-09', items: [
     {
-      id: 2244,
-      zh: { title: 'Show HN: FableCut – A browser video editor AI agents can drive (zero deps)', desc: '' },
-      ja: { title: 'Show HN: FableCut – A browser video editor AI agents can drive (zero deps)', desc: '' },
-      en: { title: 'Show HN: FableCut – A browser video editor AI agents can drive (zero deps)', desc: '' },
-      source: 'HN (ronak_parmar)', time: '13:23', heat: 78,
-      tags: ["model", "product"], url: 'https://github.com/ronak-create/FableCut'
+      id: 2262,
+      zh: { title: 'GPT-5.6', desc: '' },
+      ja: { title: 'GPT-5.6', desc: '' },
+      en: { title: 'GPT-5.6', desc: '' },
+      source: 'HN (logickkk1)', time: '17:04', heat: 95,
+      tags: ["model", "product"], url: 'https://openai.com/index/gpt-5-6/'
     },
     {
-      id: 9607,
-      zh: { title: 'A new way to reflect on how you use Claude', desc: '' },
-      ja: { title: 'A new way to reflect on how you use Claude', desc: '' },
-      en: { title: 'A new way to reflect on how you use Claude', desc: '' },
-      source: 'HN (surprisetalk)', time: '13:30', heat: 62,
-      tags: ["model", "product"], url: 'https://www.anthropic.com/news/reflect-with-claude'
+      id: 9849,
+      zh: { title: 'ChatGPT Work', desc: '' },
+      ja: { title: 'ChatGPT Work', desc: '' },
+      en: { title: 'ChatGPT Work', desc: '' },
+      source: 'HN (Tiberium)', time: '17:03', heat: 95,
+      tags: ["model", "product"], url: 'https://openai.com/index/chatgpt-for-your-most-ambitious-work/'
     },
     {
-      id: 3064,
-      zh: { title: 'Show HN: Arcaide – Explore code with multi-level call graphs', desc: '' },
-      ja: { title: 'Show HN: Arcaide – Explore code with multi-level call graphs', desc: '' },
-      en: { title: 'Show HN: Arcaide – Explore code with multi-level call graphs', desc: '' },
-      source: 'HN (aqula)', time: '12:59', heat: 56,
-      tags: ["model", "product"], url: 'https://arcaide.foo'
+      id: 2326,
+      zh: { title: 'Why the Next Era of AI Is About Infrastructure, Not Just Models', desc: '' },
+      ja: { title: 'Why the Next Era of AI Is About Infrastructure, Not Just Models', desc: '' },
+      en: { title: 'Why the Next Era of AI Is About Infrastructure, Not Just Models', desc: '' },
+      source: 'HN (royapakzad)', time: '14:50', heat: 54,
+      tags: ["model", "product"], url: 'https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/'
     },
     {
-      id: 5654,
+      id: 4050,
       zh: { title: '[arXiv] Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Struct', desc: 'Structure-property relationships are foundational to biology, chemistry and materials science, where' },
       ja: { title: '[arXiv] Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Struct', desc: 'Structure-property relationships are foundational to biology, chemistry and materials science, where' },
       en: { title: '[arXiv] Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Struct', desc: 'Structure-property relationships are foundational to biology, chemistry and materials science, where' },
-      source: 'arXiv', time: '15:10', heat: 69,
+      source: 'arXiv', time: '19:47', heat: 79,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.07708v1'
     },
     {
-      id: 7298,
+      id: 4137,
       zh: { title: '[arXiv] Co-LMLM: Continuous-Query Limited Memory Language Models', desc: 'Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowled' },
       ja: { title: '[arXiv] Co-LMLM: Continuous-Query Limited Memory Language Models', desc: 'Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowled' },
       en: { title: '[arXiv] Co-LMLM: Continuous-Query Limited Memory Language Models', desc: 'Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowled' },
-      source: 'arXiv', time: '15:10', heat: 83,
+      source: 'arXiv', time: '19:47', heat: 78,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.07707v1'
     },
     {
-      id: 7401,
+      id: 8643,
       zh: { title: '[arXiv] Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning', desc: 'Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today\'s reasoning mo' },
       ja: { title: '[arXiv] Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning', desc: 'Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today\'s reasoning mo' },
       en: { title: '[arXiv] Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning', desc: 'Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today\'s reasoning mo' },
-      source: 'arXiv', time: '15:10', heat: 72,
+      source: 'arXiv', time: '19:47', heat: 81,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.07690v1'
     },
     {
-      id: 4955,
+      id: 1939,
       zh: { title: '[arXiv] DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation', desc: 'Large language models increasingly \emph{understand} dialectal English, yet still \emph{produce} onl' },
       ja: { title: '[arXiv] DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation', desc: 'Large language models increasingly \emph{understand} dialectal English, yet still \emph{produce} onl' },
       en: { title: '[arXiv] DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation', desc: 'Large language models increasingly \emph{understand} dialectal English, yet still \emph{produce} onl' },
-      source: 'arXiv', time: '15:10', heat: 71,
+      source: 'arXiv', time: '19:47', heat: 68,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.07669v1'
     },
     {
-      id: 7092,
+      id: 1988,
       zh: { title: '[arXiv] RL Post-Training Builds Compositional Reasoning Strategies', desc: 'Does RL post-training merely amplify primitive skills already latent in a base model, or can it comp' },
       ja: { title: '[arXiv] RL Post-Training Builds Compositional Reasoning Strategies', desc: 'Does RL post-training merely amplify primitive skills already latent in a base model, or can it comp' },
       en: { title: '[arXiv] RL Post-Training Builds Compositional Reasoning Strategies', desc: 'Does RL post-training merely amplify primitive skills already latent in a base model, or can it comp' },
-      source: 'arXiv', time: '15:10', heat: 70,
+      source: 'arXiv', time: '19:47', heat: 65,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.07646v1'
     },
   ]},
-  { day: '2026-07-08', items: [
+  { day: '2026-07-06', items: [
     {
-      id: 2442,
-      zh: { title: 'John Deere owners will get the right to repair equipment under FTC settlement', desc: '' },
-      ja: { title: 'John Deere owners will get the right to repair equipment under FTC settlement', desc: '' },
-      en: { title: 'John Deere owners will get the right to repair equipment under FTC settlement', desc: '' },
-      source: 'HN (djoldman)', time: '23:37', heat: 95,
-      tags: ["model", "product"], url: 'https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02'
+      id: 3666,
+      zh: { title: 'Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting', desc: '' },
+      ja: { title: 'Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting', desc: '' },
+      en: { title: 'Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting', desc: '' },
+      source: 'HN (EvgeniyZh)', time: '19:46', heat: 87,
+      tags: ["model", "product"], url: 'https://nahla.dev/blog/waitfree_queue/'
     },
+  ]},
+  { day: '2026-07-05', items: [
     {
-      id: 7034,
-      zh: { title: 'Show HN: Microsoft releases Flint, a visualization language for AI agents', desc: '' },
-      ja: { title: 'Show HN: Microsoft releases Flint, a visualization language for AI agents', desc: '' },
-      en: { title: 'Show HN: Microsoft releases Flint, a visualization language for AI agents', desc: '' },
-      source: 'HN (chenglong-hn)', time: '17:46', heat: 95,
-      tags: ["model", "product"], url: 'https://microsoft.github.io/flint-chart/#/'
+      id: 8637,
+      zh: { title: 'Train SIM Created by Just One Person Is Being Called the Best Ever Made', desc: '' },
+      ja: { title: 'Train SIM Created by Just One Person Is Being Called the Best Ever Made', desc: '' },
+      en: { title: 'Train SIM Created by Just One Person Is Being Called the Best Ever Made', desc: '' },
+      source: 'HN (oumua_don17)', time: '08:40', heat: 63,
+      tags: ["model", "product"], url: 'https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429'
     },
   ]},
 ];
