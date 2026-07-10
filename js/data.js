@@ -1,51 +1,59 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-10T03:22:44.761634+00:00
+// Generated: 2026-07-10T09:35:54.748605+00:00
 const NEWS_DATA = [
   { day: '2026-07-10', items: [
     {
-      id: 4607,
+      id: 8112,
+      zh: { title: 'AI-generated videos to maximally drive a target brain region', desc: '' },
+      ja: { title: 'AI-generated videos to maximally drive a target brain region', desc: '' },
+      en: { title: 'AI-generated videos to maximally drive a target brain region', desc: '' },
+      source: 'HN (smusamashah)', time: '07:39', heat: 74,
+      tags: ["model", "product"], url: 'https://nevo-project.epfl.ch/'
+    },
+    {
+      id: 8980,
       zh: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
       ja: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
       en: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
-      source: 'arXiv', time: '03:22', heat: 65,
+      source: 'arXiv', time: '09:35', heat: 79,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08731v1'
     },
     {
-      id: 5308,
+      id: 6205,
       zh: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
       ja: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
       en: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
-      source: 'arXiv', time: '03:22', heat: 74,
+      source: 'arXiv', time: '09:35', heat: 75,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08716v1'
     },
     {
-      id: 8208,
+      id: 4978,
       zh: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
       ja: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
       en: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
-      source: 'arXiv', time: '03:22', heat: 75,
+      source: 'arXiv', time: '09:35', heat: 69,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08662v1'
     },
     {
-      id: 3970,
+      id: 5518,
       zh: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
       ja: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
       en: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
-      source: 'arXiv', time: '03:22', heat: 72,
+      source: 'arXiv', time: '09:35', heat: 71,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08646v1'
     },
     {
-      id: 7932,
+      id: 4161,
       zh: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
       ja: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
       en: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
-      source: 'arXiv', time: '03:22', heat: 69,
+      source: 'arXiv', time: '09:35', heat: 65,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08625v1'
     },
   ]},
   { day: '2026-07-09', items: [
     {
-      id: 5404,
+      id: 6456,
       zh: { title: 'GPT-5.6', desc: '' },
       ja: { title: 'GPT-5.6', desc: '' },
       en: { title: 'GPT-5.6', desc: '' },
@@ -53,35 +61,27 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://openai.com/index/gpt-5-6/'
     },
     {
-      id: 8065,
+      id: 9673,
       zh: { title: 'Building a real-time AI tutor for 5-year-olds', desc: '' },
       ja: { title: 'Building a real-time AI tutor for 5-year-olds', desc: '' },
       en: { title: 'Building a real-time AI tutor for 5-year-olds', desc: '' },
-      source: 'HN (catalinvoss)', time: '20:51', heat: 78,
+      source: 'HN (catalinvoss)', time: '20:51', heat: 94,
       tags: ["model", "product"], url: 'https://www.ello.com/blog/teaching-a-child-in-1000-ms'
-    },
-    {
-      id: 3835,
-      zh: { title: 'AI content is everywhere on social media, especially LinkedIn', desc: '' },
-      ja: { title: 'AI content is everywhere on social media, especially LinkedIn', desc: '' },
-      en: { title: 'AI content is everywhere on social media, especially LinkedIn', desc: '' },
-      source: 'HN (mukmuk)', time: '15:50', heat: 95,
-      tags: ["model", "product"], url: 'https://www.pangram.com/blog/ai-in-your-feed'
     },
   ]},
   { day: '2026-07-06', items: [
     {
-      id: 7252,
-      zh: { title: 'Girls just wanna have fast MPMC queues with bounded waiting', desc: '' },
-      ja: { title: 'Girls just wanna have fast MPMC queues with bounded waiting', desc: '' },
-      en: { title: 'Girls just wanna have fast MPMC queues with bounded waiting', desc: '' },
-      source: 'HN (EvgeniyZh)', time: '19:46', heat: 95,
-      tags: ["model", "product"], url: 'https://nahla.dev/blog/waitfree_queue/'
+      id: 4831,
+      zh: { title: 'Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future', desc: '' },
+      ja: { title: 'Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future', desc: '' },
+      en: { title: 'Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future', desc: '' },
+      source: 'HN (tosh)', time: '14:59', heat: 85,
+      tags: ["model", "product"], url: 'https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/'
     },
   ]},
   { day: '2026-07-05', items: [
     {
-      id: 8235,
+      id: 2147,
       zh: { title: 'Train sim created by just one person is being called the best ever made', desc: '' },
       ja: { title: 'Train sim created by just one person is being called the best ever made', desc: '' },
       en: { title: 'Train sim created by just one person is being called the best ever made', desc: '' },
