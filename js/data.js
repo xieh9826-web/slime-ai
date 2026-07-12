@@ -1,59 +1,59 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-12T02:48:59.156937+00:00
+// Generated: 2026-07-12T08:18:37.321169+00:00
 const NEWS_DATA = [
   { day: '2026-07-12', items: [
     {
-      id: 3110,
-      zh: { title: 'What xAI\'s Grok Build CLI Actually Sends to xAI', desc: '' },
-      ja: { title: 'What xAI\'s Grok Build CLI Actually Sends to xAI', desc: '' },
-      en: { title: 'What xAI\'s Grok Build CLI Actually Sends to xAI', desc: '' },
-      source: 'HN (jhoho)', time: '01:09', heat: 60,
-      tags: ["model", "product"], url: 'https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547'
+      id: 2858,
+      zh: { title: 'Under federal rule, colleges must leave grads better off or lose financial aid', desc: '' },
+      ja: { title: 'Under federal rule, colleges must leave grads better off or lose financial aid', desc: '' },
+      en: { title: 'Under federal rule, colleges must leave grads better off or lose financial aid', desc: '' },
+      source: 'HN (nradov)', time: '04:00', heat: 83,
+      tags: ["model", "product"], url: 'https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans'
     },
     {
-      id: 4217,
+      id: 8910,
       zh: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
       ja: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
       en: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
-      source: 'arXiv', time: '02:48', heat: 78,
+      source: 'arXiv', time: '08:18', heat: 73,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08731v1'
     },
     {
-      id: 7206,
+      id: 7469,
       zh: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
       ja: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
       en: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
-      source: 'arXiv', time: '02:48', heat: 79,
+      source: 'arXiv', time: '08:18', heat: 67,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08716v1'
     },
     {
-      id: 6201,
+      id: 9331,
       zh: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
       ja: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
       en: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
-      source: 'arXiv', time: '02:48', heat: 72,
+      source: 'arXiv', time: '08:18', heat: 76,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08662v1'
     },
     {
-      id: 1551,
+      id: 6489,
       zh: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
       ja: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
       en: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
-      source: 'arXiv', time: '02:48', heat: 77,
+      source: 'arXiv', time: '08:18', heat: 75,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08646v1'
     },
     {
-      id: 4676,
+      id: 7257,
       zh: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
       ja: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
       en: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
-      source: 'arXiv', time: '02:48', heat: 76,
+      source: 'arXiv', time: '08:18', heat: 79,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08625v1'
     },
   ]},
   { day: '2026-07-11', items: [
     {
-      id: 4796,
+      id: 9902,
       zh: { title: 'Mesh LLM: distributed AI computing on iroh', desc: '' },
       ja: { title: 'Mesh LLM: distributed AI computing on iroh', desc: '' },
       en: { title: 'Mesh LLM: distributed AI computing on iroh', desc: '' },
@@ -61,28 +61,28 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://www.iroh.computer/blog/mesh-llm'
     },
     {
-      id: 3863,
+      id: 7011,
+      zh: { title: 'Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio', desc: '' },
+      ja: { title: 'Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio', desc: '' },
+      en: { title: 'Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio', desc: '' },
+      source: 'HN (marzukia)', time: '22:54', heat: 77,
+      tags: ["model", "product"], url: 'https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/'
+    },
+    {
+      id: 1196,
       zh: { title: 'Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL', desc: '' },
       ja: { title: 'Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL', desc: '' },
       en: { title: 'Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL', desc: '' },
-      source: 'HN (tejusarora)', time: '20:03', heat: 60,
+      source: 'HN (tejusarora)', time: '20:03', heat: 65,
       tags: ["model", "product"], url: 'https://github.com/sqlsure/sqlsure'
     },
     {
-      id: 3947,
+      id: 8487,
       zh: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
       ja: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
       en: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
       source: 'HN (speckx)', time: '17:03', heat: 95,
       tags: ["model", "product"], url: 'https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey'
-    },
-    {
-      id: 1972,
-      zh: { title: 'Wealthy AI workers send San Francisco house prices soaring', desc: '' },
-      ja: { title: 'Wealthy AI workers send San Francisco house prices soaring', desc: '' },
-      en: { title: 'Wealthy AI workers send San Francisco house prices soaring', desc: '' },
-      source: 'HN (root-parent)', time: '20:06', heat: 59,
-      tags: ["model", "product"], url: 'https://www.bbc.com/news/articles/c9q29j47v9ro'
     },
   ]},
 ];
