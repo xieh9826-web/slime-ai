@@ -1,88 +1,88 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-11T19:03:52.444883+00:00
+// Generated: 2026-07-12T02:48:59.156937+00:00
 const NEWS_DATA = [
-  { day: '2026-07-11', items: [
+  { day: '2026-07-12', items: [
     {
-      id: 9346,
-      zh: { title: 'Modern decor may be straining people\'s brains', desc: '' },
-      ja: { title: 'Modern decor may be straining people\'s brains', desc: '' },
-      en: { title: 'Modern decor may be straining people\'s brains', desc: '' },
-      source: 'HN (downwithdisease)', time: '16:28', heat: 95,
-      tags: ["model", "product"], url: 'https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/'
+      id: 3110,
+      zh: { title: 'What xAI\'s Grok Build CLI Actually Sends to xAI', desc: '' },
+      ja: { title: 'What xAI\'s Grok Build CLI Actually Sends to xAI', desc: '' },
+      en: { title: 'What xAI\'s Grok Build CLI Actually Sends to xAI', desc: '' },
+      source: 'HN (jhoho)', time: '01:09', heat: 60,
+      tags: ["model", "product"], url: 'https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547'
     },
     {
-      id: 9901,
-      zh: { title: 'AI 2040 and the cult of intelligence', desc: '' },
-      ja: { title: 'AI 2040 and the cult of intelligence', desc: '' },
-      en: { title: 'AI 2040 and the cult of intelligence', desc: '' },
-      source: 'HN (rvz)', time: '18:04', heat: 95,
-      tags: ["model", "product"], url: 'https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html'
-    },
-    {
-      id: 2878,
-      zh: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
-      ja: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
-      en: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
-      source: 'HN (speckx)', time: '17:03', heat: 93,
-      tags: ["model", "product"], url: 'https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey'
-    },
-    {
-      id: 3528,
-      zh: { title: 'Reverse centaurs are the answer to the AI paradox', desc: '' },
-      ja: { title: 'Reverse centaurs are the answer to the AI paradox', desc: '' },
-      en: { title: 'Reverse centaurs are the answer to the AI paradox', desc: '' },
-      source: 'HN (jason_s)', time: '17:23', heat: 67,
-      tags: ["model", "product"], url: 'https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative'
-    },
-    {
-      id: 4775,
+      id: 4217,
       zh: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
       ja: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
       en: { title: '[arXiv] Validity of LLMs as data annotators: AMALIA on authority', desc: 'A national language model offers a linguistic community its own instrument for measuring what its ci' },
-      source: 'arXiv', time: '19:03', heat: 85,
+      source: 'arXiv', time: '02:48', heat: 78,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08731v1'
     },
     {
-      id: 1359,
+      id: 7206,
       zh: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
       ja: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
       en: { title: '[arXiv] Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents', desc: 'In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, wh' },
-      source: 'arXiv', time: '19:03', heat: 83,
+      source: 'arXiv', time: '02:48', heat: 79,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08716v1'
     },
     {
-      id: 5943,
+      id: 6201,
       zh: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
       ja: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
       en: { title: '[arXiv] WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search', desc: 'Large language model (LLM)-based web search agents are transforming information seeking from simple ' },
-      source: 'arXiv', time: '19:03', heat: 71,
+      source: 'arXiv', time: '02:48', heat: 72,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08662v1'
     },
     {
-      id: 1507,
+      id: 1551,
       zh: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
       ja: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
       en: { title: '[arXiv] UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing', desc: 'As available training data approaches its physical limit, gains from Scaling Laws have begun to dimi' },
-      source: 'arXiv', time: '19:03', heat: 81,
+      source: 'arXiv', time: '02:48', heat: 77,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08646v1'
     },
     {
-      id: 1914,
+      id: 4676,
       zh: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
       ja: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
       en: { title: '[arXiv] The complexities of patient-centred conversational artificial intelligence', desc: 'Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for sy' },
-      source: 'arXiv', time: '19:03', heat: 78,
+      source: 'arXiv', time: '02:48', heat: 76,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.08625v1'
     },
   ]},
-  { day: '2026-07-10', items: [
+  { day: '2026-07-11', items: [
     {
-      id: 6106,
-      zh: { title: 'AI Can\'t Recreate the Thrust Game (But It Can Help You Understand It)', desc: '' },
-      ja: { title: 'AI Can\'t Recreate the Thrust Game (But It Can Help You Understand It)', desc: '' },
-      en: { title: 'AI Can\'t Recreate the Thrust Game (But It Can Help You Understand It)', desc: '' },
-      source: 'HN (msephton)', time: '22:04', heat: 61,
-      tags: ["model", "product"], url: 'https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/'
+      id: 4796,
+      zh: { title: 'Mesh LLM: distributed AI computing on iroh', desc: '' },
+      ja: { title: 'Mesh LLM: distributed AI computing on iroh', desc: '' },
+      en: { title: 'Mesh LLM: distributed AI computing on iroh', desc: '' },
+      source: 'HN (tionis)', time: '22:38', heat: 95,
+      tags: ["model", "product"], url: 'https://www.iroh.computer/blog/mesh-llm'
+    },
+    {
+      id: 3863,
+      zh: { title: 'Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL', desc: '' },
+      ja: { title: 'Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL', desc: '' },
+      en: { title: 'Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL', desc: '' },
+      source: 'HN (tejusarora)', time: '20:03', heat: 60,
+      tags: ["model", "product"], url: 'https://github.com/sqlsure/sqlsure'
+    },
+    {
+      id: 3947,
+      zh: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
+      ja: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
+      en: { title: 'Female US rower completes historic solo journey from California to Hawaii', desc: '' },
+      source: 'HN (speckx)', time: '17:03', heat: 95,
+      tags: ["model", "product"], url: 'https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey'
+    },
+    {
+      id: 1972,
+      zh: { title: 'Wealthy AI workers send San Francisco house prices soaring', desc: '' },
+      ja: { title: 'Wealthy AI workers send San Francisco house prices soaring', desc: '' },
+      en: { title: 'Wealthy AI workers send San Francisco house prices soaring', desc: '' },
+      source: 'HN (root-parent)', time: '20:06', heat: 59,
+      tags: ["model", "product"], url: 'https://www.bbc.com/news/articles/c9q29j47v9ro'
     },
   ]},
 ];
