@@ -1,9 +1,19 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-13T19:24:01.367941+00:00
+// Generated: 2026-07-14T02:31:41.309619+00:00
 const NEWS_DATA = [
+  { day: '2026-07-14', items: [
+    {
+      id: 2194,
+      zh: { title: 'Building Food Metadata with LLM Juries', desc: '' },
+      ja: { title: 'Building Food Metadata with LLM Juries', desc: '' },
+      en: { title: 'Building Food Metadata with LLM Juries', desc: '' },
+      source: 'HN (tie-in)', time: '01:41', heat: 53,
+      tags: ["model", "product"], url: 'https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/'
+    },
+  ]},
   { day: '2026-07-13', items: [
     {
-      id: 5975,
+      id: 9513,
       zh: { title: 'Apple\'s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor', desc: '' },
       ja: { title: 'Apple\'s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor', desc: '' },
       en: { title: 'Apple\'s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor', desc: '' },
@@ -11,78 +21,30 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://get-inscribe.com/blog/apple-speech-api-benchmark.html'
     },
     {
-      id: 8040,
-      zh: { title: 'Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents', desc: '' },
-      ja: { title: 'Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents', desc: '' },
-      en: { title: 'Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents', desc: '' },
-      source: 'HN (mtw14)', time: '18:18', heat: 56,
-      tags: ["model", "product"], url: 'https://github.com/morganwilliscloud/billai-bass'
+      id: 7200,
+      zh: { title: 'Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder', desc: '' },
+      ja: { title: 'Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder', desc: '' },
+      en: { title: 'Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder', desc: '' },
+      source: 'HN (detkin)', time: '23:26', heat: 57,
+      tags: ["model", "product"], url: 'https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html'
     },
     {
-      id: 2402,
-      zh: { title: 'Zig Creator Calls Spade a Spade, Anthropic Blows Smoke', desc: '' },
-      ja: { title: 'Zig Creator Calls Spade a Spade, Anthropic Blows Smoke', desc: '' },
-      en: { title: 'Zig Creator Calls Spade a Spade, Anthropic Blows Smoke', desc: '' },
-      source: 'HN (crowdhailer)', time: '08:39', heat: 95,
-      tags: ["model", "product"], url: 'https://raymyers.org/post/zed-creator-calls-spade-a-spade/'
-    },
-    {
-      id: 7770,
-      zh: { title: 'Interrail: 6,379Km and 13 Countries over 7 weeks', desc: '' },
-      ja: { title: 'Interrail: 6,379Km and 13 Countries over 7 weeks', desc: '' },
-      en: { title: 'Interrail: 6,379Km and 13 Countries over 7 weeks', desc: '' },
-      source: 'HN (coinfused)', time: '08:04', heat: 95,
-      tags: ["model", "product"], url: 'https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/'
-    },
-    {
-      id: 2349,
-      zh: { title: '[arXiv] Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reason', desc: 'We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient ' },
-      ja: { title: '[arXiv] Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reason', desc: 'We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient ' },
-      en: { title: '[arXiv] Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reason', desc: 'We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient ' },
-      source: 'arXiv', time: '19:24', heat: 74,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.09623v1'
-    },
-    {
-      id: 5243,
-      zh: { title: '[arXiv] Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation', desc: 'Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchest' },
-      ja: { title: '[arXiv] Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation', desc: 'Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchest' },
-      en: { title: '[arXiv] Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation', desc: 'Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchest' },
-      source: 'arXiv', time: '19:24', heat: 69,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.09600v1'
-    },
-    {
-      id: 2326,
-      zh: { title: '[arXiv] Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach', desc: 'We present an interpretable network-based framework for representing idiomatic and figurative meanin' },
-      ja: { title: '[arXiv] Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach', desc: 'We present an interpretable network-based framework for representing idiomatic and figurative meanin' },
-      en: { title: '[arXiv] Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach', desc: 'We present an interpretable network-based framework for representing idiomatic and figurative meanin' },
-      source: 'arXiv', time: '19:24', heat: 73,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.09576v1'
-    },
-    {
-      id: 7568,
-      zh: { title: '[arXiv] Test-Time Scaling for Small VLMs on Multilingual Visual MCQ', desc: 'Test-time scaling (TTS) reliably improves reasoning in large language models, but whether it transfe' },
-      ja: { title: '[arXiv] Test-Time Scaling for Small VLMs on Multilingual Visual MCQ', desc: 'Test-time scaling (TTS) reliably improves reasoning in large language models, but whether it transfe' },
-      en: { title: '[arXiv] Test-Time Scaling for Small VLMs on Multilingual Visual MCQ', desc: 'Test-time scaling (TTS) reliably improves reasoning in large language models, but whether it transfe' },
-      source: 'arXiv', time: '19:24', heat: 83,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.09438v1'
-    },
-    {
-      id: 7031,
-      zh: { title: '[arXiv] A Sovereign, Open-Source Foundation Model for German and English', desc: 'We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transform' },
-      ja: { title: '[arXiv] A Sovereign, Open-Source Foundation Model for German and English', desc: 'We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transform' },
-      en: { title: '[arXiv] A Sovereign, Open-Source Foundation Model for German and English', desc: 'We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transform' },
-      source: 'arXiv', time: '19:24', heat: 74,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.09424v1'
+      id: 5547,
+      zh: { title: 'Show HN: Jacquard, a programming language for AI-written, human-reviewed code', desc: '' },
+      ja: { title: 'Show HN: Jacquard, a programming language for AI-written, human-reviewed code', desc: '' },
+      en: { title: 'Show HN: Jacquard, a programming language for AI-written, human-reviewed code', desc: '' },
+      source: 'HN (jbwinters)', time: '15:56', heat: 77,
+      tags: ["model", "product"], url: 'https://github.com/jbwinters/jacquard-lang'
     },
   ]},
-  { day: '2026-07-09', items: [
+  { day: '2026-07-10', items: [
     {
-      id: 6200,
-      zh: { title: 'Frieve Vinyl Explained – Microscopic stylus/groove physics simulation', desc: '' },
-      ja: { title: 'Frieve Vinyl Explained – Microscopic stylus/groove physics simulation', desc: '' },
-      en: { title: 'Frieve Vinyl Explained – Microscopic stylus/groove physics simulation', desc: '' },
-      source: 'HN (XzetaU8)', time: '10:45', heat: 86,
-      tags: ["model", "product"], url: 'https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html'
+      id: 9430,
+      zh: { title: 'The Difference Between Watercolor and Gouache Paints', desc: '' },
+      ja: { title: 'The Difference Between Watercolor and Gouache Paints', desc: '' },
+      en: { title: 'The Difference Between Watercolor and Gouache Paints', desc: '' },
+      source: 'HN (ynac)', time: '17:36', heat: 59,
+      tags: ["model", "product"], url: 'https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963'
     },
   ]},
 ];
