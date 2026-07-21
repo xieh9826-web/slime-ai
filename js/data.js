@@ -1,25 +1,59 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-20T19:43:58.778010+00:00
+// Generated: 2026-07-21T02:43:12.462105+00:00
 const NEWS_DATA = [
+  { day: '2026-07-21', items: [
+    {
+      id: 5452,
+      zh: { title: '[arXiv] Automated Discovery Has No Universally Superior Harness', desc: 'Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose h' },
+      ja: { title: '[arXiv] Automated Discovery Has No Universally Superior Harness', desc: 'Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose h' },
+      en: { title: '[arXiv] Automated Discovery Has No Universally Superior Harness', desc: 'Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose h' },
+      source: 'arXiv', time: '02:43', heat: 69,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.18235v1'
+    },
+    {
+      id: 4694,
+      zh: { title: '[arXiv] Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes', desc: 'To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exa' },
+      ja: { title: '[arXiv] Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes', desc: 'To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exa' },
+      en: { title: '[arXiv] Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes', desc: 'To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exa' },
+      source: 'arXiv', time: '02:43', heat: 79,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.18228v1'
+    },
+    {
+      id: 1809,
+      zh: { title: '[arXiv] Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints', desc: 'Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented' },
+      ja: { title: '[arXiv] Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints', desc: 'Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented' },
+      en: { title: '[arXiv] Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints', desc: 'Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented' },
+      source: 'arXiv', time: '02:43', heat: 85,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.18144v1'
+    },
+    {
+      id: 3933,
+      zh: { title: '[arXiv] O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning', desc: 'Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an indust' },
+      ja: { title: '[arXiv] O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning', desc: 'Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an indust' },
+      en: { title: '[arXiv] O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning', desc: 'Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an indust' },
+      source: 'arXiv', time: '02:43', heat: 77,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.18142v1'
+    },
+    {
+      id: 5572,
+      zh: { title: '[arXiv] How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs', desc: 'Modern LLMs are alarmingly susceptible to surprisingly simple immaterial changes of input prompts: a' },
+      ja: { title: '[arXiv] How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs', desc: 'Modern LLMs are alarmingly susceptible to surprisingly simple immaterial changes of input prompts: a' },
+      en: { title: '[arXiv] How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs', desc: 'Modern LLMs are alarmingly susceptible to surprisingly simple immaterial changes of input prompts: a' },
+      source: 'arXiv', time: '02:43', heat: 77,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.18114v1'
+    },
+  ]},
   { day: '2026-07-20', items: [
     {
-      id: 3466,
-      zh: { title: 'China\'s open-weights AI strategy is winning', desc: '' },
-      ja: { title: 'China\'s open-weights AI strategy is winning', desc: '' },
-      en: { title: 'China\'s open-weights AI strategy is winning', desc: '' },
-      source: 'HN (benwerd)', time: '14:21', heat: 95,
-      tags: ["model", "product"], url: 'https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/'
+      id: 1626,
+      zh: { title: 'Who\'s afraid of Chinese models?', desc: '' },
+      ja: { title: 'Who\'s afraid of Chinese models?', desc: '' },
+      en: { title: 'Who\'s afraid of Chinese models?', desc: '' },
+      source: 'HN (mfiguiere)', time: '11:05', heat: 95,
+      tags: ["model", "product"], url: 'https://stratechery.com/2026/whos-afraid-of-chinese-models/'
     },
     {
-      id: 8522,
-      zh: { title: 'How we measured AI writing across arXiv, and where the measurement breaks', desc: '' },
-      ja: { title: 'How we measured AI writing across arXiv, and where the measurement breaks', desc: '' },
-      en: { title: 'How we measured AI writing across arXiv, and where the measurement breaks', desc: '' },
-      source: 'HN (dopamine_daddy)', time: '16:36', heat: 95,
-      tags: ["model", "product"], url: 'https://unslop.run/blog/measuring-ai-writing-on-arxiv'
-    },
-    {
-      id: 9151,
+      id: 3068,
       zh: { title: 'Airport Simulator', desc: '' },
       ja: { title: 'Airport Simulator', desc: '' },
       en: { title: 'Airport Simulator', desc: '' },
@@ -27,60 +61,30 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://airport.apunen.com/'
     },
     {
-      id: 5882,
+      id: 1310,
+      zh: { title: 'China’s open-weights AI strategy is winning', desc: '' },
+      ja: { title: 'China’s open-weights AI strategy is winning', desc: '' },
+      en: { title: 'China’s open-weights AI strategy is winning', desc: '' },
+      source: 'HN (benwerd)', time: '14:21', heat: 95,
+      tags: ["model", "product"], url: 'https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/'
+    },
+    {
+      id: 1607,
       zh: { title: 'Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12', desc: '' },
       ja: { title: 'Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12', desc: '' },
       en: { title: 'Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12', desc: '' },
-      source: 'HN (alexsouthmayd)', time: '16:32', heat: 64,
+      source: 'HN (alexsouthmayd)', time: '16:32', heat: 82,
       tags: ["model", "product"], url: 'https://news.ycombinator.com/item?id=48981136'
     },
+  ]},
+  { day: '2026-07-10', items: [
     {
-      id: 4698,
-      zh: { title: 'An Empirical Study: AI Agent Rules Need Context and Layered Enforcement', desc: '' },
-      ja: { title: 'An Empirical Study: AI Agent Rules Need Context and Layered Enforcement', desc: '' },
-      en: { title: 'An Empirical Study: AI Agent Rules Need Context and Layered Enforcement', desc: '' },
-      source: 'HN (matt_d)', time: '18:10', heat: 56,
-      tags: ["model", "product"], url: 'https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/'
-    },
-    {
-      id: 2778,
-      zh: { title: '[arXiv] An Exam for Active Observers', desc: 'Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather tha' },
-      ja: { title: '[arXiv] An Exam for Active Observers', desc: 'Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather tha' },
-      en: { title: '[arXiv] An Exam for Active Observers', desc: 'Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather tha' },
-      source: 'arXiv', time: '19:43', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.16165v1'
-    },
-    {
-      id: 1897,
-      zh: { title: '[arXiv] ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learni', desc: 'Multimodal Scientific Claim Verification (MSCV) requires models to verify scientific claims using vi' },
-      ja: { title: '[arXiv] ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learni', desc: 'Multimodal Scientific Claim Verification (MSCV) requires models to verify scientific claims using vi' },
-      en: { title: '[arXiv] ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learni', desc: 'Multimodal Scientific Claim Verification (MSCV) requires models to verify scientific claims using vi' },
-      source: 'arXiv', time: '19:43', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.16131v1'
-    },
-    {
-      id: 9424,
-      zh: { title: '[arXiv] Understanding Reasoning from Pretraining to Post-Training', desc: 'Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex ' },
-      ja: { title: '[arXiv] Understanding Reasoning from Pretraining to Post-Training', desc: 'Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex ' },
-      en: { title: '[arXiv] Understanding Reasoning from Pretraining to Post-Training', desc: 'Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex ' },
-      source: 'arXiv', time: '19:43', heat: 74,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.16097v1'
-    },
-    {
-      id: 3871,
-      zh: { title: '[arXiv] HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying ', desc: 'Multimodal sarcasm and cyberbullying detection remain challenging because the intended meaning often' },
-      ja: { title: '[arXiv] HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying ', desc: 'Multimodal sarcasm and cyberbullying detection remain challenging because the intended meaning often' },
-      en: { title: '[arXiv] HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying ', desc: 'Multimodal sarcasm and cyberbullying detection remain challenging because the intended meaning often' },
-      source: 'arXiv', time: '19:43', heat: 77,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.16076v1'
-    },
-    {
-      id: 9383,
-      zh: { title: '[arXiv] Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work', desc: 'Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI be' },
-      ja: { title: '[arXiv] Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work', desc: 'Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI be' },
-      en: { title: '[arXiv] Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work', desc: 'Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI be' },
-      source: 'arXiv', time: '19:43', heat: 66,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.16057v1'
+      id: 2216,
+      zh: { title: 'My two year old taught me constraint solving', desc: '' },
+      ja: { title: 'My two year old taught me constraint solving', desc: '' },
+      en: { title: 'My two year old taught me constraint solving', desc: '' },
+      source: 'HN (bambataa)', time: '19:32', heat: 69,
+      tags: ["model", "product"], url: 'https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/'
     },
   ]},
 ];
