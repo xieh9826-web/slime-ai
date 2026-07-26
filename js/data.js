@@ -1,88 +1,46 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-25T19:07:08.703254+00:00
+// Generated: 2026-07-26T02:49:20.033606+00:00
 const NEWS_DATA = [
   { day: '2026-07-25', items: [
     {
-      id: 9407,
-      zh: { title: 'Open-weight AI is having its Kubernetes moment', desc: '' },
-      ja: { title: 'Open-weight AI is having its Kubernetes moment', desc: '' },
-      en: { title: 'Open-weight AI is having its Kubernetes moment', desc: '' },
-      source: 'HN (tknaup)', time: '14:49', heat: 95,
-      tags: ["model", "product"], url: 'https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/'
+      id: 1467,
+      zh: { title: 'Clinical failure rates over the decades: yikes', desc: '' },
+      ja: { title: 'Clinical failure rates over the decades: yikes', desc: '' },
+      en: { title: 'Clinical failure rates over the decades: yikes', desc: '' },
+      source: 'HN (EA-3167)', time: '22:57', heat: 76,
+      tags: ["model", "product"], url: 'https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes'
     },
     {
-      id: 2301,
-      zh: { title: 'Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits', desc: '' },
-      ja: { title: 'Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits', desc: '' },
-      en: { title: 'Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits', desc: '' },
-      source: 'HN (paulpauper)', time: '15:51', heat: 72,
-      tags: ["model", "product"], url: 'https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits'
+      id: 3307,
+      zh: { title: 'Cloudflare\'s new AI traffic options for customers', desc: '' },
+      ja: { title: 'Cloudflare\'s new AI traffic options for customers', desc: '' },
+      en: { title: 'Cloudflare\'s new AI traffic options for customers', desc: '' },
+      source: 'HN (alphabetatango)', time: '22:50', heat: 73,
+      tags: ["model", "product"], url: 'https://blog.cloudflare.com/content-independence-day-ai-options/'
     },
     {
-      id: 1970,
-      zh: { title: 'UK AISI / Caisi Preliminary Assessment of Kimi K3\'s Cyber Capabilities', desc: '' },
-      ja: { title: 'UK AISI / Caisi Preliminary Assessment of Kimi K3\'s Cyber Capabilities', desc: '' },
-      en: { title: 'UK AISI / Caisi Preliminary Assessment of Kimi K3\'s Cyber Capabilities', desc: '' },
-      source: 'HN (walrus01)', time: '04:20', heat: 95,
-      tags: ["model", "product"], url: 'https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities'
+      id: 2685,
+      zh: { title: 'The new rules of context engineering for Claude 5 generation models', desc: '' },
+      ja: { title: 'The new rules of context engineering for Claude 5 generation models', desc: '' },
+      en: { title: 'The new rules of context engineering for Claude 5 generation models', desc: '' },
+      source: 'HN (mellosouls)', time: '20:42', heat: 95,
+      tags: ["model", "product"], url: 'https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models'
     },
     {
-      id: 3389,
-      zh: { title: 'The AI Productivity Illusion', desc: '' },
-      ja: { title: 'The AI Productivity Illusion', desc: '' },
-      en: { title: 'The AI Productivity Illusion', desc: '' },
-      source: 'HN (quick_brown_fox)', time: '13:43', heat: 56,
-      tags: ["model", "product"], url: 'https://www.hardresetmedia.com/p/the-ai-productivity-illusion'
+      id: 9447,
+      zh: { title: 'Running a 28.9M parameter LLM on an $8 microcontroller', desc: '' },
+      ja: { title: 'Running a 28.9M parameter LLM on an $8 microcontroller', desc: '' },
+      en: { title: 'Running a 28.9M parameter LLM on an $8 microcontroller', desc: '' },
+      source: 'HN (boveyking)', time: '18:59', heat: 94,
+      tags: ["model", "product"], url: 'https://github.com/slvDev/esp32-ai'
     },
     {
-      id: 7764,
-      zh: { title: '[arXiv] OpenForgeRL: Train Harness-native Agents in Any Environment', desc: 'Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to d' },
-      ja: { title: '[arXiv] OpenForgeRL: Train Harness-native Agents in Any Environment', desc: 'Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to d' },
-      en: { title: '[arXiv] OpenForgeRL: Train Harness-native Agents in Any Environment', desc: 'Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to d' },
-      source: 'arXiv', time: '19:07', heat: 74,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.21557v1'
-    },
-    {
-      id: 9387,
-      zh: { title: '[arXiv] The Boundaries of Automation: A Theory of Persistent Human Participation', desc: 'The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human pa' },
-      ja: { title: '[arXiv] The Boundaries of Automation: A Theory of Persistent Human Participation', desc: 'The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human pa' },
-      en: { title: '[arXiv] The Boundaries of Automation: A Theory of Persistent Human Participation', desc: 'The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human pa' },
-      source: 'arXiv', time: '19:07', heat: 75,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.21547v1'
-    },
-    {
-      id: 6062,
-      zh: { title: '[arXiv] GS-Agent: Creating 4D Physical Worlds With Generative Simulation', desc: 'Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fasci' },
-      ja: { title: '[arXiv] GS-Agent: Creating 4D Physical Worlds With Generative Simulation', desc: 'Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fasci' },
-      en: { title: '[arXiv] GS-Agent: Creating 4D Physical Worlds With Generative Simulation', desc: 'Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fasci' },
-      source: 'arXiv', time: '19:07', heat: 69,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.21522v1'
-    },
-    {
-      id: 5454,
-      zh: { title: '[arXiv] Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to', desc: 'A rhetorical figure that Cicero and Quintilian catalogued two thousand years ago reappears, systemat' },
-      ja: { title: '[arXiv] Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to', desc: 'A rhetorical figure that Cicero and Quintilian catalogued two thousand years ago reappears, systemat' },
-      en: { title: '[arXiv] Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to', desc: 'A rhetorical figure that Cicero and Quintilian catalogued two thousand years ago reappears, systemat' },
-      source: 'arXiv', time: '19:07', heat: 80,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.21498v1'
-    },
-    {
-      id: 9740,
-      zh: { title: '[arXiv] Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data ', desc: 'Large language models (LLMs) and agents are now widely used tools in code development, with data typ' },
-      ja: { title: '[arXiv] Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data ', desc: 'Large language models (LLMs) and agents are now widely used tools in code development, with data typ' },
-      en: { title: '[arXiv] Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data ', desc: 'Large language models (LLMs) and agents are now widely used tools in code development, with data typ' },
-      source: 'arXiv', time: '19:07', heat: 77,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.21482v1'
-    },
-  ]},
-  { day: '2026-07-22', items: [
-    {
-      id: 3277,
-      zh: { title: 'Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)', desc: '' },
-      ja: { title: 'Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)', desc: '' },
-      en: { title: 'Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)', desc: '' },
-      source: 'HN (JojoFatsani)', time: '19:42', heat: 58,
-      tags: ["model", "product"], url: 'https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit'
+      id: 3181,
+      zh: { title: 'DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]', desc: '' },
+      ja: { title: 'DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]', desc: '' },
+      en: { title: 'DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]', desc: '' },
+      source: 'HN (oliculipolicula)', time: '23:32', heat: 95,
+      tags: ["model", "product"], url: 'https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf'
     },
   ]},
 ];
