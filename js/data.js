@@ -1,90 +1,86 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-07-28T08:34:18.439185+00:00
+// Generated: 2026-07-28T14:07:24.914139+00:00
 const NEWS_DATA = [
   { day: '2026-07-28', items: [
     {
-      id: 4682,
+      id: 9657,
+      zh: { title: 'Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code', desc: '' },
+      ja: { title: 'Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code', desc: '' },
+      en: { title: 'Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code', desc: '' },
+      source: 'HN (permute)', time: '13:07', heat: 68,
+      tags: ["model", "product"], url: 'https://github.com/schildep/verified-3d-mesh-intersection'
+    },
+    {
+      id: 2069,
+      zh: { title: 'Google\'s Beyond Zero: Enterprise Security for the AI Era', desc: '' },
+      ja: { title: 'Google\'s Beyond Zero: Enterprise Security for the AI Era', desc: '' },
+      en: { title: 'Google\'s Beyond Zero: Enterprise Security for the AI Era', desc: '' },
+      source: 'HN (jordigg)', time: '09:59', heat: 81,
+      tags: ["model", "product"], url: 'https://spawn-queue.acm.org/doi/10.1145/3819083'
+    },
+    {
+      id: 5703,
+      zh: { title: 'DMARC Has Been Public Since 2012. 68.4% of Domains Still Don\'t Enforce It', desc: '' },
+      ja: { title: 'DMARC Has Been Public Since 2012. 68.4% of Domains Still Don\'t Enforce It', desc: '' },
+      en: { title: 'DMARC Has Been Public Since 2012. 68.4% of Domains Still Don\'t Enforce It', desc: '' },
+      source: 'HN (adulion)', time: '10:20', heat: 70,
+      tags: ["model", "product"], url: 'https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026'
+    },
+    {
+      id: 2882,
+      zh: { title: 'Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)', desc: '' },
+      ja: { title: 'Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)', desc: '' },
+      en: { title: 'Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)', desc: '' },
+      source: 'HN (882542F3884314B)', time: '12:02', heat: 61,
+      tags: ["model", "product"], url: 'https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/'
+    },
+    {
+      id: 2071,
+      zh: { title: 'Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs', desc: '' },
+      ja: { title: 'Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs', desc: '' },
+      en: { title: 'Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs', desc: '' },
+      source: 'HN (ruhani_grover)', time: '13:13', heat: 63,
+      tags: ["model", "product"], url: 'https://github.com/ctrlb-hq/ctrlb-decompose'
+    },
+    {
+      id: 4916,
       zh: { title: '[arXiv] ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding', desc: 'Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, ' },
       ja: { title: '[arXiv] ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding', desc: 'Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, ' },
       en: { title: '[arXiv] ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding', desc: 'Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, ' },
-      source: 'arXiv', time: '08:34', heat: 68,
+      source: 'arXiv', time: '14:07', heat: 78,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.24743v1'
     },
     {
-      id: 9553,
+      id: 6763,
       zh: { title: '[arXiv] The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and ', desc: 'Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally i' },
       ja: { title: '[arXiv] The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and ', desc: 'Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally i' },
       en: { title: '[arXiv] The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and ', desc: 'Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally i' },
-      source: 'arXiv', time: '08:34', heat: 84,
+      source: 'arXiv', time: '14:07', heat: 80,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.24720v1'
     },
     {
-      id: 2698,
+      id: 3114,
       zh: { title: '[arXiv] DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data', desc: 'Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs' },
       ja: { title: '[arXiv] DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data', desc: 'Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs' },
       en: { title: '[arXiv] DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data', desc: 'Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs' },
-      source: 'arXiv', time: '08:34', heat: 84,
+      source: 'arXiv', time: '14:07', heat: 75,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.24717v1'
     },
     {
-      id: 4058,
+      id: 7435,
       zh: { title: '[arXiv] Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects', desc: 'The wide-scale use of sparse autoencoders (SAEs) as interpretability tools is limited by inconsisten' },
       ja: { title: '[arXiv] Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects', desc: 'The wide-scale use of sparse autoencoders (SAEs) as interpretability tools is limited by inconsisten' },
       en: { title: '[arXiv] Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects', desc: 'The wide-scale use of sparse autoencoders (SAEs) as interpretability tools is limited by inconsisten' },
-      source: 'arXiv', time: '08:34', heat: 71,
+      source: 'arXiv', time: '14:07', heat: 72,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.24645v1'
     },
     {
-      id: 6794,
+      id: 4273,
       zh: { title: '[arXiv] Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repai', desc: 'Generate--test--revise loops are common in coding agents, but repetition alone provides no reliabili' },
       ja: { title: '[arXiv] Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repai', desc: 'Generate--test--revise loops are common in coding agents, but repetition alone provides no reliabili' },
       en: { title: '[arXiv] Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repai', desc: 'Generate--test--revise loops are common in coding agents, but repetition alone provides no reliabili' },
-      source: 'arXiv', time: '08:34', heat: 82,
+      source: 'arXiv', time: '14:07', heat: 84,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2607.24604v1'
-    },
-  ]},
-  { day: '2026-07-27', items: [
-    {
-      id: 1079,
-      zh: { title: 'Kimi K3 Now Available via Telnyx Inference API', desc: '' },
-      ja: { title: 'Kimi K3 Now Available via Telnyx Inference API', desc: '' },
-      en: { title: 'Kimi K3 Now Available via Telnyx Inference API', desc: '' },
-      source: 'HN (fionaattelnyx)', time: '22:46', heat: 87,
-      tags: ["model", "product"], url: 'https://telnyx.com/release-notes/kimi-k3-telnyx-inference'
-    },
-    {
-      id: 3409,
-      zh: { title: 'Self-contained highly-portable Python distributions', desc: '' },
-      ja: { title: 'Self-contained highly-portable Python distributions', desc: '' },
-      en: { title: 'Self-contained highly-portable Python distributions', desc: '' },
-      source: 'HN (jcbhmr)', time: '18:43', heat: 95,
-      tags: ["model", "product"], url: 'https://gregoryszorc.com/docs/python-build-standalone/main/'
-    },
-    {
-      id: 4517,
-      zh: { title: 'Netflix employee fired for sharing personal details in retreat trust exercise', desc: '' },
-      ja: { title: 'Netflix employee fired for sharing personal details in retreat trust exercise', desc: '' },
-      en: { title: 'Netflix employee fired for sharing personal details in retreat trust exercise', desc: '' },
-      source: 'HN (softwaredoug)', time: '23:21', heat: 95,
-      tags: ["model", "product"], url: 'https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/'
-    },
-    {
-      id: 4685,
-      zh: { title: 'Exploiting Volvo/Eicher\'s fleet platform to gain control over all users/vehicles', desc: '' },
-      ja: { title: 'Exploiting Volvo/Eicher\'s fleet platform to gain control over all users/vehicles', desc: '' },
-      en: { title: 'Exploiting Volvo/Eicher\'s fleet platform to gain control over all users/vehicles', desc: '' },
-      source: 'HN (EatonZ)', time: '15:08', heat: 95,
-      tags: ["model", "product"], url: 'https://eaton-works.com/2026/07/27/my-eicher-hack/'
-    },
-  ]},
-  { day: '2026-07-23', items: [
-    {
-      id: 6778,
-      zh: { title: 'Securing Services with Rootless Containers', desc: '' },
-      ja: { title: 'Securing Services with Rootless Containers', desc: '' },
-      en: { title: 'Securing Services with Rootless Containers', desc: '' },
-      source: 'HN (speckx)', time: '13:11', heat: 95,
-      tags: ["model", "product"], url: 'https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/'
     },
   ]},
 ];
