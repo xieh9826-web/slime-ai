@@ -1,88 +1,46 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-08-09T18:40:14.086715+00:00
+// Generated: 2026-08-10T01:49:05.625417+00:00
 const NEWS_DATA = [
   { day: '2026-08-09', items: [
     {
-      id: 3093,
-      zh: { title: 'Human vs. AI – Diff-based line-level provenance for text under agentic editing', desc: '' },
-      ja: { title: 'Human vs. AI – Diff-based line-level provenance for text under agentic editing', desc: '' },
-      en: { title: 'Human vs. AI – Diff-based line-level provenance for text under agentic editing', desc: '' },
-      source: 'HN (eighttrigrams)', time: '15:25', heat: 60,
-      tags: ["model", "product"], url: 'https://github.com/eighttrigrams/us-vs-them'
+      id: 7718,
+      zh: { title: 'How I use LLMs to learn complex topics', desc: '' },
+      ja: { title: 'How I use LLMs to learn complex topics', desc: '' },
+      en: { title: 'How I use LLMs to learn complex topics', desc: '' },
+      source: 'HN (laurentiurad)', time: '19:16', heat: 95,
+      tags: ["model", "product"], url: 'https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'
     },
     {
-      id: 1227,
-      zh: { title: 'An OpenAI Strategist Says AI Labs Should Rival Government Power', desc: '' },
-      ja: { title: 'An OpenAI Strategist Says AI Labs Should Rival Government Power', desc: '' },
-      en: { title: 'An OpenAI Strategist Says AI Labs Should Rival Government Power', desc: '' },
-      source: 'HN (ashurandi)', time: '16:18', heat: 56,
-      tags: ["model", "product"], url: 'https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/'
+      id: 8829,
+      zh: { title: 'Tuxedo No. 2 – Cocktail recipes', desc: '' },
+      ja: { title: 'Tuxedo No. 2 – Cocktail recipes', desc: '' },
+      en: { title: 'Tuxedo No. 2 – Cocktail recipes', desc: '' },
+      source: 'HN (smartmic)', time: '20:48', heat: 73,
+      tags: ["model", "product"], url: 'https://tuxedono2.com'
     },
     {
-      id: 6030,
-      zh: { title: 'Show HN: Airy – Free, fast, and simple voice content creation', desc: '' },
-      ja: { title: 'Show HN: Airy – Free, fast, and simple voice content creation', desc: '' },
-      en: { title: 'Show HN: Airy – Free, fast, and simple voice content creation', desc: '' },
-      source: 'HN (login588)', time: '09:29', heat: 64,
-      tags: ["model", "product"], url: 'https://airy.so'
+      id: 5176,
+      zh: { title: 'The tragedy of the commons, AI edition', desc: '' },
+      ja: { title: 'The tragedy of the commons, AI edition', desc: '' },
+      en: { title: 'The tragedy of the commons, AI edition', desc: '' },
+      source: 'HN (simonpure)', time: '19:43', heat: 87,
+      tags: ["model", "product"], url: 'https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition'
     },
     {
-      id: 3962,
-      zh: { title: 'The original URL for this prediction will no longer be available in 11 years (2011)', desc: '' },
-      ja: { title: 'The original URL for this prediction will no longer be available in 11 years (2011)', desc: '' },
-      en: { title: 'The original URL for this prediction will no longer be available in 11 years (2011)', desc: '' },
-      source: 'HN (doubletwoyou)', time: '04:30', heat: 95,
-      tags: ["model", "product"], url: 'http://longbets.org/601/'
+      id: 3277,
+      zh: { title: 'The Hacker\'s Renaissance (2025)', desc: '' },
+      ja: { title: 'The Hacker\'s Renaissance (2025)', desc: '' },
+      en: { title: 'The Hacker\'s Renaissance (2025)', desc: '' },
+      source: 'HN (yu3zhou4)', time: '20:18', heat: 95,
+      tags: ["model", "product"], url: 'https://phrack.org/issues/72/19#article'
     },
     {
-      id: 5344,
-      zh: { title: '[arXiv] Learning When to Trust via Selective Context Preference Optimization', desc: 'Language models increasingly condition their answers on external signals, and a single misleading on' },
-      ja: { title: '[arXiv] Learning When to Trust via Selective Context Preference Optimization', desc: 'Language models increasingly condition their answers on external signals, and a single misleading on' },
-      en: { title: '[arXiv] Learning When to Trust via Selective Context Preference Optimization', desc: 'Language models increasingly condition their answers on external signals, and a single misleading on' },
-      source: 'arXiv', time: '18:40', heat: 65,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.06377v1'
-    },
-    {
-      id: 3504,
-      zh: { title: '[arXiv] AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Informatio', desc: 'Deciding which of two agents is stronger means playing games until skill outweighs luck, and every g' },
-      ja: { title: '[arXiv] AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Informatio', desc: 'Deciding which of two agents is stronger means playing games until skill outweighs luck, and every g' },
-      en: { title: '[arXiv] AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Informatio', desc: 'Deciding which of two agents is stronger means playing games until skill outweighs luck, and every g' },
-      source: 'arXiv', time: '18:40', heat: 85,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.06362v1'
-    },
-    {
-      id: 5431,
-      zh: { title: '[arXiv] Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents', desc: 'Task-oriented conversational agents are evaluated using curated or automatically generated benchmark' },
-      ja: { title: '[arXiv] Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents', desc: 'Task-oriented conversational agents are evaluated using curated or automatically generated benchmark' },
-      en: { title: '[arXiv] Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents', desc: 'Task-oriented conversational agents are evaluated using curated or automatically generated benchmark' },
-      source: 'arXiv', time: '18:40', heat: 66,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.06329v1'
-    },
-    {
-      id: 5056,
-      zh: { title: '[arXiv] Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations', desc: 'Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed' },
-      ja: { title: '[arXiv] Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations', desc: 'Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed' },
-      en: { title: '[arXiv] Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations', desc: 'Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed' },
-      source: 'arXiv', time: '18:40', heat: 73,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.06305v1'
-    },
-    {
-      id: 9782,
-      zh: { title: '[arXiv] HarnessOpt-Bench: Evaluating LLMs at Harness Optimization', desc: 'As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the ' },
-      ja: { title: '[arXiv] HarnessOpt-Bench: Evaluating LLMs at Harness Optimization', desc: 'As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the ' },
-      en: { title: '[arXiv] HarnessOpt-Bench: Evaluating LLMs at Harness Optimization', desc: 'As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the ' },
-      source: 'arXiv', time: '18:40', heat: 79,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.06301v1'
-    },
-  ]},
-  { day: '2026-08-05', items: [
-    {
-      id: 8180,
-      zh: { title: 'Cross-Compilation with Wails', desc: '' },
-      ja: { title: 'Cross-Compilation with Wails', desc: '' },
-      en: { title: 'Cross-Compilation with Wails', desc: '' },
-      source: 'HN (auraham)', time: '20:29', heat: 51,
-      tags: ["model", "product"], url: 'https://chriswheeler.dev/posts/cross-compilation-with-wails/'
+      id: 7067,
+      zh: { title: 'AI assistant hacks gym website in first known Australian autonomous cyber attack', desc: '' },
+      ja: { title: 'AI assistant hacks gym website in first known Australian autonomous cyber attack', desc: '' },
+      en: { title: 'AI assistant hacks gym website in first known Australian autonomous cyber attack', desc: '' },
+      source: 'HN (stared)', time: '21:52', heat: 71,
+      tags: ["model", "product"], url: 'https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986'
     },
   ]},
 ];
