@@ -1,86 +1,88 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-08-26T19:46:29.803660+00:00
+// Generated: 2026-08-27T07:52:36.337458+00:00
 const NEWS_DATA = [
+  { day: '2026-08-27', items: [
+    {
+      id: 7336,
+      zh: { title: 'CEO fired developers to make room for AI. Developers create open source AI CEO', desc: '' },
+      ja: { title: 'CEO fired developers to make room for AI. Developers create open source AI CEO', desc: '' },
+      en: { title: 'CEO fired developers to make room for AI. Developers create open source AI CEO', desc: '' },
+      source: 'HN (GrumpySciGuy)', time: '01:46', heat: 95,
+      tags: ["model", "product"], url: 'https://github.com/SenteLabsAI/OpenExecutive'
+    },
+    {
+      id: 7690,
+      zh: { title: 'Laion Big Video Dataset', desc: '' },
+      ja: { title: 'Laion Big Video Dataset', desc: '' },
+      en: { title: 'Laion Big Video Dataset', desc: '' },
+      source: 'HN (ks2048)', time: '01:50', heat: 77,
+      tags: ["model", "product"], url: 'https://projects.laion.ai/bvd/'
+    },
+    {
+      id: 4603,
+      zh: { title: '[arXiv] SwarmWorld: Stigmergic technological evolution in societies of language-model agents', desc: 'Collective intelligence can emerge when individuals coordinate through a shared environment, allowin' },
+      ja: { title: '[arXiv] SwarmWorld: Stigmergic technological evolution in societies of language-model agents', desc: 'Collective intelligence can emerge when individuals coordinate through a shared environment, allowin' },
+      en: { title: '[arXiv] SwarmWorld: Stigmergic technological evolution in societies of language-model agents', desc: 'Collective intelligence can emerge when individuals coordinate through a shared environment, allowin' },
+      source: 'arXiv', time: '07:52', heat: 73,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.26081v1'
+    },
+    {
+      id: 5464,
+      zh: { title: '[arXiv] Prefix Sliding for efficient test-time scaling', desc: 'Test-time scaling uses extra test-time compute to improve performance, such as letting language mode' },
+      ja: { title: '[arXiv] Prefix Sliding for efficient test-time scaling', desc: 'Test-time scaling uses extra test-time compute to improve performance, such as letting language mode' },
+      en: { title: '[arXiv] Prefix Sliding for efficient test-time scaling', desc: 'Test-time scaling uses extra test-time compute to improve performance, such as letting language mode' },
+      source: 'arXiv', time: '07:52', heat: 73,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.26070v1'
+    },
+    {
+      id: 4237,
+      zh: { title: '[arXiv] $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning', desc: 'Reasoning in language allows foundation models to spend more test-time compute on hard problems, suc' },
+      ja: { title: '[arXiv] $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning', desc: 'Reasoning in language allows foundation models to spend more test-time compute on hard problems, suc' },
+      en: { title: '[arXiv] $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning', desc: 'Reasoning in language allows foundation models to spend more test-time compute on hard problems, suc' },
+      source: 'arXiv', time: '07:52', heat: 81,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.26053v1'
+    },
+    {
+      id: 8713,
+      zh: { title: '[arXiv] How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention', desc: 'Choosing the rank of a low-rank adaptation (LoRA) update is usually an empirical task. In this paper' },
+      ja: { title: '[arXiv] How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention', desc: 'Choosing the rank of a low-rank adaptation (LoRA) update is usually an empirical task. In this paper' },
+      en: { title: '[arXiv] How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention', desc: 'Choosing the rank of a low-rank adaptation (LoRA) update is usually an empirical task. In this paper' },
+      source: 'arXiv', time: '07:52', heat: 76,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.26052v1'
+    },
+    {
+      id: 9369,
+      zh: { title: '[arXiv] Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Syste', desc: 'Answer accuracy is an insufficient reliability signal for LLM data agents. In structured-data tasks,' },
+      ja: { title: '[arXiv] Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Syste', desc: 'Answer accuracy is an insufficient reliability signal for LLM data agents. In structured-data tasks,' },
+      en: { title: '[arXiv] Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Syste', desc: 'Answer accuracy is an insufficient reliability signal for LLM data agents. In structured-data tasks,' },
+      source: 'arXiv', time: '07:52', heat: 81,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.26036v1'
+    },
+  ]},
   { day: '2026-08-26', items: [
     {
-      id: 1939,
-      zh: { title: 'Tailcat', desc: '' },
-      ja: { title: 'Tailcat', desc: '' },
-      en: { title: 'Tailcat', desc: '' },
+      id: 1755,
+      zh: { title: 'Tailcat – Like netcat, but over Tailscale’s data plane', desc: '' },
+      ja: { title: 'Tailcat – Like netcat, but over Tailscale’s data plane', desc: '' },
+      en: { title: 'Tailcat – Like netcat, but over Tailscale’s data plane', desc: '' },
       source: 'HN (nderjung)', time: '17:42', heat: 95,
       tags: ["model", "product"], url: 'https://github.com/tailscale/tailcat'
     },
     {
-      id: 7850,
-      zh: { title: 'Study Reveals UnitedHealth\'s Profit Margins Four Times What It Claimed [pdf]', desc: '' },
-      ja: { title: 'Study Reveals UnitedHealth\'s Profit Margins Four Times What It Claimed [pdf]', desc: '' },
-      en: { title: 'Study Reveals UnitedHealth\'s Profit Margins Four Times What It Claimed [pdf]', desc: '' },
-      source: 'HN (CGMthrowaway)', time: '18:20', heat: 95,
-      tags: ["model", "product"], url: 'https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf'
+      id: 7255,
+      zh: { title: 'Serve Markdown to AI Agents with Accept Headers', desc: '' },
+      ja: { title: 'Serve Markdown to AI Agents with Accept Headers', desc: '' },
+      en: { title: 'Serve Markdown to AI Agents with Accept Headers', desc: '' },
+      source: 'HN (tilt)', time: '19:45', heat: 95,
+      tags: ["model", "product"], url: 'https://acceptmarkdown.com/'
     },
     {
-      id: 5429,
-      zh: { title: 'It’s so hard to finish an idea that is not yours and is just suggested by AI', desc: '' },
-      ja: { title: 'It’s so hard to finish an idea that is not yours and is just suggested by AI', desc: '' },
-      en: { title: 'It’s so hard to finish an idea that is not yours and is just suggested by AI', desc: '' },
-      source: 'HN (zazuke)', time: '15:30', heat: 95,
-      tags: ["model", "product"], url: 'https://www.ssp.sh/brain/using-obsidian-with-ai/'
-    },
-    {
-      id: 1042,
-      zh: { title: 'PageRank explained', desc: '' },
-      ja: { title: 'PageRank explained', desc: '' },
-      en: { title: 'PageRank explained', desc: '' },
-      source: 'HN (pkoird)', time: '14:29', heat: 94,
-      tags: ["model", "product"], url: 'https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/'
-    },
-    {
-      id: 5444,
-      zh: { title: 'VMs won\'t contain cyber-capable agents', desc: '' },
-      ja: { title: 'VMs won\'t contain cyber-capable agents', desc: '' },
-      en: { title: 'VMs won\'t contain cyber-capable agents', desc: '' },
-      source: 'HN (polyrand)', time: '14:49', heat: 95,
-      tags: ["model", "product"], url: 'https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/'
-    },
-    {
-      id: 1361,
-      zh: { title: '[arXiv] Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses', desc: 'Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure' },
-      ja: { title: '[arXiv] Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses', desc: 'Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure' },
-      en: { title: '[arXiv] Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses', desc: 'Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure' },
-      source: 'arXiv', time: '19:46', heat: 72,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.24876v1'
-    },
-    {
-      id: 5389,
-      zh: { title: '[arXiv] Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows', desc: 'Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosur' },
-      ja: { title: '[arXiv] Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows', desc: 'Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosur' },
-      en: { title: '[arXiv] Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows', desc: 'Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosur' },
-      source: 'arXiv', time: '19:46', heat: 67,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.24842v1'
-    },
-    {
-      id: 1632,
-      zh: { title: '[arXiv] The RAT: A Unified Bayesian Model for RAG Evaluation', desc: 'Evaluating Retrieval-Augmented Generation (RAG) systems requires assessing not only end-to-end corre' },
-      ja: { title: '[arXiv] The RAT: A Unified Bayesian Model for RAG Evaluation', desc: 'Evaluating Retrieval-Augmented Generation (RAG) systems requires assessing not only end-to-end corre' },
-      en: { title: '[arXiv] The RAT: A Unified Bayesian Model for RAG Evaluation', desc: 'Evaluating Retrieval-Augmented Generation (RAG) systems requires assessing not only end-to-end corre' },
-      source: 'arXiv', time: '19:46', heat: 84,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.24753v1'
-    },
-    {
-      id: 5442,
-      zh: { title: '[arXiv] Method, Mind, and Morality: How People Make Sense of Artificial Intelligence', desc: 'How can humans make sense of the rapid takeoff of artificial intelligence (AI)? We studied the sense' },
-      ja: { title: '[arXiv] Method, Mind, and Morality: How People Make Sense of Artificial Intelligence', desc: 'How can humans make sense of the rapid takeoff of artificial intelligence (AI)? We studied the sense' },
-      en: { title: '[arXiv] Method, Mind, and Morality: How People Make Sense of Artificial Intelligence', desc: 'How can humans make sense of the rapid takeoff of artificial intelligence (AI)? We studied the sense' },
-      source: 'arXiv', time: '19:46', heat: 66,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.24748v1'
-    },
-    {
-      id: 9399,
-      zh: { title: '[arXiv] Meta$^n$: Recursive Self-Improvement through Emergent Depth', desc: 'Self-improving LLM agents refine answers, not the process that produces those answers. Systems that ' },
-      ja: { title: '[arXiv] Meta$^n$: Recursive Self-Improvement through Emergent Depth', desc: 'Self-improving LLM agents refine answers, not the process that produces those answers. Systems that ' },
-      en: { title: '[arXiv] Meta$^n$: Recursive Self-Improvement through Emergent Depth', desc: 'Self-improving LLM agents refine answers, not the process that produces those answers. Systems that ' },
-      source: 'arXiv', time: '19:46', heat: 82,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.24735v1'
+      id: 8656,
+      zh: { title: 'The turbulent AI era is here', desc: '' },
+      ja: { title: 'The turbulent AI era is here', desc: '' },
+      en: { title: 'The turbulent AI era is here', desc: '' },
+      source: 'HN (LVB)', time: '15:55', heat: 95,
+      tags: ["model", "product"], url: 'https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make'
     },
   ]},
 ];
