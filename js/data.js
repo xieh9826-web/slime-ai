@@ -1,9 +1,51 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-01T20:39:01.563378+00:00
+// Generated: 2026-09-02T03:14:30.886192+00:00
 const NEWS_DATA = [
+  { day: '2026-09-02', items: [
+    {
+      id: 3585,
+      zh: { title: '[arXiv] Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation', desc: 'Evaluating software engineering agents on realistic benchmarks is costly, since each task may requir' },
+      ja: { title: '[arXiv] Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation', desc: 'Evaluating software engineering agents on realistic benchmarks is costly, since each task may requir' },
+      en: { title: '[arXiv] Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation', desc: 'Evaluating software engineering agents on realistic benchmarks is costly, since each task may requir' },
+      source: 'arXiv', time: '03:14', heat: 65,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.01603v1'
+    },
+    {
+      id: 9191,
+      zh: { title: '[arXiv] Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation', desc: 'The repository-level code generation task requires synthesizing code that satisfies task requirement' },
+      ja: { title: '[arXiv] Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation', desc: 'The repository-level code generation task requires synthesizing code that satisfies task requirement' },
+      en: { title: '[arXiv] Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation', desc: 'The repository-level code generation task requires synthesizing code that satisfies task requirement' },
+      source: 'arXiv', time: '03:14', heat: 66,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.01601v1'
+    },
+    {
+      id: 8293,
+      zh: { title: '[arXiv] CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?', desc: 'Dynamic agent harnesses let language models change the software that shapes their own execution. Thi' },
+      ja: { title: '[arXiv] CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?', desc: 'Dynamic agent harnesses let language models change the software that shapes their own execution. Thi' },
+      en: { title: '[arXiv] CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?', desc: 'Dynamic agent harnesses let language models change the software that shapes their own execution. Thi' },
+      source: 'arXiv', time: '03:14', heat: 73,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.01600v1'
+    },
+    {
+      id: 3573,
+      zh: { title: '[arXiv] The Rise of Verbal Reinforcement Learning', desc: 'Natural language is emerging as a primary feedback channel for improving language agents, capable of' },
+      ja: { title: '[arXiv] The Rise of Verbal Reinforcement Learning', desc: 'Natural language is emerging as a primary feedback channel for improving language agents, capable of' },
+      en: { title: '[arXiv] The Rise of Verbal Reinforcement Learning', desc: 'Natural language is emerging as a primary feedback channel for improving language agents, capable of' },
+      source: 'arXiv', time: '03:14', heat: 75,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.01597v1'
+    },
+    {
+      id: 3314,
+      zh: { title: '[arXiv] Designing Proactive Thought Partners for Writing', desc: 'Writing involves diverse cognitive activities, from ideation to revision, and writers\' needs vary ac' },
+      ja: { title: '[arXiv] Designing Proactive Thought Partners for Writing', desc: 'Writing involves diverse cognitive activities, from ideation to revision, and writers\' needs vary ac' },
+      en: { title: '[arXiv] Designing Proactive Thought Partners for Writing', desc: 'Writing involves diverse cognitive activities, from ideation to revision, and writers\' needs vary ac' },
+      source: 'arXiv', time: '03:14', heat: 73,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.01588v1'
+    },
+  ]},
   { day: '2026-09-01', items: [
     {
-      id: 3001,
+      id: 4384,
       zh: { title: 'Claude Fable 5.1 and Claude Mythos 5.1', desc: '' },
       ja: { title: 'Claude Fable 5.1 and Claude Mythos 5.1', desc: '' },
       en: { title: 'Claude Fable 5.1 and Claude Mythos 5.1', desc: '' },
@@ -11,23 +53,7 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://www.anthropic.com/claude-fable-and-mythos-5-1'
     },
     {
-      id: 9107,
-      zh: { title: 'The ChatGPT/Codex app bundles a full copy of LibreOffice', desc: '' },
-      ja: { title: 'The ChatGPT/Codex app bundles a full copy of LibreOffice', desc: '' },
-      en: { title: 'The ChatGPT/Codex app bundles a full copy of LibreOffice', desc: '' },
-      source: 'HN (timpera)', time: '20:07', heat: 69,
-      tags: ["model", "product"], url: 'https://simonwillison.net/2026/Sep/1/codex-libreoffice/'
-    },
-    {
-      id: 9069,
-      zh: { title: 'I trained a small transformer in 1.5hrs and it beats many LLMs', desc: '' },
-      ja: { title: 'I trained a small transformer in 1.5hrs and it beats many LLMs', desc: '' },
-      en: { title: 'I trained a small transformer in 1.5hrs and it beats many LLMs', desc: '' },
-      source: 'HN (porridgeraisin)', time: '09:52', heat: 95,
-      tags: ["model", "product"], url: 'https://mvakde.github.io/blog/44-on-arc-1/'
-    },
-    {
-      id: 6104,
+      id: 4978,
       zh: { title: 'How accurate have Ed Zitron\'s AI skeptic predictions been?', desc: '' },
       ja: { title: 'How accurate have Ed Zitron\'s AI skeptic predictions been?', desc: '' },
       en: { title: 'How accurate have Ed Zitron\'s AI skeptic predictions been?', desc: '' },
@@ -35,54 +61,28 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://danluu.com/zitron/'
     },
     {
-      id: 9858,
-      zh: { title: '[arXiv] BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing', desc: 'Users of a deployed language model routinely encounter behaviours that testing almost never surfaces' },
-      ja: { title: '[arXiv] BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing', desc: 'Users of a deployed language model routinely encounter behaviours that testing almost never surfaces' },
-      en: { title: '[arXiv] BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing', desc: 'Users of a deployed language model routinely encounter behaviours that testing almost never surfaces' },
-      source: 'arXiv', time: '20:39', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.31105v1'
+      id: 9508,
+      zh: { title: 'The efficient frontier of LLM inference', desc: '' },
+      ja: { title: 'The efficient frontier of LLM inference', desc: '' },
+      en: { title: 'The efficient frontier of LLM inference', desc: '' },
+      source: 'HN (philipkiely)', time: '23:48', heat: 78,
+      tags: ["model", "product"], url: 'https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/'
     },
     {
-      id: 1857,
-      zh: { title: '[arXiv] Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data', desc: 'Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earn' },
-      ja: { title: '[arXiv] Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data', desc: 'Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earn' },
-      en: { title: '[arXiv] Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data', desc: 'Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earn' },
-      source: 'arXiv', time: '20:39', heat: 65,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.31082v1'
+      id: 8023,
+      zh: { title: 'Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos', desc: '' },
+      ja: { title: 'Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos', desc: '' },
+      en: { title: 'Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos', desc: '' },
+      source: 'HN (masteranza)', time: '22:06', heat: 87,
+      tags: ["model", "product"], url: 'https://masteranza.github.io/weedout/'
     },
     {
-      id: 1311,
-      zh: { title: '[arXiv] Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents', desc: 'Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, i' },
-      ja: { title: '[arXiv] Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents', desc: 'Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, i' },
-      en: { title: '[arXiv] Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents', desc: 'Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, i' },
-      source: 'arXiv', time: '20:39', heat: 69,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.31076v1'
-    },
-    {
-      id: 9076,
-      zh: { title: '[arXiv] One note in three: a verified census of three deployed AI scribes, and the instrument that counted i', desc: 'Ambient AI scribes draft clinical notes under the reassurance that a clinician signs every note. We ' },
-      ja: { title: '[arXiv] One note in three: a verified census of three deployed AI scribes, and the instrument that counted i', desc: 'Ambient AI scribes draft clinical notes under the reassurance that a clinician signs every note. We ' },
-      en: { title: '[arXiv] One note in three: a verified census of three deployed AI scribes, and the instrument that counted i', desc: 'Ambient AI scribes draft clinical notes under the reassurance that a clinician signs every note. We ' },
-      source: 'arXiv', time: '20:39', heat: 68,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.31017v1'
-    },
-    {
-      id: 8390,
-      zh: { title: '[arXiv] LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers I', desc: 'Ambient AI scribes draft clinical notes, and published audits find their dominant error is omission:' },
-      ja: { title: '[arXiv] LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers I', desc: 'Ambient AI scribes draft clinical notes, and published audits find their dominant error is omission:' },
-      en: { title: '[arXiv] LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers I', desc: 'Ambient AI scribes draft clinical notes, and published audits find their dominant error is omission:' },
-      source: 'arXiv', time: '20:39', heat: 76,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2608.31016v1'
-    },
-  ]},
-  { day: '2026-08-29', items: [
-    {
-      id: 6071,
-      zh: { title: 'American Airlines mechanic Azriel “Al” Blackman has died', desc: '' },
-      ja: { title: 'American Airlines mechanic Azriel “Al” Blackman has died', desc: '' },
-      en: { title: 'American Airlines mechanic Azriel “Al” Blackman has died', desc: '' },
-      source: 'HN (NaOH)', time: '21:25', heat: 95,
-      tags: ["model", "product"], url: 'https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/'
+      id: 1529,
+      zh: { title: 'The ChatGPT/Codex app bundles a full copy of LibreOffice', desc: '' },
+      ja: { title: 'The ChatGPT/Codex app bundles a full copy of LibreOffice', desc: '' },
+      en: { title: 'The ChatGPT/Codex app bundles a full copy of LibreOffice', desc: '' },
+      source: 'HN (timpera)', time: '20:07', heat: 95,
+      tags: ["model", "product"], url: 'https://simonwillison.net/2026/Sep/1/codex-libreoffice/'
     },
   ]},
 ];
