@@ -1,59 +1,75 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-04T10:45:05.301539+00:00
+// Generated: 2026-09-04T15:52:15.555826+00:00
 const NEWS_DATA = [
   { day: '2026-09-04', items: [
     {
-      id: 4287,
-      zh: { title: 'Carbon-aware electricity pricing, measured daily on 38 grids', desc: '' },
-      ja: { title: 'Carbon-aware electricity pricing, measured daily on 38 grids', desc: '' },
-      en: { title: 'Carbon-aware electricity pricing, measured daily on 38 grids', desc: '' },
-      source: 'HN (High-Five)', time: '08:19', heat: 69,
-      tags: ["model", "product"], url: 'https://carbonawarepricing.com/'
+      id: 4037,
+      zh: { title: 'Google AI Mode shows same products 21.6% more expensive than traditional search', desc: '' },
+      ja: { title: 'Google AI Mode shows same products 21.6% more expensive than traditional search', desc: '' },
+      en: { title: 'Google AI Mode shows same products 21.6% more expensive than traditional search', desc: '' },
+      source: 'HN (DeepLogin)', time: '11:59', heat: 95,
+      tags: ["model", "product"], url: 'https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products'
     },
     {
-      id: 2235,
+      id: 2825,
+      zh: { title: 'Discovery of a new OpenAI agent message board', desc: '' },
+      ja: { title: 'Discovery of a new OpenAI agent message board', desc: '' },
+      en: { title: 'Discovery of a new OpenAI agent message board', desc: '' },
+      source: 'HN (moultano)', time: '11:54', heat: 95,
+      tags: ["model", "product"], url: 'https://collusion.wiki/'
+    },
+    {
+      id: 6317,
+      zh: { title: 'GMails custom domain "send as" discontinues January 2027', desc: '' },
+      ja: { title: 'GMails custom domain "send as" discontinues January 2027', desc: '' },
+      en: { title: 'GMails custom domain "send as" discontinues January 2027', desc: '' },
+      source: 'HN (sva_)', time: '15:03', heat: 76,
+      tags: ["model", "product"], url: 'https://support.google.com/mail/answer/22370?hl=en'
+    },
+    {
+      id: 8664,
       zh: { title: '[arXiv] Compile by Training: Turning Natural-Language Specifications into Local Neural Functions', desc: 'Many recurring text functions are easy to describe but difficult to implement with rules, while call' },
       ja: { title: '[arXiv] Compile by Training: Turning Natural-Language Specifications into Local Neural Functions', desc: 'Many recurring text functions are easy to describe but difficult to implement with rules, while call' },
       en: { title: '[arXiv] Compile by Training: Turning Natural-Language Specifications into Local Neural Functions', desc: 'Many recurring text functions are easy to describe but difficult to implement with rules, while call' },
-      source: 'arXiv', time: '10:45', heat: 68,
+      source: 'arXiv', time: '15:52', heat: 67,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.04199v1'
     },
     {
-      id: 8648,
+      id: 8228,
       zh: { title: '[arXiv] ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize', desc: 'Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules a' },
       ja: { title: '[arXiv] ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize', desc: 'Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules a' },
       en: { title: '[arXiv] ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize', desc: 'Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules a' },
-      source: 'arXiv', time: '10:45', heat: 72,
+      source: 'arXiv', time: '15:52', heat: 71,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.04197v1'
     },
     {
-      id: 5592,
+      id: 7033,
       zh: { title: '[arXiv] Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views', desc: 'Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-tr' },
       ja: { title: '[arXiv] Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views', desc: 'Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-tr' },
       en: { title: '[arXiv] Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views', desc: 'Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-tr' },
-      source: 'arXiv', time: '10:45', heat: 66,
+      source: 'arXiv', time: '15:52', heat: 75,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.04180v1'
     },
     {
-      id: 2011,
+      id: 6632,
       zh: { title: '[arXiv] Rethinking On-Policy Distillation of Large Language Models II: One Training Example', desc: 'On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision ' },
       ja: { title: '[arXiv] Rethinking On-Policy Distillation of Large Language Models II: One Training Example', desc: 'On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision ' },
       en: { title: '[arXiv] Rethinking On-Policy Distillation of Large Language Models II: One Training Example', desc: 'On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision ' },
-      source: 'arXiv', time: '10:45', heat: 78,
+      source: 'arXiv', time: '15:52', heat: 68,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.04172v1'
     },
     {
-      id: 5806,
+      id: 4725,
       zh: { title: '[arXiv] Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments', desc: 'As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while ' },
       ja: { title: '[arXiv] Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments', desc: 'As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while ' },
       en: { title: '[arXiv] Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments', desc: 'As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while ' },
-      source: 'arXiv', time: '10:45', heat: 79,
+      source: 'arXiv', time: '15:52', heat: 81,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.04148v1'
     },
   ]},
   { day: '2026-09-03', items: [
     {
-      id: 2169,
+      id: 7927,
       zh: { title: 'GPT-6 Astra', desc: '' },
       ja: { title: 'GPT-6 Astra', desc: '' },
       en: { title: 'GPT-6 Astra', desc: '' },
@@ -61,30 +77,12 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://openai.com/index/gpt-6-astra/'
     },
     {
-      id: 2073,
+      id: 8234,
       zh: { title: 'Qwen 3.8 27B available on Cerebras at 1500 tokens/s', desc: '' },
       ja: { title: 'Qwen 3.8 27B available on Cerebras at 1500 tokens/s', desc: '' },
       en: { title: 'Qwen 3.8 27B available on Cerebras at 1500 tokens/s', desc: '' },
       source: 'HN (altertable)', time: '18:32', heat: 95,
       tags: ["model", "product"], url: 'https://inference-docs.cerebras.ai/models/overview'
-    },
-    {
-      id: 4434,
-      zh: { title: 'Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly', desc: '' },
-      ja: { title: 'Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly', desc: '' },
-      en: { title: 'Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly', desc: '' },
-      source: 'HN (rabahs)', time: '14:28', heat: 95,
-      tags: ["model", "product"], url: 'https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/'
-    },
-  ]},
-  { day: '2026-09-01', items: [
-    {
-      id: 3545,
-      zh: { title: 'The largest electric aircraft just flew [video]', desc: '' },
-      ja: { title: 'The largest electric aircraft just flew [video]', desc: '' },
-      en: { title: 'The largest electric aircraft just flew [video]', desc: '' },
-      source: 'HN (feb)', time: '19:02', heat: 95,
-      tags: ["model", "product"], url: 'https://www.youtube.com/watch?v=nM86DBOqgPM'
     },
   ]},
 ];
