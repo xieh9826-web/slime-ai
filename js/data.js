@@ -1,59 +1,59 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-10T03:25:13.873509+00:00
+// Generated: 2026-09-10T10:46:23.118878+00:00
 const NEWS_DATA = [
   { day: '2026-09-10', items: [
     {
-      id: 1679,
-      zh: { title: 'A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming', desc: '' },
-      ja: { title: 'A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming', desc: '' },
-      en: { title: 'A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming', desc: '' },
-      source: 'HN (cpeterso)', time: '01:59', heat: 54,
-      tags: ["model", "product"], url: 'https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/'
+      id: 7495,
+      zh: { title: 'Training a 3.8B LLM to 0.384 CORE for $998', desc: '' },
+      ja: { title: 'Training a 3.8B LLM to 0.384 CORE for $998', desc: '' },
+      en: { title: 'Training a 3.8B LLM to 0.384 CORE for $998', desc: '' },
+      source: 'HN (Anon84)', time: '02:04', heat: 90,
+      tags: ["model", "product"], url: 'https://hugovergnes.github.io/little-lm-3-8b/'
     },
     {
-      id: 8762,
+      id: 7812,
       zh: { title: '[arXiv] IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier', desc: 'Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving r' },
       ja: { title: '[arXiv] IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier', desc: 'Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving r' },
       en: { title: '[arXiv] IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier', desc: 'Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving r' },
-      source: 'arXiv', time: '03:25', heat: 84,
+      source: 'arXiv', time: '10:46', heat: 65,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.10494v1'
     },
     {
-      id: 2238,
+      id: 8697,
       zh: { title: '[arXiv] ConvMem: Convolutional Memory for Long-Context Reasoning', desc: 'While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle wi' },
       ja: { title: '[arXiv] ConvMem: Convolutional Memory for Long-Context Reasoning', desc: 'While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle wi' },
       en: { title: '[arXiv] ConvMem: Convolutional Memory for Long-Context Reasoning', desc: 'While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle wi' },
-      source: 'arXiv', time: '03:25', heat: 78,
+      source: 'arXiv', time: '10:46', heat: 80,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.10441v1'
     },
     {
-      id: 4892,
+      id: 6007,
       zh: { title: '[arXiv] Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Ope', desc: 'The growing complexity of content moderation policies presents a critical challenge for their consis' },
       ja: { title: '[arXiv] Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Ope', desc: 'The growing complexity of content moderation policies presents a critical challenge for their consis' },
       en: { title: '[arXiv] Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Ope', desc: 'The growing complexity of content moderation policies presents a critical challenge for their consis' },
-      source: 'arXiv', time: '03:25', heat: 75,
+      source: 'arXiv', time: '10:46', heat: 70,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.10410v1'
     },
     {
-      id: 8201,
+      id: 2311,
       zh: { title: '[arXiv] From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric ', desc: 'Plane geometry remains a significant challenge in AI, requiring the integration of visual perception' },
       ja: { title: '[arXiv] From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric ', desc: 'Plane geometry remains a significant challenge in AI, requiring the integration of visual perception' },
       en: { title: '[arXiv] From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric ', desc: 'Plane geometry remains a significant challenge in AI, requiring the integration of visual perception' },
-      source: 'arXiv', time: '03:25', heat: 73,
+      source: 'arXiv', time: '10:46', heat: 76,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.10335v1'
     },
     {
-      id: 6853,
+      id: 2226,
       zh: { title: '[arXiv] RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding', desc: 'Language models under one million parameters matter for edge deployment, domain adaptation, and repr' },
       ja: { title: '[arXiv] RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding', desc: 'Language models under one million parameters matter for edge deployment, domain adaptation, and repr' },
       en: { title: '[arXiv] RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding', desc: 'Language models under one million parameters matter for edge deployment, domain adaptation, and repr' },
-      source: 'arXiv', time: '03:25', heat: 76,
+      source: 'arXiv', time: '10:46', heat: 78,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.10305v1'
     },
   ]},
   { day: '2026-09-09', items: [
     {
-      id: 1414,
+      id: 3268,
       zh: { title: 'Shopify acquires Tailwind', desc: '' },
       ja: { title: 'Shopify acquires Tailwind', desc: '' },
       en: { title: 'Shopify acquires Tailwind', desc: '' },
@@ -61,15 +61,7 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://tailwindcss.com/blog/tailwind-is-joining-shopify'
     },
     {
-      id: 9038,
-      zh: { title: 'AirPods 5', desc: '' },
-      ja: { title: 'AirPods 5', desc: '' },
-      en: { title: 'AirPods 5', desc: '' },
-      source: 'HN (awad)', time: '17:39', heat: 95,
-      tags: ["model", "product"], url: 'https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/'
-    },
-    {
-      id: 9370,
+      id: 8417,
       zh: { title: 'GPT-6 Astra, looped transformers, and hidden reasoning', desc: '' },
       ja: { title: 'GPT-6 Astra, looped transformers, and hidden reasoning', desc: '' },
       en: { title: 'GPT-6 Astra, looped transformers, and hidden reasoning', desc: '' },
@@ -77,12 +69,22 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and'
     },
     {
-      id: 4328,
-      zh: { title: 'Qwen 3.8 follows GPT-5.5 Pro reasoning prefills', desc: '' },
-      ja: { title: 'Qwen 3.8 follows GPT-5.5 Pro reasoning prefills', desc: '' },
-      en: { title: 'Qwen 3.8 follows GPT-5.5 Pro reasoning prefills', desc: '' },
-      source: 'HN (wsxiaoys)', time: '17:24', heat: 95,
-      tags: ["model", "product"], url: 'https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3'
+      id: 6687,
+      zh: { title: 'AirPods 5', desc: '' },
+      ja: { title: 'AirPods 5', desc: '' },
+      en: { title: 'AirPods 5', desc: '' },
+      source: 'HN (awad)', time: '17:39', heat: 95,
+      tags: ["model", "product"], url: 'https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/'
+    },
+  ]},
+  { day: '2026-09-07', items: [
+    {
+      id: 3640,
+      zh: { title: 'Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators', desc: '' },
+      ja: { title: 'Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators', desc: '' },
+      en: { title: 'Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators', desc: '' },
+      source: 'HN (peter_d_sherman)', time: '04:27', heat: 61,
+      tags: ["model", "product"], url: 'https://www.thelec.net/news/articleView.html?idxno=12835'
     },
   ]},
 ];
