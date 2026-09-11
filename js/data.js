@@ -1,88 +1,86 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-11T15:59:11.394338+00:00
+// Generated: 2026-09-11T20:34:01.075296+00:00
 const NEWS_DATA = [
   { day: '2026-09-11', items: [
     {
-      id: 9883,
-      zh: { title: 'The Waymo effect: how AI is quietly making research less collaborative', desc: '' },
-      ja: { title: 'The Waymo effect: how AI is quietly making research less collaborative', desc: '' },
-      en: { title: 'The Waymo effect: how AI is quietly making research less collaborative', desc: '' },
-      source: 'HN (JohnHammersley)', time: '11:17', heat: 95,
-      tags: ["model", "product"], url: 'https://www.researchagenda.news/articles/the-waymo-effect.html'
+      id: 5401,
+      zh: { title: 'A misalignment of AI in mathematics', desc: '' },
+      ja: { title: 'A misalignment of AI in mathematics', desc: '' },
+      en: { title: 'A misalignment of AI in mathematics', desc: '' },
+      source: 'HN (meredydd)', time: '17:45', heat: 95,
+      tags: ["model", "product"], url: 'https://mathandai.org/'
     },
     {
-      id: 5160,
-      zh: { title: 'Show HN: Hacker News, without AI', desc: '' },
-      ja: { title: 'Show HN: Hacker News, without AI', desc: '' },
-      en: { title: 'Show HN: Hacker News, without AI', desc: '' },
-      source: 'HN (postalcoder)', time: '15:01', heat: 76,
-      tags: ["model", "product"], url: 'https://hcker.news/?ai=exclude'
+      id: 6835,
+      zh: { title: 'Litelm: LiteLLM Without the Bloat', desc: '' },
+      ja: { title: 'Litelm: LiteLLM Without the Bloat', desc: '' },
+      en: { title: 'Litelm: LiteLLM Without the Bloat', desc: '' },
+      source: 'HN (kennethwolters)', time: '18:10', heat: 72,
+      tags: ["model", "product"], url: 'https://github.com/kennethwolters/litelm'
     },
     {
-      id: 2707,
-      zh: { title: 'Show HN: Clawfight.ai MCP-driven agentic game play', desc: '' },
-      ja: { title: 'Show HN: Clawfight.ai MCP-driven agentic game play', desc: '' },
-      en: { title: 'Show HN: Clawfight.ai MCP-driven agentic game play', desc: '' },
-      source: 'HN (wesleyhales)', time: '13:54', heat: 52,
-      tags: ["model", "product"], url: 'https://clawfight.ai/agents.md'
+      id: 9541,
+      zh: { title: 'Claude is only available to people over 18 years', desc: '' },
+      ja: { title: 'Claude is only available to people over 18 years', desc: '' },
+      en: { title: 'Claude is only available to people over 18 years', desc: '' },
+      source: 'HN (Muhammad523)', time: '10:48', heat: 95,
+      tags: ["model", "product"], url: 'https://support.claude.com/en/articles/15171100-age-assurance-on-claude'
     },
     {
-      id: 9021,
+      id: 5315,
+      zh: { title: 'Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering', desc: '' },
+      ja: { title: 'Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering', desc: '' },
+      en: { title: 'Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering', desc: '' },
+      source: 'HN (roseway4)', time: '17:00', heat: 50,
+      tags: ["model", "product"], url: 'https://www.getzep.com/careers/'
+    },
+    {
+      id: 7350,
+      zh: { title: 'CIA Releases President\'s Daily Briefs in Commemoration of 9/11', desc: '' },
+      ja: { title: 'CIA Releases President\'s Daily Briefs in Commemoration of 9/11', desc: '' },
+      en: { title: 'CIA Releases President\'s Daily Briefs in Commemoration of 9/11', desc: '' },
+      source: 'HN (stmw)', time: '18:30', heat: 68,
+      tags: ["model", "product"], url: 'https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/'
+    },
+    {
+      id: 8238,
       zh: { title: '[arXiv] MindTopo: Can Foundation Models Reason in Topological Space?', desc: 'Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also' },
       ja: { title: '[arXiv] MindTopo: Can Foundation Models Reason in Topological Space?', desc: 'Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also' },
       en: { title: '[arXiv] MindTopo: Can Foundation Models Reason in Topological Space?', desc: 'Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also' },
-      source: 'arXiv', time: '15:59', heat: 85,
+      source: 'arXiv', time: '20:34', heat: 80,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.11900v1'
     },
     {
-      id: 4423,
+      id: 5536,
       zh: { title: '[arXiv] Domain-Specific Hallucination Detection in Large Language Models', desc: 'Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known ' },
       ja: { title: '[arXiv] Domain-Specific Hallucination Detection in Large Language Models', desc: 'Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known ' },
       en: { title: '[arXiv] Domain-Specific Hallucination Detection in Large Language Models', desc: 'Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known ' },
-      source: 'arXiv', time: '15:59', heat: 80,
+      source: 'arXiv', time: '20:34', heat: 77,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.11878v1'
     },
     {
-      id: 7337,
+      id: 4860,
       zh: { title: '[arXiv] Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens', desc: 'Many biological discovery problems require experiments to be selected sequentially under constrained' },
       ja: { title: '[arXiv] Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens', desc: 'Many biological discovery problems require experiments to be selected sequentially under constrained' },
       en: { title: '[arXiv] Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens', desc: 'Many biological discovery problems require experiments to be selected sequentially under constrained' },
-      source: 'arXiv', time: '15:59', heat: 74,
+      source: 'arXiv', time: '20:34', heat: 66,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.11877v1'
     },
     {
-      id: 5983,
+      id: 6052,
       zh: { title: '[arXiv] The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement', desc: 'Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent ' },
       ja: { title: '[arXiv] The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement', desc: 'Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent ' },
       en: { title: '[arXiv] The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement', desc: 'Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent ' },
-      source: 'arXiv', time: '15:59', heat: 83,
+      source: 'arXiv', time: '20:34', heat: 66,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.11873v1'
     },
     {
-      id: 6883,
+      id: 3715,
       zh: { title: '[arXiv] RetroThinker: Enabling Retrospective Thinking in Speech LLMs', desc: 'Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances th' },
       ja: { title: '[arXiv] RetroThinker: Enabling Retrospective Thinking in Speech LLMs', desc: 'Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances th' },
       en: { title: '[arXiv] RetroThinker: Enabling Retrospective Thinking in Speech LLMs', desc: 'Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances th' },
-      source: 'arXiv', time: '15:59', heat: 76,
+      source: 'arXiv', time: '20:34', heat: 84,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2609.11864v1'
-    },
-  ]},
-  { day: '2026-09-10', items: [
-    {
-      id: 5341,
-      zh: { title: 'Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe', desc: '' },
-      ja: { title: 'Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe', desc: '' },
-      en: { title: 'Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe', desc: '' },
-      source: 'HN (zdw)', time: '22:33', heat: 55,
-      tags: ["model", "product"], url: 'https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/'
-    },
-    {
-      id: 8492,
-      zh: { title: 'OpenAI Agents API', desc: '' },
-      ja: { title: 'OpenAI Agents API', desc: '' },
-      en: { title: 'OpenAI Agents API', desc: '' },
-      source: 'HN (aquir)', time: '19:43', heat: 95,
-      tags: ["model", "product"], url: 'https://developers.openai.com/api/docs/guides/agents-api/overview'
     },
   ]},
 ];
