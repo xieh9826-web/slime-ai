@@ -1,9 +1,17 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-13T15:43:33.431413+00:00
+// Generated: 2026-09-13T20:24:49.526947+00:00
 const NEWS_DATA = [
   { day: '2026-09-13', items: [
     {
-      id: 7033,
+      id: 4068,
+      zh: { title: 'There Is No AI (It\'s Just People) with Jaron Lanier', desc: '' },
+      ja: { title: 'There Is No AI (It\'s Just People) with Jaron Lanier', desc: '' },
+      en: { title: 'There Is No AI (It\'s Just People) with Jaron Lanier', desc: '' },
+      source: 'HN (andsoitis)', time: '19:41', heat: 59,
+      tags: ["model", "product"], url: 'https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/'
+    },
+    {
+      id: 5829,
       zh: { title: 'Why are AI agents lying, cheating and coordinating?', desc: '' },
       ja: { title: 'Why are AI agents lying, cheating and coordinating?', desc: '' },
       en: { title: 'Why are AI agents lying, cheating and coordinating?', desc: '' },
@@ -11,38 +19,32 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating'
     },
     {
-      id: 6245,
-      zh: { title: 'Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic', desc: '' },
-      ja: { title: 'Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic', desc: '' },
-      en: { title: 'Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic', desc: '' },
-      source: 'HN (delichon)', time: '14:15', heat: 66,
-      tags: ["model", "product"], url: 'https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo'
-    },
-    {
-      id: 5792,
-      zh: { title: 'Everyone should slow down AI development except for me', desc: '' },
-      ja: { title: 'Everyone should slow down AI development except for me', desc: '' },
-      en: { title: 'Everyone should slow down AI development except for me', desc: '' },
-      source: 'HN (xena)', time: '00:30', heat: 95,
-      tags: ["model", "product"], url: 'https://xeiaso.net/notes/2026/everyone-slowdown-but-me/'
+      id: 3595,
+      zh: { title: 'Garry Tan wants US open-weight AI labs to \'distill\' frontier models, too', desc: '' },
+      ja: { title: 'Garry Tan wants US open-weight AI labs to \'distill\' frontier models, too', desc: '' },
+      en: { title: 'Garry Tan wants US open-weight AI labs to \'distill\' frontier models, too', desc: '' },
+      source: 'HN (TheJCDenton)', time: '15:44', heat: 95,
+      tags: ["model", "product"], url: 'https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/'
     },
   ]},
-  { day: '2026-09-12', items: [
+  { day: '2026-09-11', items: [
     {
-      id: 4715,
-      zh: { title: 'TailTalk: A modern async user space AppleTalk stack with Rust and Tokio', desc: '' },
-      ja: { title: 'TailTalk: A modern async user space AppleTalk stack with Rust and Tokio', desc: '' },
-      en: { title: 'TailTalk: A modern async user space AppleTalk stack with Rust and Tokio', desc: '' },
-      source: 'HN (zdw)', time: '23:43', heat: 69,
-      tags: ["model", "product"], url: 'https://github.com/FeralFirmware/TailTalk/'
+      id: 9079,
+      zh: { title: 'Reverse-Engineering Claude Web\'s MicroVM: Uncovering Anthropic\'s Hidden Antspace', desc: '' },
+      ja: { title: 'Reverse-Engineering Claude Web\'s MicroVM: Uncovering Anthropic\'s Hidden Antspace', desc: '' },
+      en: { title: 'Reverse-Engineering Claude Web\'s MicroVM: Uncovering Anthropic\'s Hidden Antspace', desc: '' },
+      source: 'HN (rzk)', time: '03:45', heat: 60,
+      tags: ["model", "product"], url: 'https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace'
     },
+  ]},
+  { day: '2026-09-10', items: [
     {
-      id: 8720,
-      zh: { title: 'Nvidia is the central bank of AI', desc: '' },
-      ja: { title: 'Nvidia is the central bank of AI', desc: '' },
-      en: { title: 'Nvidia is the central bank of AI', desc: '' },
-      source: 'HN (tolugenius)', time: '15:08', heat: 95,
-      tags: ["model", "product"], url: 'https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai'
+      id: 5872,
+      zh: { title: 'Sean Carroll explains the biggest ideas in the universe – Full Interview [video]', desc: '' },
+      ja: { title: 'Sean Carroll explains the biggest ideas in the universe – Full Interview [video]', desc: '' },
+      en: { title: 'Sean Carroll explains the biggest ideas in the universe – Full Interview [video]', desc: '' },
+      source: 'HN (binyu)', time: '23:32', heat: 70,
+      tags: ["model", "product"], url: 'https://www.youtube.com/watch?v=_TBNJyztai0'
     },
   ]},
 ];
