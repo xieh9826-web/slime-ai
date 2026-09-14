@@ -1,48 +1,46 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-14T11:59:42.971628+00:00
+// Generated: 2026-09-14T18:02:23.422691+00:00
 const NEWS_DATA = [
   { day: '2026-09-14', items: [
     {
-      id: 3884,
-      zh: { title: 'OpenArch – PyTorch implementations of modern LLM architectures', desc: '' },
-      ja: { title: 'OpenArch – PyTorch implementations of modern LLM architectures', desc: '' },
-      en: { title: 'OpenArch – PyTorch implementations of modern LLM architectures', desc: '' },
-      source: 'HN (anuj0456)', time: '07:55', heat: 73,
-      tags: ["model", "product"], url: 'https://github.com/anuj0456/OpenArch'
+      id: 6259,
+      zh: { title: 'Why don\'t machine learning research agents overfit?', desc: '' },
+      ja: { title: 'Why don\'t machine learning research agents overfit?', desc: '' },
+      en: { title: 'Why don\'t machine learning research agents overfit?', desc: '' },
+      source: 'HN (Betelbuddy)', time: '16:32', heat: 65,
+      tags: ["model", "product"], url: 'https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit'
     },
     {
-      id: 6860,
-      zh: { title: 'The case against JPEG XL', desc: '' },
-      ja: { title: 'The case against JPEG XL', desc: '' },
-      en: { title: 'The case against JPEG XL', desc: '' },
-      source: 'HN (contact9879)', time: '01:02', heat: 95,
-      tags: ["model", "product"], url: 'https://giannirosato.com/blog/post/case-against-jxl/'
+      id: 2513,
+      zh: { title: 'OpenAI bots knew about the RubyGems caching vulnerability', desc: '' },
+      ja: { title: 'OpenAI bots knew about the RubyGems caching vulnerability', desc: '' },
+      en: { title: 'OpenAI bots knew about the RubyGems caching vulnerability', desc: '' },
+      source: 'HN (gregnavis)', time: '12:40', heat: 95,
+      tags: ["model", "product"], url: 'https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/'
     },
     {
-      id: 3042,
-      zh: { title: 'Watch AI materials-science and bioscience abilities closely', desc: '' },
-      ja: { title: 'Watch AI materials-science and bioscience abilities closely', desc: '' },
-      en: { title: 'Watch AI materials-science and bioscience abilities closely', desc: '' },
-      source: 'HN (joozio)', time: '11:01', heat: 54,
-      tags: ["model", "product"], url: 'https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely'
+      id: 9037,
+      zh: { title: 'Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama', desc: '' },
+      ja: { title: 'Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama', desc: '' },
+      en: { title: 'Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama', desc: '' },
+      source: 'HN (0o_MrPatrick_o0)', time: '13:59', heat: 92,
+      tags: ["model", "product"], url: 'https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/'
     },
     {
-      id: 6593,
-      zh: { title: 'Open-source AI and open models reading list', desc: '' },
-      ja: { title: 'Open-source AI and open models reading list', desc: '' },
-      en: { title: 'Open-source AI and open models reading list', desc: '' },
-      source: 'HN (simonpure)', time: '00:22', heat: 95,
-      tags: ["model", "product"], url: 'https://www.interconnects.ai/p/open-source-ai-reading-list'
+      id: 6552,
+      zh: { title: 'Adversarial Fashion Makes a Statement on AI Panopticon', desc: '' },
+      ja: { title: 'Adversarial Fashion Makes a Statement on AI Panopticon', desc: '' },
+      en: { title: 'Adversarial Fashion Makes a Statement on AI Panopticon', desc: '' },
+      source: 'HN (rbanffy)', time: '14:04', heat: 75,
+      tags: ["model", "product"], url: 'https://spectrum.ieee.org/adversarial-fashion'
     },
-  ]},
-  { day: '2026-09-11', items: [
     {
-      id: 3723,
-      zh: { title: 'Reverse-Engineering Claude Web\'s MicroVM: Uncovering Anthropic\'s Hidden Antspace', desc: '' },
-      ja: { title: 'Reverse-Engineering Claude Web\'s MicroVM: Uncovering Anthropic\'s Hidden Antspace', desc: '' },
-      en: { title: 'Reverse-Engineering Claude Web\'s MicroVM: Uncovering Anthropic\'s Hidden Antspace', desc: '' },
-      source: 'HN (rzk)', time: '03:45', heat: 95,
-      tags: ["model", "product"], url: 'https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace'
+      id: 3647,
+      zh: { title: 'When LLM judges agree, should we believe them?', desc: '' },
+      ja: { title: 'When LLM judges agree, should we believe them?', desc: '' },
+      en: { title: 'When LLM judges agree, should we believe them?', desc: '' },
+      source: 'HN (Betelbuddy)', time: '16:29', heat: 58,
+      tags: ["model", "product"], url: 'https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them'
     },
   ]},
 ];
