@@ -1,9 +1,19 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-16T20:57:05.844768+00:00
+// Generated: 2026-09-17T03:45:29.655377+00:00
 const NEWS_DATA = [
+  { day: '2026-09-17', items: [
+    {
+      id: 5131,
+      zh: { title: 'The Return of Sail Power: Cargo Ships Are Turning Back to the Wind', desc: '' },
+      ja: { title: 'The Return of Sail Power: Cargo Ships Are Turning Back to the Wind', desc: '' },
+      en: { title: 'The Return of Sail Power: Cargo Ships Are Turning Back to the Wind', desc: '' },
+      source: 'HN (gumby)', time: '00:28', heat: 64,
+      tags: ["model", "product"], url: 'https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/'
+    },
+  ]},
   { day: '2026-09-16', items: [
     {
-      id: 8989,
+      id: 3642,
       zh: { title: 'Training a 4B model to produce 81% faster query plans than Postgres', desc: '' },
       ja: { title: 'Training a 4B model to produce 81% faster query plans than Postgres', desc: '' },
       en: { title: 'Training a 4B model to produce 81% faster query plans than Postgres', desc: '' },
@@ -11,38 +21,28 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://rohanbansal.com/qorl'
     },
     {
-      id: 9948,
-      zh: { title: 'Xiami Mimo 2.6 Live Training Dashboard', desc: '' },
-      ja: { title: 'Xiami Mimo 2.6 Live Training Dashboard', desc: '' },
-      en: { title: 'Xiami Mimo 2.6 Live Training Dashboard', desc: '' },
-      source: 'HN (krackers)', time: '20:09', heat: 71,
+      id: 4543,
+      zh: { title: 'Xiaomi Mimo 2.6 live post-training dashboard', desc: '' },
+      ja: { title: 'Xiaomi Mimo 2.6 live post-training dashboard', desc: '' },
+      en: { title: 'Xiaomi Mimo 2.6 live post-training dashboard', desc: '' },
+      source: 'HN (krackers)', time: '20:09', heat: 95,
       tags: ["model", "product"], url: 'https://mimo.xiaomi.com/rl/'
     },
     {
-      id: 7267,
-      zh: { title: 'Mistral X Mozilla: Private, Multilingual AI Browsing', desc: '' },
-      ja: { title: 'Mistral X Mozilla: Private, Multilingual AI Browsing', desc: '' },
-      en: { title: 'Mistral X Mozilla: Private, Multilingual AI Browsing', desc: '' },
-      source: 'HN (vertigoruntime)', time: '08:08', heat: 95,
-      tags: ["model", "product"], url: 'https://mistral.ai/news/mistral-x-mozilla/'
+      id: 6181,
+      zh: { title: 'Breaking the 1.58-bit Barrier for Ternary LLMs', desc: '' },
+      ja: { title: 'Breaking the 1.58-bit Barrier for Ternary LLMs', desc: '' },
+      en: { title: 'Breaking the 1.58-bit Barrier for Ternary LLMs', desc: '' },
+      source: 'HN (matt_d)', time: '20:59', heat: 95,
+      tags: ["model", "product"], url: 'https://arxiv.org/abs/2609.16338'
     },
     {
-      id: 1279,
-      zh: { title: 'Learning Programming in an Age of LLMs', desc: '' },
-      ja: { title: 'Learning Programming in an Age of LLMs', desc: '' },
-      en: { title: 'Learning Programming in an Age of LLMs', desc: '' },
-      source: 'HN (moneroloop2018)', time: '09:12', heat: 95,
-      tags: ["model", "product"], url: 'https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/'
-    },
-  ]},
-  { day: '2026-09-15', items: [
-    {
-      id: 9496,
-      zh: { title: 'The Siberian Ice Maiden and the Scythian World', desc: '' },
-      ja: { title: 'The Siberian Ice Maiden and the Scythian World', desc: '' },
-      en: { title: 'The Siberian Ice Maiden and the Scythian World', desc: '' },
-      source: 'HN (NaOH)', time: '19:09', heat: 67,
-      tags: ["model", "product"], url: 'https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian'
+      id: 5149,
+      zh: { title: 'OpenSpec – A lightweight and configurable AI spec framework', desc: '' },
+      ja: { title: 'OpenSpec – A lightweight and configurable AI spec framework', desc: '' },
+      en: { title: 'OpenSpec – A lightweight and configurable AI spec framework', desc: '' },
+      source: 'HN (etoxin)', time: '23:06', heat: 95,
+      tags: ["model", "product"], url: 'https://openspec.dev/'
     },
   ]},
 ];
