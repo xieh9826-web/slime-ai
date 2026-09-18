@@ -1,48 +1,50 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-17T21:00:03.511672+00:00
+// Generated: 2026-09-18T03:31:59.102585+00:00
 const NEWS_DATA = [
+  { day: '2026-09-18', items: [
+    {
+      id: 5790,
+      zh: { title: 'Hacking OpenAI', desc: '' },
+      ja: { title: 'Hacking OpenAI', desc: '' },
+      en: { title: 'Hacking OpenAI', desc: '' },
+      source: 'HN (Handy-Man)', time: '02:47', heat: 53,
+      tags: ["model", "product"], url: 'https://www.hacktron.ai/blog/hacking-openai'
+    },
+  ]},
   { day: '2026-09-17', items: [
     {
-      id: 4594,
-      zh: { title: 'Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data', desc: '' },
-      ja: { title: 'Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data', desc: '' },
-      en: { title: 'Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data', desc: '' },
-      source: 'HN (Betelbuddy)', time: '16:55', heat: 83,
-      tags: ["model", "product"], url: 'https://arxiv.org/abs/2609.18842'
+      id: 5090,
+      zh: { title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint', desc: '' },
+      ja: { title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint', desc: '' },
+      en: { title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint', desc: '' },
+      source: 'HN (JonSchneider)', time: '21:13', heat: 95,
+      tags: ["model", "product"], url: 'https://prismml.com/news/bonsai-2-27b'
     },
     {
-      id: 2140,
-      zh: { title: 'Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents', desc: '' },
-      ja: { title: 'Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents', desc: '' },
-      en: { title: 'Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents', desc: '' },
-      source: 'HN (cat-whisperer)', time: '16:22', heat: 65,
-      tags: ["model", "product"], url: 'https://news.ycombinator.com/item?id=49743049'
+      id: 5897,
+      zh: { title: 'Bend – A language that blocks AI mistakes via proof, on CPU and GPU', desc: '' },
+      ja: { title: 'Bend – A language that blocks AI mistakes via proof, on CPU and GPU', desc: '' },
+      en: { title: 'Bend – A language that blocks AI mistakes via proof, on CPU and GPU', desc: '' },
+      source: 'HN (nicolas-siplis)', time: '20:36', heat: 95,
+      tags: ["model", "product"], url: 'https://bend-lang.com/'
     },
     {
-      id: 1546,
-      zh: { title: 'Show HN: Share your AI Setup, Learn from others', desc: '' },
-      ja: { title: 'Show HN: Share your AI Setup, Learn from others', desc: '' },
-      en: { title: 'Show HN: Share your AI Setup, Learn from others', desc: '' },
-      source: 'HN (steveybrown)', time: '13:01', heat: 95,
-      tags: ["model", "product"], url: 'https://mysetup.ai/'
-    },
-    {
-      id: 3260,
-      zh: { title: 'The Return of Sail Power: Cargo Ships Are Turning Back to the Wind', desc: '' },
-      ja: { title: 'The Return of Sail Power: Cargo Ships Are Turning Back to the Wind', desc: '' },
-      en: { title: 'The Return of Sail Power: Cargo Ships Are Turning Back to the Wind', desc: '' },
-      source: 'HN (gumby)', time: '00:28', heat: 95,
-      tags: ["model", "product"], url: 'https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/'
+      id: 8033,
+      zh: { title: 'How Uber Protects Against Retry Storms', desc: '' },
+      ja: { title: 'How Uber Protects Against Retry Storms', desc: '' },
+      en: { title: 'How Uber Protects Against Retry Storms', desc: '' },
+      source: 'HN (iscmt)', time: '21:14', heat: 79,
+      tags: ["model", "product"], url: 'https://www.uber.com/us/en/blog/protecting-against-retry-storms/'
     },
   ]},
   { day: '2026-09-15', items: [
     {
-      id: 9503,
-      zh: { title: 'TSMC revealing details about next gen A14 node', desc: '' },
-      ja: { title: 'TSMC revealing details about next gen A14 node', desc: '' },
-      en: { title: 'TSMC revealing details about next gen A14 node', desc: '' },
-      source: 'HN (osnium123)', time: '15:31', heat: 75,
-      tags: ["model", "product"], url: 'https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331'
+      id: 4564,
+      zh: { title: 'Diplodocus, Long Thought Exclusively American, Turns Up in Spain', desc: '' },
+      ja: { title: 'Diplodocus, Long Thought Exclusively American, Turns Up in Spain', desc: '' },
+      en: { title: 'Diplodocus, Long Thought Exclusively American, Turns Up in Spain', desc: '' },
+      source: 'HN (embedding-shape)', time: '10:46', heat: 68,
+      tags: ["model", "product"], url: 'https://www.sci.news/paleontology/spanish-diplodocus-15064.html'
     },
   ]},
 ];
