@@ -1,27 +1,35 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-18T10:41:20.850779+00:00
+// Generated: 2026-09-18T15:57:17.571892+00:00
 const NEWS_DATA = [
   { day: '2026-09-18', items: [
     {
-      id: 4886,
-      zh: { title: 'Microsoft exec called AI scraping \'the largest theft of labor in human history\'', desc: '' },
-      ja: { title: 'Microsoft exec called AI scraping \'the largest theft of labor in human history\'', desc: '' },
-      en: { title: 'Microsoft exec called AI scraping \'the largest theft of labor in human history\'', desc: '' },
-      source: 'HN (pluc)', time: '09:45', heat: 77,
-      tags: ["model", "product"], url: 'https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/'
+      id: 6970,
+      zh: { title: 'GrassLobster: AI Agentic Generation of Parametric Geometry Workflows', desc: '' },
+      ja: { title: 'GrassLobster: AI Agentic Generation of Parametric Geometry Workflows', desc: '' },
+      en: { title: 'GrassLobster: AI Agentic Generation of Parametric Geometry Workflows', desc: '' },
+      source: 'HN (aidog)', time: '15:04', heat: 53,
+      tags: ["model", "product"], url: 'https://www.miro.vision/index.php/2026/09/17/grasslobbster/'
     },
     {
-      id: 9289,
-      zh: { title: 'A heap overflow and SSO misconfiguration to compromise OpenAI internal repos', desc: '' },
-      ja: { title: 'A heap overflow and SSO misconfiguration to compromise OpenAI internal repos', desc: '' },
-      en: { title: 'A heap overflow and SSO misconfiguration to compromise OpenAI internal repos', desc: '' },
-      source: 'HN (Handy-Man)', time: '02:47', heat: 95,
-      tags: ["model", "product"], url: 'https://www.hacktron.ai/blog/hacking-openai'
+      id: 4460,
+      zh: { title: 'Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him', desc: '' },
+      ja: { title: 'Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him', desc: '' },
+      en: { title: 'Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him', desc: '' },
+      source: 'HN (saimiam)', time: '11:01', heat: 95,
+      tags: ["model", "product"], url: 'https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html'
+    },
+    {
+      id: 9235,
+      zh: { title: 'Mathematicians Build Long-Awaited Graph Sandwich', desc: '' },
+      ja: { title: 'Mathematicians Build Long-Awaited Graph Sandwich', desc: '' },
+      en: { title: 'Mathematicians Build Long-Awaited Graph Sandwich', desc: '' },
+      source: 'HN (ibobev)', time: '14:41', heat: 54,
+      tags: ["model", "product"], url: 'https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/'
     },
   ]},
   { day: '2026-09-17', items: [
     {
-      id: 1479,
+      id: 8741,
       zh: { title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint', desc: '' },
       ja: { title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint', desc: '' },
       en: { title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint', desc: '' },
@@ -29,20 +37,12 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://prismml.com/news/bonsai-2-27b'
     },
     {
-      id: 1571,
+      id: 3246,
       zh: { title: 'Bend – A language that blocks AI mistakes via proof, on CPU and GPU', desc: '' },
       ja: { title: 'Bend – A language that blocks AI mistakes via proof, on CPU and GPU', desc: '' },
       en: { title: 'Bend – A language that blocks AI mistakes via proof, on CPU and GPU', desc: '' },
       source: 'HN (nicolas-siplis)', time: '20:36', heat: 95,
       tags: ["model", "product"], url: 'https://bend-lang.com/'
-    },
-    {
-      id: 6196,
-      zh: { title: 'How to Write with an LLM', desc: '' },
-      ja: { title: 'How to Write with an LLM', desc: '' },
-      en: { title: 'How to Write with an LLM', desc: '' },
-      source: 'HN (joeriddles)', time: '21:48', heat: 95,
-      tags: ["model", "product"], url: 'https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/'
     },
   ]},
 ];
