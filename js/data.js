@@ -1,46 +1,48 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-18T20:30:38.315946+00:00
+// Generated: 2026-09-19T03:29:08.017239+00:00
 const NEWS_DATA = [
   { day: '2026-09-18', items: [
     {
-      id: 9532,
-      zh: { title: 'Korea raises data breach fines to 10% of revenue', desc: '' },
-      ja: { title: 'Korea raises data breach fines to 10% of revenue', desc: '' },
-      en: { title: 'Korea raises data breach fines to 10% of revenue', desc: '' },
-      source: 'HN (throw7)', time: '20:02', heat: 63,
-      tags: ["model", "product"], url: 'https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899'
+      id: 3308,
+      zh: { title: 'How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip', desc: '' },
+      ja: { title: 'How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip', desc: '' },
+      en: { title: 'How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip', desc: '' },
+      source: 'HN (maxall4)', time: '23:04', heat: 83,
+      tags: ["model", "product"], url: 'https://spectrum.ieee.org/llms-for-chip-design'
     },
     {
-      id: 8658,
-      zh: { title: 'The Implications of Linguistic Illegibility for LLM Security', desc: '' },
-      ja: { title: 'The Implications of Linguistic Illegibility for LLM Security', desc: '' },
-      en: { title: 'The Implications of Linguistic Illegibility for LLM Security', desc: '' },
-      source: 'HN (tomjakubowski)', time: '19:00', heat: 60,
-      tags: ["model", "product"], url: 'https://arxiv.org/abs/2609.02852'
+      id: 1988,
+      zh: { title: 'Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)', desc: '' },
+      ja: { title: 'Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)', desc: '' },
+      en: { title: 'Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)', desc: '' },
+      source: 'HN (rochansinha)', time: '18:55', heat: 84,
+      tags: ["model", "product"], url: 'https://arxiv.org/abs/2510.03215'
     },
     {
-      id: 7164,
-      zh: { title: 'Our brain evolved from two primitive nervous systems that merged: Study', desc: '' },
-      ja: { title: 'Our brain evolved from two primitive nervous systems that merged: Study', desc: '' },
-      en: { title: 'Our brain evolved from two primitive nervous systems that merged: Study', desc: '' },
-      source: 'HN (Jimmc414)', time: '15:12', heat: 77,
-      tags: ["model", "product"], url: 'https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/'
+      id: 2221,
+      zh: { title: 'Claude Code now reads AGENTS.md if there is no Claude.md', desc: '' },
+      ja: { title: 'Claude Code now reads AGENTS.md if there is no Claude.md', desc: '' },
+      en: { title: 'Claude Code now reads AGENTS.md if there is no Claude.md', desc: '' },
+      source: 'HN (datadrivenangel)', time: '21:00', heat: 95,
+      tags: ["model", "product"], url: 'https://code.claude.com/docs/en/changelog'
     },
     {
-      id: 7776,
-      zh: { title: 'A heap overflow and SSO misconfiguration to compromise OpenAI internal repos', desc: '' },
-      ja: { title: 'A heap overflow and SSO misconfiguration to compromise OpenAI internal repos', desc: '' },
-      en: { title: 'A heap overflow and SSO misconfiguration to compromise OpenAI internal repos', desc: '' },
-      source: 'HN (Handy-Man)', time: '02:47', heat: 95,
-      tags: ["model", "product"], url: 'https://www.hacktron.ai/blog/hacking-openai'
+      id: 9205,
+      zh: { title: 'Alibaba open-sources AI model that can detect cancer and nearly 150 conditions', desc: '' },
+      ja: { title: 'Alibaba open-sources AI model that can detect cancer and nearly 150 conditions', desc: '' },
+      en: { title: 'Alibaba open-sources AI model that can detect cancer and nearly 150 conditions', desc: '' },
+      source: 'HN (yogthos)', time: '23:54', heat: 74,
+      tags: ["model", "product"], url: 'https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions'
     },
+  ]},
+  { day: '2026-09-17', items: [
     {
-      id: 8724,
-      zh: { title: 'US Military had close call after using AI for hallucinated intelligence report', desc: '' },
-      ja: { title: 'US Military had close call after using AI for hallucinated intelligence report', desc: '' },
-      en: { title: 'US Military had close call after using AI for hallucinated intelligence report', desc: '' },
-      source: 'HN (realsarm)', time: '17:28', heat: 95,
-      tags: ["model", "product"], url: 'https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship'
+      id: 6588,
+      zh: { title: 'How to Write with an LLM', desc: '' },
+      ja: { title: 'How to Write with an LLM', desc: '' },
+      en: { title: 'How to Write with an LLM', desc: '' },
+      source: 'HN (joeriddles)', time: '21:48', heat: 95,
+      tags: ["model", "product"], url: 'https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/'
     },
   ]},
 ];
