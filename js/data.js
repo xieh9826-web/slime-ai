@@ -1,9 +1,9 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-19T15:29:11.597428+00:00
+// Generated: 2026-09-19T20:08:34.369281+00:00
 const NEWS_DATA = [
   { day: '2026-09-19', items: [
     {
-      id: 3944,
+      id: 2627,
       zh: { title: 'AI-generated posters don’t have to be horrible', desc: '' },
       ja: { title: 'AI-generated posters don’t have to be horrible', desc: '' },
       en: { title: 'AI-generated posters don’t have to be horrible', desc: '' },
@@ -19,7 +19,7 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'
     },
     {
-      id: 6683,
+      id: 7685,
       zh: { title: 'GPT-6 Astra Solves a WWI German Radio Cipher', desc: '' },
       ja: { title: 'GPT-6 Astra Solves a WWI German Radio Cipher', desc: '' },
       en: { title: 'GPT-6 Astra Solves a WWI German Radio Cipher', desc: '' },
@@ -27,17 +27,17 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio'
     },
     {
-      id: 6956,
-      zh: { title: 'Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy', desc: '' },
-      ja: { title: 'Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy', desc: '' },
-      en: { title: 'Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy', desc: '' },
-      source: 'HN (nativeit)', time: '14:23', heat: 63,
-      tags: ["model", "product"], url: 'https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951'
+      id: 6782,
+      zh: { title: 'Almost Never Use AI to Write Anything Substantive', desc: '' },
+      ja: { title: 'Almost Never Use AI to Write Anything Substantive', desc: '' },
+      en: { title: 'Almost Never Use AI to Write Anything Substantive', desc: '' },
+      source: 'HN (erwald)', time: '16:35', heat: 95,
+      tags: ["model", "product"], url: 'https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai'
     },
   ]},
   { day: '2026-09-17', items: [
     {
-      id: 4666,
+      id: 5898,
       zh: { title: 'How to Write with an LLM', desc: '' },
       ja: { title: 'How to Write with an LLM', desc: '' },
       en: { title: 'How to Write with an LLM', desc: '' },
