@@ -1,9 +1,27 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-23T21:10:34.428145+00:00
+// Generated: 2026-09-24T03:29:27.917317+00:00
 const NEWS_DATA = [
+  { day: '2026-09-24', items: [
+    {
+      id: 5596,
+      zh: { title: 'Feds Target AI Critics as "Foreign Agents"', desc: '' },
+      ja: { title: 'Feds Target AI Critics as "Foreign Agents"', desc: '' },
+      en: { title: 'Feds Target AI Critics as "Foreign Agents"', desc: '' },
+      source: 'HN (nmeagent)', time: '00:41', heat: 93,
+      tags: ["model", "product"], url: 'https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign'
+    },
+    {
+      id: 5765,
+      zh: { title: 'Australia says OpenAI agent hacked into government website', desc: '' },
+      ja: { title: 'Australia says OpenAI agent hacked into government website', desc: '' },
+      en: { title: 'Australia says OpenAI agent hacked into government website', desc: '' },
+      source: 'HN (doppp)', time: '01:24', heat: 67,
+      tags: ["model", "product"], url: 'https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411'
+    },
+  ]},
   { day: '2026-09-23', items: [
     {
-      id: 4201,
+      id: 8769,
       zh: { title: 'Claude discovers a novel enzyme system with CRISPR-like repeats', desc: '' },
       ja: { title: 'Claude discovers a novel enzyme system with CRISPR-like repeats', desc: '' },
       en: { title: 'Claude discovers a novel enzyme system with CRISPR-like repeats', desc: '' },
@@ -11,36 +29,20 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'
     },
     {
-      id: 5572,
-      zh: { title: 'Gemini 3.8 text-to-speech', desc: '' },
-      ja: { title: 'Gemini 3.8 text-to-speech', desc: '' },
-      en: { title: 'Gemini 3.8 text-to-speech', desc: '' },
-      source: 'HN (swolpers)', time: '15:29', heat: 95,
-      tags: ["model", "product"], url: 'https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/'
+      id: 5965,
+      zh: { title: 'Mercury 2.5 LLM hits 770 tokens per second', desc: '' },
+      ja: { title: 'Mercury 2.5 LLM hits 770 tokens per second', desc: '' },
+      en: { title: 'Mercury 2.5 LLM hits 770 tokens per second', desc: '' },
+      source: 'HN (Retro_Dev)', time: '22:16', heat: 82,
+      tags: ["model", "product"], url: 'https://artificialanalysis.ai/models/mercury-2-5'
     },
     {
-      id: 8215,
-      zh: { title: 'How we made claude.ai 3x faster in two weeks', desc: '' },
-      ja: { title: 'How we made claude.ai 3x faster in two weeks', desc: '' },
-      en: { title: 'How we made claude.ai 3x faster in two weeks', desc: '' },
-      source: 'HN (matthieu_bl)', time: '19:23', heat: 91,
-      tags: ["model", "product"], url: 'https://claude.dev/blog/how-we-made-claude-ai-faster/'
-    },
-    {
-      id: 3066,
-      zh: { title: 'I don\'t want the details', desc: '' },
-      ja: { title: 'I don\'t want the details', desc: '' },
-      en: { title: 'I don\'t want the details', desc: '' },
-      source: 'HN (mooreds)', time: '13:04', heat: 95,
-      tags: ["model", "product"], url: 'https://michaelheap.com/i-dont-want-the-details/'
-    },
-    {
-      id: 5428,
-      zh: { title: 'Claude Code reads AGENTS.md only when telemetry is on [fixed]', desc: '' },
-      ja: { title: 'Claude Code reads AGENTS.md only when telemetry is on [fixed]', desc: '' },
-      en: { title: 'Claude Code reads AGENTS.md only when telemetry is on [fixed]', desc: '' },
-      source: 'HN (pszypowicz)', time: '12:15', heat: 95,
-      tags: ["model", "product"], url: 'https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/'
+      id: 4117,
+      zh: { title: 'Making Tailscale Faster', desc: '' },
+      ja: { title: 'Making Tailscale Faster', desc: '' },
+      en: { title: 'Making Tailscale Faster', desc: '' },
+      source: 'HN (yarapavan)', time: '17:49', heat: 95,
+      tags: ["model", "product"], url: 'https://tailscale.com/blog/making-tailscale-faster'
     },
   ]},
 ];
