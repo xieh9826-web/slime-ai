@@ -1,19 +1,27 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-26T03:52:48.627170+00:00
+// Generated: 2026-09-26T10:55:21.017826+00:00
 const NEWS_DATA = [
   { day: '2026-09-26', items: [
     {
-      id: 7080,
-      zh: { title: 'One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days', desc: '' },
-      ja: { title: 'One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days', desc: '' },
-      en: { title: 'One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days', desc: '' },
-      source: 'HN (HotGarbage)', time: '00:59', heat: 87,
-      tags: ["model", "product"], url: 'https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide'
+      id: 3067,
+      zh: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
+      ja: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
+      en: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
+      source: 'HN (allanrbo)', time: '04:20', heat: 91,
+      tags: ["model", "product"], url: 'http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html'
+    },
+    {
+      id: 8005,
+      zh: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
+      ja: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
+      en: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
+      source: 'HN (signa11)', time: '09:41', heat: 78,
+      tags: ["model", "product"], url: 'https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705'
     },
   ]},
   { day: '2026-09-25', items: [
     {
-      id: 1364,
+      id: 2693,
       zh: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
       ja: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
       en: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
@@ -21,29 +29,21 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://swarmtraces.org/'
     },
     {
-      id: 2520,
+      id: 2817,
       zh: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       ja: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       en: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       source: 'HN (Ardakilic)', time: '18:33', heat: 95,
       tags: ["model", "product"], url: 'https://ollaya.dev/'
     },
-    {
-      id: 3918,
-      zh: { title: 'I wrote a ray tracer in Brainfuck', desc: '' },
-      ja: { title: 'I wrote a ray tracer in Brainfuck', desc: '' },
-      en: { title: 'I wrote a ray tracer in Brainfuck', desc: '' },
-      source: 'HN (epestr)', time: '10:08', heat: 72,
-      tags: ["model", "product"], url: 'https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/'
-    },
   ]},
   { day: '2026-09-24', items: [
     {
-      id: 6237,
+      id: 6619,
       zh: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
       ja: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
       en: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
-      source: 'HN (cebert)', time: '12:03', heat: 55,
+      source: 'HN (cebert)', time: '12:03', heat: 71,
       tags: ["model", "product"], url: 'https://adekau.github.io/posts/2020/llamas.html'
     },
   ]},
