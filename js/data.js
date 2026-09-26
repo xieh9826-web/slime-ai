@@ -1,27 +1,35 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-26T10:55:21.017826+00:00
+// Generated: 2026-09-26T15:55:09.973913+00:00
 const NEWS_DATA = [
   { day: '2026-09-26', items: [
     {
-      id: 3067,
+      id: 4791,
       zh: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
       ja: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
       en: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
-      source: 'HN (allanrbo)', time: '04:20', heat: 91,
+      source: 'HN (allanrbo)', time: '04:20', heat: 95,
       tags: ["model", "product"], url: 'http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html'
     },
     {
-      id: 8005,
-      zh: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
-      ja: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
-      en: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
-      source: 'HN (signa11)', time: '09:41', heat: 78,
-      tags: ["model", "product"], url: 'https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705'
+      id: 1354,
+      zh: { title: 'Understanding the Impact of LLM Watermarking on AI Agent Behavior', desc: '' },
+      ja: { title: 'Understanding the Impact of LLM Watermarking on AI Agent Behavior', desc: '' },
+      en: { title: 'Understanding the Impact of LLM Watermarking on AI Agent Behavior', desc: '' },
+      source: 'HN (nisosguy)', time: '13:05', heat: 77,
+      tags: ["model", "product"], url: 'https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior'
+    },
+    {
+      id: 4094,
+      zh: { title: 'One Month Without AI', desc: '' },
+      ja: { title: 'One Month Without AI', desc: '' },
+      en: { title: 'One Month Without AI', desc: '' },
+      source: 'HN (saibotk)', time: '10:08', heat: 95,
+      tags: ["model", "product"], url: 'https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html'
     },
   ]},
   { day: '2026-09-25', items: [
     {
-      id: 2693,
+      id: 5976,
       zh: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
       ja: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
       en: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
@@ -29,22 +37,12 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://swarmtraces.org/'
     },
     {
-      id: 2817,
+      id: 1358,
       zh: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       ja: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       en: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       source: 'HN (Ardakilic)', time: '18:33', heat: 95,
       tags: ["model", "product"], url: 'https://ollaya.dev/'
-    },
-  ]},
-  { day: '2026-09-24', items: [
-    {
-      id: 6619,
-      zh: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
-      ja: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
-      en: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
-      source: 'HN (cebert)', time: '12:03', heat: 71,
-      tags: ["model", "product"], url: 'https://adekau.github.io/posts/2020/llamas.html'
     },
   ]},
 ];
