@@ -1,9 +1,27 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-25T21:10:38.923195+00:00
+// Generated: 2026-09-26T03:52:48.627170+00:00
 const NEWS_DATA = [
+  { day: '2026-09-26', items: [
+    {
+      id: 7080,
+      zh: { title: 'One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days', desc: '' },
+      ja: { title: 'One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days', desc: '' },
+      en: { title: 'One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days', desc: '' },
+      source: 'HN (HotGarbage)', time: '00:59', heat: 87,
+      tags: ["model", "product"], url: 'https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide'
+    },
+  ]},
   { day: '2026-09-25', items: [
     {
-      id: 6552,
+      id: 1364,
+      zh: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
+      ja: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
+      en: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
+      source: 'HN (specked-citrus)', time: '21:09', heat: 95,
+      tags: ["model", "product"], url: 'https://swarmtraces.org/'
+    },
+    {
+      id: 2520,
       zh: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       ja: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       en: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
@@ -11,36 +29,22 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://ollaya.dev/'
     },
     {
-      id: 4535,
-      zh: { title: 'U.S. appeals court upholds designation of Anthropic as supply chain risk', desc: '' },
-      ja: { title: 'U.S. appeals court upholds designation of Anthropic as supply chain risk', desc: '' },
-      en: { title: 'U.S. appeals court upholds designation of Anthropic as supply chain risk', desc: '' },
-      source: 'HN (cramer4next)', time: '15:29', heat: 95,
-      tags: ["model", "product"], url: 'https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html'
+      id: 3918,
+      zh: { title: 'I wrote a ray tracer in Brainfuck', desc: '' },
+      ja: { title: 'I wrote a ray tracer in Brainfuck', desc: '' },
+      en: { title: 'I wrote a ray tracer in Brainfuck', desc: '' },
+      source: 'HN (epestr)', time: '10:08', heat: 72,
+      tags: ["model", "product"], url: 'https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/'
     },
+  ]},
+  { day: '2026-09-24', items: [
     {
-      id: 6609,
-      zh: { title: 'Meta\'s Muse appears to use an OpenAI model labeled muse-special', desc: '' },
-      ja: { title: 'Meta\'s Muse appears to use an OpenAI model labeled muse-special', desc: '' },
-      en: { title: 'Meta\'s Muse appears to use an OpenAI model labeled muse-special', desc: '' },
-      source: 'HN (Aeroi)', time: '18:18', heat: 84,
-      tags: ["model", "product"], url: 'https://mouse.dev/blog/muse-special/'
-    },
-    {
-      id: 5137,
-      zh: { title: 'What About Rails?', desc: '' },
-      ja: { title: 'What About Rails?', desc: '' },
-      en: { title: 'What About Rails?', desc: '' },
-      source: 'HN (jrochkind1)', time: '02:50', heat: 95,
-      tags: ["model", "product"], url: 'https://jardo.dev/what-about-rails'
-    },
-    {
-      id: 6212,
-      zh: { title: 'Show HN: Doom or Bloom, map your AI worldview', desc: '' },
-      ja: { title: 'Show HN: Doom or Bloom, map your AI worldview', desc: '' },
-      en: { title: 'Show HN: Doom or Bloom, map your AI worldview', desc: '' },
-      source: 'HN (transitivebs)', time: '16:51', heat: 68,
-      tags: ["model", "product"], url: 'https://www.doom-or-bloom.com'
+      id: 6237,
+      zh: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
+      ja: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
+      en: { title: 'Fourier Analysis: Drawing Llamas with Circles', desc: '' },
+      source: 'HN (cebert)', time: '12:03', heat: 55,
+      tags: ["model", "product"], url: 'https://adekau.github.io/posts/2020/llamas.html'
     },
   ]},
 ];
