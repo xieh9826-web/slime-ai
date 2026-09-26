@@ -1,35 +1,27 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-26T15:55:09.973913+00:00
+// Generated: 2026-09-26T20:43:00.199946+00:00
 const NEWS_DATA = [
   { day: '2026-09-26', items: [
     {
-      id: 4791,
-      zh: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
-      ja: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
-      en: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
-      source: 'HN (allanrbo)', time: '04:20', heat: 95,
-      tags: ["model", "product"], url: 'http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html'
+      id: 1485,
+      zh: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
+      ja: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
+      en: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
+      source: 'HN (signa11)', time: '09:41', heat: 95,
+      tags: ["model", "product"], url: 'https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705'
     },
     {
-      id: 1354,
-      zh: { title: 'Understanding the Impact of LLM Watermarking on AI Agent Behavior', desc: '' },
-      ja: { title: 'Understanding the Impact of LLM Watermarking on AI Agent Behavior', desc: '' },
-      en: { title: 'Understanding the Impact of LLM Watermarking on AI Agent Behavior', desc: '' },
-      source: 'HN (nisosguy)', time: '13:05', heat: 77,
-      tags: ["model", "product"], url: 'https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior'
-    },
-    {
-      id: 4094,
-      zh: { title: 'One Month Without AI', desc: '' },
-      ja: { title: 'One Month Without AI', desc: '' },
-      en: { title: 'One Month Without AI', desc: '' },
-      source: 'HN (saibotk)', time: '10:08', heat: 95,
-      tags: ["model", "product"], url: 'https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html'
+      id: 1634,
+      zh: { title: 'Banks and Credit Unions to Team Up Against Apple Pay Fees', desc: '' },
+      ja: { title: 'Banks and Credit Unions to Team Up Against Apple Pay Fees', desc: '' },
+      en: { title: 'Banks and Credit Unions to Team Up Against Apple Pay Fees', desc: '' },
+      source: 'HN (Brajeshwar)', time: '15:48', heat: 94,
+      tags: ["model", "product"], url: 'https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/'
     },
   ]},
   { day: '2026-09-25', items: [
     {
-      id: 5976,
+      id: 8403,
       zh: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
       ja: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
       en: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
@@ -37,12 +29,22 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://swarmtraces.org/'
     },
     {
-      id: 1358,
+      id: 6665,
       zh: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       ja: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       en: { title: 'Ollaya – Ollama for open-source, Jev-style decision models', desc: '' },
       source: 'HN (Ardakilic)', time: '18:33', heat: 95,
       tags: ["model", "product"], url: 'https://ollaya.dev/'
+    },
+  ]},
+  { day: '2026-09-24', items: [
+    {
+      id: 5683,
+      zh: { title: 'A searchable library of forgotten public-domain film clips from 1915 onward', desc: '' },
+      ja: { title: 'A searchable library of forgotten public-domain film clips from 1915 onward', desc: '' },
+      en: { title: 'A searchable library of forgotten public-domain film clips from 1915 onward', desc: '' },
+      source: 'HN (momentmaker)', time: '16:11', heat: 74,
+      tags: ["model", "product"], url: 'https://www.movingimagearchive.com/'
     },
   ]},
 ];
