@@ -1,50 +1,50 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-27T04:02:50.393182+00:00
+// Generated: 2026-09-27T11:31:54.599745+00:00
 const NEWS_DATA = [
-  { day: '2026-09-26', items: [
+  { day: '2026-09-27', items: [
     {
-      id: 6569,
-      zh: { title: 'Generate fonts where every LLM token is the same width', desc: '' },
-      ja: { title: 'Generate fonts where every LLM token is the same width', desc: '' },
-      en: { title: 'Generate fonts where every LLM token is the same width', desc: '' },
-      source: 'HN (z-mach9)', time: '00:30', heat: 69,
-      tags: ["model", "product"], url: 'https://ampdot.mesh.host/token-space-fonts.html'
+      id: 5173,
+      zh: { title: '"As a Language Model": Chat Template Switches LLM Self-Referential Voice', desc: '' },
+      ja: { title: '"As a Language Model": Chat Template Switches LLM Self-Referential Voice', desc: '' },
+      en: { title: '"As a Language Model": Chat Template Switches LLM Self-Referential Voice', desc: '' },
+      source: 'HN (yu3zhou4)', time: '10:26', heat: 63,
+      tags: ["model", "product"], url: 'https://arxiv.org/abs/2609.25021'
     },
     {
-      id: 7369,
-      zh: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
-      ja: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
-      en: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
-      source: 'HN (signa11)', time: '09:41', heat: 95,
-      tags: ["model", "product"], url: 'https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705'
+      id: 9352,
+      zh: { title: 'OpenAI Feared "Optics" of what might appear on Hacker News', desc: '' },
+      ja: { title: 'OpenAI Feared "Optics" of what might appear on Hacker News', desc: '' },
+      en: { title: 'OpenAI Feared "Optics" of what might appear on Hacker News', desc: '' },
+      source: 'HN (papergirl)', time: '06:19', heat: 95,
+      tags: ["model", "product"], url: 'https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/'
+    },
+    {
+      id: 7830,
+      zh: { title: 'Meta Blocks President Lula\'s Facebook Page, Campaign Ads 2 Weeks from Election', desc: '' },
+      ja: { title: 'Meta Blocks President Lula\'s Facebook Page, Campaign Ads 2 Weeks from Election', desc: '' },
+      en: { title: 'Meta Blocks President Lula\'s Facebook Page, Campaign Ads 2 Weeks from Election', desc: '' },
+      source: 'HN (rbanffy)', time: '08:44', heat: 95,
+      tags: ["model", "product"], url: 'https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/'
     },
   ]},
   { day: '2026-09-25', items: [
     {
-      id: 5390,
+      id: 9990,
       zh: { title: 'Evolving programming languages in the AI era', desc: '' },
       ja: { title: 'Evolving programming languages in the AI era', desc: '' },
       en: { title: 'Evolving programming languages in the AI era', desc: '' },
-      source: 'HN (pjm331)', time: '02:34', heat: 74,
+      source: 'HN (pjm331)', time: '02:34', heat: 95,
       tags: ["model", "product"], url: 'https://dashbit.co/blog/evolving-ai-era'
     },
   ]},
   { day: '2026-09-24', items: [
     {
-      id: 1341,
+      id: 3276,
       zh: { title: 'A searchable library of forgotten public-domain film clips from 1915 onward', desc: '' },
       ja: { title: 'A searchable library of forgotten public-domain film clips from 1915 onward', desc: '' },
       en: { title: 'A searchable library of forgotten public-domain film clips from 1915 onward', desc: '' },
       source: 'HN (momentmaker)', time: '16:11', heat: 95,
       tags: ["model", "product"], url: 'https://www.movingimagearchive.com/'
-    },
-    {
-      id: 5323,
-      zh: { title: 'How I changed teaching after AI managed to do all my homework assignments', desc: '' },
-      ja: { title: 'How I changed teaching after AI managed to do all my homework assignments', desc: '' },
-      en: { title: 'How I changed teaching after AI managed to do all my homework assignments', desc: '' },
-      source: 'HN (azhenley)', time: '20:51', heat: 95,
-      tags: ["model", "product"], url: 'https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed'
     },
   ]},
 ];
