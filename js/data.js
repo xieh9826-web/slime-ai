@@ -1,47 +1,47 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-09-27T20:59:04.390173+00:00
+// Generated: 2026-09-28T04:03:36.228889+00:00
 const NEWS_DATA = [
-  { day: '2026-09-27', items: [
+  { day: '2026-09-28', items: [
     {
-      id: 6910,
-      zh: { title: 'Show HN: TinyAIArena watch AI agents battle it out', desc: '' },
-      ja: { title: 'Show HN: TinyAIArena watch AI agents battle it out', desc: '' },
-      en: { title: 'Show HN: TinyAIArena watch AI agents battle it out', desc: '' },
-      source: 'HN (hp6)', time: '15:51', heat: 89,
-      tags: ["model", "product"], url: 'https://tinyaiarena.com/'
+      id: 3370,
+      zh: { title: 'Nissan\'s third generation e-POWER powertrain', desc: '' },
+      ja: { title: 'Nissan\'s third generation e-POWER powertrain', desc: '' },
+      en: { title: 'Nissan\'s third generation e-POWER powertrain', desc: '' },
+      source: 'HN (mroche)', time: '02:31', heat: 57,
+      tags: ["model", "product"], url: 'https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/'
     },
     {
-      id: 3871,
-      zh: { title: 'The Normalization of Inexplicable Failures', desc: '' },
-      ja: { title: 'The Normalization of Inexplicable Failures', desc: '' },
-      en: { title: 'The Normalization of Inexplicable Failures', desc: '' },
-      source: 'HN (pxx)', time: '15:26', heat: 95,
-      tags: ["model", "product"], url: 'https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html'
+      id: 3290,
+      zh: { title: 'Thinking Fast and Slow in AI: The Role of Metacognition', desc: '' },
+      ja: { title: 'Thinking Fast and Slow in AI: The Role of Metacognition', desc: '' },
+      en: { title: 'Thinking Fast and Slow in AI: The Role of Metacognition', desc: '' },
+      source: 'HN (teleforce)', time: '03:23', heat: 52,
+      tags: ["model", "product"], url: 'https://arxiv.org/abs/2110.01834'
     },
     {
-      id: 3387,
-      zh: { title: 'There are no "rogue" AI agents', desc: '' },
-      ja: { title: 'There are no "rogue" AI agents', desc: '' },
-      en: { title: 'There are no "rogue" AI agents', desc: '' },
-      source: 'HN (zzzeek)', time: '16:19', heat: 95,
-      tags: ["model", "product"], url: 'https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents'
+      id: 3659,
+      zh: { title: 'TabPFN and TabICL vs. tuned XGBoost: the model that doesn\'t train won 14/14', desc: '' },
+      ja: { title: 'TabPFN and TabICL vs. tuned XGBoost: the model that doesn\'t train won 14/14', desc: '' },
+      en: { title: 'TabPFN and TabICL vs. tuned XGBoost: the model that doesn\'t train won 14/14', desc: '' },
+      source: 'HN (EfrainGaray)', time: '02:27', heat: 52,
+      tags: ["model", "product"], url: 'https://efraingaray.com/en/blog/tabpfn-vs-xgboost/'
     },
     {
-      id: 3554,
-      zh: { title: 'Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI', desc: '' },
-      ja: { title: 'Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI', desc: '' },
-      en: { title: 'Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI', desc: '' },
-      source: 'HN (papergirl)', time: '06:19', heat: 95,
-      tags: ["model", "product"], url: 'https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/'
+      id: 9818,
+      zh: { title: 'Microsoft drops Copilot+ branding from its new laptops', desc: '' },
+      ja: { title: 'Microsoft drops Copilot+ branding from its new laptops', desc: '' },
+      en: { title: 'Microsoft drops Copilot+ branding from its new laptops', desc: '' },
+      source: 'HN (anthuswilliams)', time: '02:46', heat: 59,
+      tags: ["model", "product"], url: 'https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding'
     },
   ]},
   { day: '2026-09-26', items: [
     {
-      id: 7106,
+      id: 6899,
       zh: { title: 'Faster prompt lookup drafting in llama.cpp', desc: '' },
       ja: { title: 'Faster prompt lookup drafting in llama.cpp', desc: '' },
       en: { title: 'Faster prompt lookup drafting in llama.cpp', desc: '' },
-      source: 'HN (pptadversary)', time: '19:57', heat: 72,
+      source: 'HN (pptadversary)', time: '19:57', heat: 87,
       tags: ["model", "product"], url: 'https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/'
     },
   ]},
