@@ -1,88 +1,86 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-10-02T17:48:21.990984+00:00
+// Generated: 2026-10-02T21:53:32.670827+00:00
 const NEWS_DATA = [
   { day: '2026-10-02', items: [
     {
-      id: 8962,
-      zh: { title: 'Show HN: Giving Opus 5.5 a simulated paint canvas', desc: '' },
-      ja: { title: 'Show HN: Giving Opus 5.5 a simulated paint canvas', desc: '' },
-      en: { title: 'Show HN: Giving Opus 5.5 a simulated paint canvas', desc: '' },
-      source: 'HN (alstonite)', time: '00:27', heat: 89,
-      tags: ["model", "product"], url: 'https://stillwet.art/'
+      id: 5951,
+      zh: { title: 'Greg Kroah-Hartman – Security in the LLM Age [video]', desc: '' },
+      ja: { title: 'Greg Kroah-Hartman – Security in the LLM Age [video]', desc: '' },
+      en: { title: 'Greg Kroah-Hartman – Security in the LLM Age [video]', desc: '' },
+      source: 'HN (usernomdeguerre)', time: '02:51', heat: 95,
+      tags: ["model", "product"], url: 'https://www.youtube.com/watch?v=NnV_cWeoo5Q'
     },
     {
-      id: 6786,
-      zh: { title: 'Power approval set to delay Oracle\'s Wisconsin AI datacenter', desc: '' },
-      ja: { title: 'Power approval set to delay Oracle\'s Wisconsin AI datacenter', desc: '' },
-      en: { title: 'Power approval set to delay Oracle\'s Wisconsin AI datacenter', desc: '' },
-      source: 'HN (Betelbuddy)', time: '15:24', heat: 68,
-      tags: ["model", "product"], url: 'https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832'
+      id: 5131,
+      zh: { title: 'With most information hidden, the game Stratego had stumped AI until now', desc: '' },
+      ja: { title: 'With most information hidden, the game Stratego had stumped AI until now', desc: '' },
+      en: { title: 'With most information hidden, the game Stratego had stumped AI until now', desc: '' },
+      source: 'HN (PaulHoule)', time: '14:11', heat: 95,
+      tags: ["model", "product"], url: 'https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/'
     },
     {
-      id: 6859,
+      id: 6290,
+      zh: { title: 'From the creator of Redis; run LLM locally with ds4', desc: '' },
+      ja: { title: 'From the creator of Redis; run LLM locally with ds4', desc: '' },
+      en: { title: 'From the creator of Redis; run LLM locally with ds4', desc: '' },
+      source: 'HN (fibo)', time: '18:01', heat: 92,
+      tags: ["model", "product"], url: 'https://dwarfstar.sh/'
+    },
+    {
+      id: 4030,
+      zh: { title: 'Show HN: Made an open-source Lego AI generator', desc: '' },
+      ja: { title: 'Show HN: Made an open-source Lego AI generator', desc: '' },
+      en: { title: 'Show HN: Made an open-source Lego AI generator', desc: '' },
+      source: 'HN (antelocnova)', time: '20:00', heat: 70,
+      tags: ["model", "product"], url: 'https://github.com/anteloc/ldraw-nova'
+    },
+    {
+      id: 3322,
+      zh: { title: 'Venice’s failed war against Constantinople led to the first bond market', desc: '' },
+      ja: { title: 'Venice’s failed war against Constantinople led to the first bond market', desc: '' },
+      en: { title: 'Venice’s failed war against Constantinople led to the first bond market', desc: '' },
+      source: 'HN (RickJWagner)', time: '13:17', heat: 74,
+      tags: ["model", "product"], url: 'https://bigthink.com/books/a-fabulous-debt/'
+    },
+    {
+      id: 1840,
       zh: { title: '[arXiv] KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif', desc: 'LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analy' },
       ja: { title: '[arXiv] KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif', desc: 'LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analy' },
       en: { title: '[arXiv] KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif', desc: 'LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analy' },
-      source: 'arXiv', time: '17:48', heat: 70,
+      source: 'arXiv', time: '21:53', heat: 71,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02206v1'
     },
     {
-      id: 5160,
+      id: 8458,
       zh: { title: '[arXiv] ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research', desc: 'What makes great scientists great? Even as AI systems start to make progress on open problems, scien' },
       ja: { title: '[arXiv] ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research', desc: 'What makes great scientists great? Even as AI systems start to make progress on open problems, scien' },
       en: { title: '[arXiv] ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research', desc: 'What makes great scientists great? Even as AI systems start to make progress on open problems, scien' },
-      source: 'arXiv', time: '17:48', heat: 77,
+      source: 'arXiv', time: '21:53', heat: 66,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02202v1'
     },
     {
-      id: 4773,
+      id: 9067,
       zh: { title: '[arXiv] Hierarchical Continuous Diffusion Language Models', desc: 'Discrete diffusion language models offer a compelling alternative to autoregressive generation for t' },
       ja: { title: '[arXiv] Hierarchical Continuous Diffusion Language Models', desc: 'Discrete diffusion language models offer a compelling alternative to autoregressive generation for t' },
       en: { title: '[arXiv] Hierarchical Continuous Diffusion Language Models', desc: 'Discrete diffusion language models offer a compelling alternative to autoregressive generation for t' },
-      source: 'arXiv', time: '17:48', heat: 72,
+      source: 'arXiv', time: '21:53', heat: 70,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02193v1'
     },
     {
-      id: 5253,
+      id: 7381,
       zh: { title: '[arXiv] From Knowledge Access to Source Learning: Developing Source-Specific Competence', desc: 'Large language model (LLM) agents increasingly rely on persistent external sources to solve sequence' },
       ja: { title: '[arXiv] From Knowledge Access to Source Learning: Developing Source-Specific Competence', desc: 'Large language model (LLM) agents increasingly rely on persistent external sources to solve sequence' },
       en: { title: '[arXiv] From Knowledge Access to Source Learning: Developing Source-Specific Competence', desc: 'Large language model (LLM) agents increasingly rely on persistent external sources to solve sequence' },
-      source: 'arXiv', time: '17:48', heat: 80,
+      source: 'arXiv', time: '21:53', heat: 76,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02150v1'
     },
     {
-      id: 9611,
+      id: 2301,
       zh: { title: '[arXiv] Finetuning with Sampling: SFT Learns Better Than You Think', desc: 'Introducing new capabilities to frontier models has long been the goal of posttraining, which predom' },
       ja: { title: '[arXiv] Finetuning with Sampling: SFT Learns Better Than You Think', desc: 'Introducing new capabilities to frontier models has long been the goal of posttraining, which predom' },
       en: { title: '[arXiv] Finetuning with Sampling: SFT Learns Better Than You Think', desc: 'Introducing new capabilities to frontier models has long been the goal of posttraining, which predom' },
-      source: 'arXiv', time: '17:48', heat: 66,
+      source: 'arXiv', time: '21:53', heat: 76,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02140v1'
-    },
-  ]},
-  { day: '2026-10-01', items: [
-    {
-      id: 9037,
-      zh: { title: 'Show HN: Breadcrumb, record everything on your mac + context manager for AI', desc: '' },
-      ja: { title: 'Show HN: Breadcrumb, record everything on your mac + context manager for AI', desc: '' },
-      en: { title: 'Show HN: Breadcrumb, record everything on your mac + context manager for AI', desc: '' },
-      source: 'HN (jv22222)', time: '17:58', heat: 65,
-      tags: ["model", "product"], url: 'https://innerloop.works/breadcrumb'
-    },
-    {
-      id: 4150,
-      zh: { title: 'The OpenAI Decisions API needs a confidence you can trust', desc: '' },
-      ja: { title: 'The OpenAI Decisions API needs a confidence you can trust', desc: '' },
-      en: { title: 'The OpenAI Decisions API needs a confidence you can trust', desc: '' },
-      source: 'HN (AnthusAI)', time: '22:33', heat: 64,
-      tags: ["model", "product"], url: 'https://anth.us/blog/openai-decisions-api-preview/'
-    },
-    {
-      id: 3327,
-      zh: { title: 'Vote on which of Hacker News\' challenges for AI have been met', desc: '' },
-      ja: { title: 'Vote on which of Hacker News\' challenges for AI have been met', desc: '' },
-      en: { title: 'Vote on which of Hacker News\' challenges for AI have been met', desc: '' },
-      source: 'HN (stabbles)', time: '17:32', heat: 95,
-      tags: ["model", "product"], url: 'https://stoppels.ch/goalposts/'
     },
   ]},
 ];
