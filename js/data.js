@@ -1,88 +1,90 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-10-04T20:56:02.737397+00:00
+// Generated: 2026-10-05T04:26:24.668104+00:00
 const NEWS_DATA = [
-  { day: '2026-10-04', items: [
+  { day: '2026-10-05', items: [
     {
-      id: 5153,
-      zh: { title: 'Remove and Disable Apple Macos27 AI Models Tool', desc: '' },
-      ja: { title: 'Remove and Disable Apple Macos27 AI Models Tool', desc: '' },
-      en: { title: 'Remove and Disable Apple Macos27 AI Models Tool', desc: '' },
-      source: 'HN (privacyisntdead)', time: '19:42', heat: 88,
-      tags: ["model", "product"], url: 'https://github.com/omlahore/RemoveMacAI'
+      id: 3730,
+      zh: { title: 'Powerless F1 drivers frustrated by Bahrain F1 software glitch', desc: '' },
+      ja: { title: 'Powerless F1 drivers frustrated by Bahrain F1 software glitch', desc: '' },
+      en: { title: 'Powerless F1 drivers frustrated by Bahrain F1 software glitch', desc: '' },
+      source: 'HN (llm_nerd)', time: '01:54', heat: 95,
+      tags: ["model", "product"], url: 'https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/'
     },
     {
-      id: 7950,
-      zh: { title: 'Homa: The End of TCP for AI Clusters [video]', desc: '' },
-      ja: { title: 'Homa: The End of TCP for AI Clusters [video]', desc: '' },
-      en: { title: 'Homa: The End of TCP for AI Clusters [video]', desc: '' },
-      source: 'HN (signa11)', time: '19:42', heat: 56,
+      id: 8036,
+      zh: { title: '[arXiv] FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution', desc: 'LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challe' },
+      ja: { title: '[arXiv] FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution', desc: 'LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challe' },
+      en: { title: '[arXiv] FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution', desc: 'LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challe' },
+      source: 'arXiv', time: '04:26', heat: 84,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.03675v1'
+    },
+    {
+      id: 5013,
+      zh: { title: '[arXiv] A Near-Zero Monitor Readout Is Not Evidence of Behavioral Control', desc: 'Post-training with verifiable rewards can induce reward hacking, motivating the use of monitors with' },
+      ja: { title: '[arXiv] A Near-Zero Monitor Readout Is Not Evidence of Behavioral Control', desc: 'Post-training with verifiable rewards can induce reward hacking, motivating the use of monitors with' },
+      en: { title: '[arXiv] A Near-Zero Monitor Readout Is Not Evidence of Behavioral Control', desc: 'Post-training with verifiable rewards can induce reward hacking, motivating the use of monitors with' },
+      source: 'arXiv', time: '04:26', heat: 66,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.03458v1'
+    },
+    {
+      id: 1882,
+      zh: { title: '[arXiv] Benchmarking Candidate Coverage in Typed Decision Models', desc: 'Typed decision models return choices or distributions over answer options supplied at request time. ' },
+      ja: { title: '[arXiv] Benchmarking Candidate Coverage in Typed Decision Models', desc: 'Typed decision models return choices or distributions over answer options supplied at request time. ' },
+      en: { title: '[arXiv] Benchmarking Candidate Coverage in Typed Decision Models', desc: 'Typed decision models return choices or distributions over answer options supplied at request time. ' },
+      source: 'arXiv', time: '04:26', heat: 75,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.03387v1'
+    },
+    {
+      id: 1097,
+      zh: { title: '[arXiv] Multilingual GSM-Symbolic: What determines capability transfer across languages?', desc: 'We understand little about how capabilities acquired in one language carry over to another, or what ' },
+      ja: { title: '[arXiv] Multilingual GSM-Symbolic: What determines capability transfer across languages?', desc: 'We understand little about how capabilities acquired in one language carry over to another, or what ' },
+      en: { title: '[arXiv] Multilingual GSM-Symbolic: What determines capability transfer across languages?', desc: 'We understand little about how capabilities acquired in one language carry over to another, or what ' },
+      source: 'arXiv', time: '04:26', heat: 80,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.03367v1'
+    },
+    {
+      id: 8470,
+      zh: { title: '[arXiv] SyntaxBench: A Statistical Diagnostic Framework for Character-Level Reasoning in Large Language Mode', desc: 'Large language models are increasingly used where small syntactic errors matter, yet character-level' },
+      ja: { title: '[arXiv] SyntaxBench: A Statistical Diagnostic Framework for Character-Level Reasoning in Large Language Mode', desc: 'Large language models are increasingly used where small syntactic errors matter, yet character-level' },
+      en: { title: '[arXiv] SyntaxBench: A Statistical Diagnostic Framework for Character-Level Reasoning in Large Language Mode', desc: 'Large language models are increasingly used where small syntactic errors matter, yet character-level' },
+      source: 'arXiv', time: '04:26', heat: 70,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.03329v1'
+    },
+  ]},
+  { day: '2026-10-04', items: [
+    {
+      id: 6152,
+      zh: { title: 'Homa: The end of TCP for AI clusters [video]', desc: '' },
+      ja: { title: 'Homa: The end of TCP for AI clusters [video]', desc: '' },
+      en: { title: 'Homa: The end of TCP for AI clusters [video]', desc: '' },
+      source: 'HN (signa11)', time: '19:42', heat: 81,
       tags: ["model", "product"], url: 'https://www.youtube.com/watch?v=eZ8WWZzoaR0'
     },
     {
-      id: 9830,
+      id: 1304,
       zh: { title: 'How to scale intent, quality, and artistry with AI [video]', desc: '' },
       ja: { title: 'How to scale intent, quality, and artistry with AI [video]', desc: '' },
       en: { title: 'How to scale intent, quality, and artistry with AI [video]', desc: '' },
-      source: 'HN (simonjgreen)', time: '08:41', heat: 59,
+      source: 'HN (simonjgreen)', time: '08:41', heat: 83,
       tags: ["model", "product"], url: 'https://www.youtube.com/watch?v=GLvFTMtw4Jk'
     },
     {
-      id: 8660,
-      zh: { title: 'I asked Claude build a physically accurate O\'Neill cylinder you can walk around', desc: '' },
-      ja: { title: 'I asked Claude build a physically accurate O\'Neill cylinder you can walk around', desc: '' },
-      en: { title: 'I asked Claude build a physically accurate O\'Neill cylinder you can walk around', desc: '' },
-      source: 'HN (bilsbie)', time: '19:49', heat: 53,
-      tags: ["model", "product"], url: 'https://island-three.gruberbuilds.workers.dev/'
-    },
-    {
-      id: 9228,
-      zh: { title: '[arXiv] KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif', desc: 'LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analy' },
-      ja: { title: '[arXiv] KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif', desc: 'LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analy' },
-      en: { title: '[arXiv] KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif', desc: 'LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analy' },
-      source: 'arXiv', time: '20:56', heat: 73,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02206v1'
-    },
-    {
-      id: 3222,
-      zh: { title: '[arXiv] ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research', desc: 'What makes great scientists great? Even as AI systems start to make progress on open problems, scien' },
-      ja: { title: '[arXiv] ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research', desc: 'What makes great scientists great? Even as AI systems start to make progress on open problems, scien' },
-      en: { title: '[arXiv] ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research', desc: 'What makes great scientists great? Even as AI systems start to make progress on open problems, scien' },
-      source: 'arXiv', time: '20:56', heat: 65,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02202v1'
-    },
-    {
-      id: 9781,
-      zh: { title: '[arXiv] Hierarchical Continuous Diffusion Language Models', desc: 'Discrete diffusion language models offer a compelling alternative to autoregressive generation for t' },
-      ja: { title: '[arXiv] Hierarchical Continuous Diffusion Language Models', desc: 'Discrete diffusion language models offer a compelling alternative to autoregressive generation for t' },
-      en: { title: '[arXiv] Hierarchical Continuous Diffusion Language Models', desc: 'Discrete diffusion language models offer a compelling alternative to autoregressive generation for t' },
-      source: 'arXiv', time: '20:56', heat: 73,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02193v1'
-    },
-    {
-      id: 5790,
-      zh: { title: '[arXiv] From Knowledge Access to Source Learning: Developing Source-Specific Competence', desc: 'Large language model (LLM) agents increasingly rely on persistent external sources to solve sequence' },
-      ja: { title: '[arXiv] From Knowledge Access to Source Learning: Developing Source-Specific Competence', desc: 'Large language model (LLM) agents increasingly rely on persistent external sources to solve sequence' },
-      en: { title: '[arXiv] From Knowledge Access to Source Learning: Developing Source-Specific Competence', desc: 'Large language model (LLM) agents increasingly rely on persistent external sources to solve sequence' },
-      source: 'arXiv', time: '20:56', heat: 83,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02150v1'
-    },
-    {
-      id: 1348,
-      zh: { title: '[arXiv] Finetuning with Sampling: SFT Learns Better Than You Think', desc: 'Introducing new capabilities to frontier models has long been the goal of posttraining, which predom' },
-      ja: { title: '[arXiv] Finetuning with Sampling: SFT Learns Better Than You Think', desc: 'Introducing new capabilities to frontier models has long been the goal of posttraining, which predom' },
-      en: { title: '[arXiv] Finetuning with Sampling: SFT Learns Better Than You Think', desc: 'Introducing new capabilities to frontier models has long been the goal of posttraining, which predom' },
-      source: 'arXiv', time: '20:56', heat: 85,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.02140v1'
+      id: 5542,
+      zh: { title: 'Show HN: AI search for every photo and every frame of video on macOS', desc: '' },
+      ja: { title: 'Show HN: AI search for every photo and every frame of video on macOS', desc: '' },
+      en: { title: 'Show HN: AI search for every photo and every frame of video on macOS', desc: '' },
+      source: 'HN (allenleee)', time: '09:24', heat: 95,
+      tags: ["model", "product"], url: 'https://github.com/allenv0/SCM'
     },
   ]},
-  { day: '2026-10-03', items: [
+  { day: '2026-10-02', items: [
     {
-      id: 1765,
-      zh: { title: 'Declaring a bird extinct: The median wait is 36 years after the last sighting', desc: '' },
-      ja: { title: 'Declaring a bird extinct: The median wait is 36 years after the last sighting', desc: '' },
-      en: { title: 'Declaring a bird extinct: The median wait is 36 years after the last sighting', desc: '' },
-      source: 'HN (Heidi_70)', time: '23:16', heat: 54,
-      tags: ["model", "product"], url: 'https://birdshistory.com/how-long-to-declare-a-bird-extinct/'
+      id: 2469,
+      zh: { title: 'Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex', desc: '' },
+      ja: { title: 'Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex', desc: '' },
+      en: { title: 'Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex', desc: '' },
+      source: 'HN (veqq)', time: '22:17', heat: 62,
+      tags: ["model", "product"], url: 'https://alexalejandre.com/interviews/peter-bex/'
     },
   ]},
 ];
