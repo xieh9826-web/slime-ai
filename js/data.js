@@ -1,17 +1,9 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-10-11T12:13:27.746335+00:00
+// Generated: 2026-10-11T21:34:51.036220+00:00
 const NEWS_DATA = [
   { day: '2026-10-11', items: [
     {
-      id: 9723,
-      zh: { title: 'I paid people to try and follow my README', desc: '' },
-      ja: { title: 'I paid people to try and follow my README', desc: '' },
-      en: { title: 'I paid people to try and follow my README', desc: '' },
-      source: 'HN (edent)', time: '11:47', heat: 60,
-      tags: ["model", "product"], url: 'https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/'
-    },
-    {
-      id: 2539,
+      id: 1339,
       zh: { title: 'Weave (YC W25) is hiring ML, AI, product, & design engineers', desc: '' },
       ja: { title: 'Weave (YC W25) is hiring ML, AI, product, & design engineers', desc: '' },
       en: { title: 'Weave (YC W25) is hiring ML, AI, product, & design engineers', desc: '' },
@@ -19,72 +11,70 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://jobs.ashbyhq.com/weave-os'
     },
     {
-      id: 5590,
-      zh: { title: 'AI is creating a \'human premium\' for art created by people', desc: '' },
-      ja: { title: 'AI is creating a \'human premium\' for art created by people', desc: '' },
-      en: { title: 'AI is creating a \'human premium\' for art created by people', desc: '' },
-      source: 'HN (colinprince)', time: '11:34', heat: 59,
-      tags: ["model", "product"], url: 'https://www.bbc.com/news/articles/c5vgjm3gk7rzo'
+      id: 3716,
+      zh: { title: 'I paid people to try and follow my README', desc: '' },
+      ja: { title: 'I paid people to try and follow my README', desc: '' },
+      en: { title: 'I paid people to try and follow my README', desc: '' },
+      source: 'HN (edent)', time: '11:47', heat: 95,
+      tags: ["model", "product"], url: 'https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/'
     },
     {
-      id: 8961,
+      id: 5593,
+      zh: { title: 'Why Texas Is Making Data Centers Wait', desc: '' },
+      ja: { title: 'Why Texas Is Making Data Centers Wait', desc: '' },
+      en: { title: 'Why Texas Is Making Data Centers Wait', desc: '' },
+      source: 'HN (gmays)', time: '14:21', heat: 65,
+      tags: ["model", "product"], url: 'https://a16z.com/why-texas-is-making-data-centers-wait/'
+    },
+    {
+      id: 4936,
       zh: { title: '[arXiv] Predicting Alignment Generalization with Value Representations', desc: 'LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are ' },
       ja: { title: '[arXiv] Predicting Alignment Generalization with Value Representations', desc: 'LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are ' },
       en: { title: '[arXiv] Predicting Alignment Generalization with Value Representations', desc: 'LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are ' },
-      source: 'arXiv', time: '12:13', heat: 85,
+      source: 'arXiv', time: '21:34', heat: 71,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.12410v1'
     },
     {
-      id: 8686,
+      id: 4598,
       zh: { title: '[arXiv] OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Awa', desc: 'Agents are deployed in applications from trip planners and stock trading to IT incident triage. In m' },
       ja: { title: '[arXiv] OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Awa', desc: 'Agents are deployed in applications from trip planners and stock trading to IT incident triage. In m' },
       en: { title: '[arXiv] OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Awa', desc: 'Agents are deployed in applications from trip planners and stock trading to IT incident triage. In m' },
-      source: 'arXiv', time: '12:13', heat: 78,
+      source: 'arXiv', time: '21:34', heat: 76,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.12375v1'
     },
     {
-      id: 3305,
+      id: 3978,
       zh: { title: '[arXiv] Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness', desc: 'Large language models increasingly justify legal decisions by naming the statute or precedent behind' },
       ja: { title: '[arXiv] Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness', desc: 'Large language models increasingly justify legal decisions by naming the statute or precedent behind' },
       en: { title: '[arXiv] Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness', desc: 'Large language models increasingly justify legal decisions by naming the statute or precedent behind' },
-      source: 'arXiv', time: '12:13', heat: 82,
+      source: 'arXiv', time: '21:34', heat: 82,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.12361v1'
     },
     {
-      id: 2690,
+      id: 2455,
       zh: { title: '[arXiv] Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict', desc: 'When retrieved evidence contradicts an agent\'s prior beliefs, does it revise its answer, acknowledge' },
       ja: { title: '[arXiv] Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict', desc: 'When retrieved evidence contradicts an agent\'s prior beliefs, does it revise its answer, acknowledge' },
       en: { title: '[arXiv] Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict', desc: 'When retrieved evidence contradicts an agent\'s prior beliefs, does it revise its answer, acknowledge' },
-      source: 'arXiv', time: '12:13', heat: 65,
+      source: 'arXiv', time: '21:34', heat: 68,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.12360v1'
     },
     {
-      id: 8438,
+      id: 8352,
       zh: { title: '[arXiv] Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution', desc: 'Supervised fine-tuning (SFT) adapts pretrained large language models (LLMs) to downstream tasks, but' },
       ja: { title: '[arXiv] Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution', desc: 'Supervised fine-tuning (SFT) adapts pretrained large language models (LLMs) to downstream tasks, but' },
       en: { title: '[arXiv] Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution', desc: 'Supervised fine-tuning (SFT) adapts pretrained large language models (LLMs) to downstream tasks, but' },
-      source: 'arXiv', time: '12:13', heat: 72,
+      source: 'arXiv', time: '21:34', heat: 81,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.12345v1'
-    },
-  ]},
-  { day: '2026-10-10', items: [
-    {
-      id: 5653,
-      zh: { title: 'Talorys – A self-hosted personal AI agent on Cloudflare\'s free tier', desc: '' },
-      ja: { title: 'Talorys – A self-hosted personal AI agent on Cloudflare\'s free tier', desc: '' },
-      en: { title: 'Talorys – A self-hosted personal AI agent on Cloudflare\'s free tier', desc: '' },
-      source: 'HN (rociiu)', time: '10:52', heat: 95,
-      tags: ["model", "product"], url: 'https://github.com/rociiu/talorys'
     },
   ]},
   { day: '2026-10-09', items: [
     {
-      id: 7156,
-      zh: { title: 'Mxc: Microsoft Execution Containers version 1.0.0', desc: '' },
-      ja: { title: 'Mxc: Microsoft Execution Containers version 1.0.0', desc: '' },
-      en: { title: 'Mxc: Microsoft Execution Containers version 1.0.0', desc: '' },
-      source: 'HN (smokel)', time: '06:52', heat: 95,
-      tags: ["model", "product"], url: 'https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/'
+      id: 3097,
+      zh: { title: 'Plumbers, chains, and famous painters: The history of the pipe operator in R', desc: '' },
+      ja: { title: 'Plumbers, chains, and famous painters: The history of the pipe operator in R', desc: '' },
+      en: { title: 'Plumbers, chains, and famous painters: The history of the pipe operator in R', desc: '' },
+      source: 'HN (sinnsro)', time: '11:20', heat: 75,
+      tags: ["model", "product"], url: 'http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/'
     },
   ]},
 ];
