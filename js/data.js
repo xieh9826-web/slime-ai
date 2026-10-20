@@ -1,90 +1,88 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-10-19T22:03:07.504396+00:00
+// Generated: 2026-10-20T03:44:03.663373+00:00
 const NEWS_DATA = [
-  { day: '2026-10-19', items: [
+  { day: '2026-10-20', items: [
     {
-      id: 4249,
-      zh: { title: 'Timestral: Mistral\'s time-series foundation models', desc: '' },
-      ja: { title: 'Timestral: Mistral\'s time-series foundation models', desc: '' },
-      en: { title: 'Timestral: Mistral\'s time-series foundation models', desc: '' },
-      source: 'HN (groar)', time: '09:59', heat: 95,
-      tags: ["model", "product"], url: 'https://mistral.ai/news/timestral/'
+      id: 3199,
+      zh: { title: 'Lula supporters protest against Meta to denounce its \'electoral interference\'', desc: '' },
+      ja: { title: 'Lula supporters protest against Meta to denounce its \'electoral interference\'', desc: '' },
+      en: { title: 'Lula supporters protest against Meta to denounce its \'electoral interference\'', desc: '' },
+      source: 'HN (jumpocelot)', time: '00:53', heat: 95,
+      tags: ["model", "product"], url: 'https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/'
     },
     {
-      id: 6080,
+      id: 4129,
+      zh: { title: 'Go will reject certificate chains containing eight distrusted SPKIs', desc: '' },
+      ja: { title: 'Go will reject certificate chains containing eight distrusted SPKIs', desc: '' },
+      en: { title: 'Go will reject certificate chains containing eight distrusted SPKIs', desc: '' },
+      source: 'HN (mendym)', time: '03:05', heat: 53,
+      tags: ["model", "product"], url: 'https://github.com/golang/go/issues/82345'
+    },
+    {
+      id: 3984,
+      zh: { title: '[arXiv] OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory', desc: 'Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many task' },
+      ja: { title: '[arXiv] OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory', desc: 'Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many task' },
+      en: { title: '[arXiv] OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory', desc: 'Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many task' },
+      source: 'arXiv', time: '03:44', heat: 76,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.26860v1'
+    },
+    {
+      id: 6275,
+      zh: { title: '[arXiv] WeAct: Dynamic Weight Switching as Agent Actions', desc: 'Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating sh' },
+      ja: { title: '[arXiv] WeAct: Dynamic Weight Switching as Agent Actions', desc: 'Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating sh' },
+      en: { title: '[arXiv] WeAct: Dynamic Weight Switching as Agent Actions', desc: 'Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating sh' },
+      source: 'arXiv', time: '03:44', heat: 70,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.26847v1'
+    },
+    {
+      id: 2922,
+      zh: { title: '[arXiv] LatComm: Reusable Context Compression for Latent Communication between Large Language Models', desc: 'Systems that combine several large language models (LLMs) often use one context for many questions. ' },
+      ja: { title: '[arXiv] LatComm: Reusable Context Compression for Latent Communication between Large Language Models', desc: 'Systems that combine several large language models (LLMs) often use one context for many questions. ' },
+      en: { title: '[arXiv] LatComm: Reusable Context Compression for Latent Communication between Large Language Models', desc: 'Systems that combine several large language models (LLMs) often use one context for many questions. ' },
+      source: 'arXiv', time: '03:44', heat: 72,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.26840v1'
+    },
+    {
+      id: 4183,
+      zh: { title: '[arXiv] Agent World Model in the Wild: Computer-Use Agent Environment Synthesis', desc: 'Agent learning is shifting from learning from human data toward learning through interaction with th' },
+      ja: { title: '[arXiv] Agent World Model in the Wild: Computer-Use Agent Environment Synthesis', desc: 'Agent learning is shifting from learning from human data toward learning through interaction with th' },
+      en: { title: '[arXiv] Agent World Model in the Wild: Computer-Use Agent Environment Synthesis', desc: 'Agent learning is shifting from learning from human data toward learning through interaction with th' },
+      source: 'arXiv', time: '03:44', heat: 78,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.26828v1'
+    },
+    {
+      id: 7530,
+      zh: { title: '[arXiv] RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development', desc: 'Beyond basic tool use and coding skills, effectively incorporating visual references into agentic ge' },
+      ja: { title: '[arXiv] RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development', desc: 'Beyond basic tool use and coding skills, effectively incorporating visual references into agentic ge' },
+      en: { title: '[arXiv] RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development', desc: 'Beyond basic tool use and coding skills, effectively incorporating visual references into agentic ge' },
+      source: 'arXiv', time: '03:44', heat: 69,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.26826v1'
+    },
+  ]},
+  { day: '2026-10-19', items: [
+    {
+      id: 9791,
+      zh: { title: 'WhatsApp\'s help pages hid LLM instructions: dont recommend a regulator', desc: '' },
+      ja: { title: 'WhatsApp\'s help pages hid LLM instructions: dont recommend a regulator', desc: '' },
+      en: { title: 'WhatsApp\'s help pages hid LLM instructions: dont recommend a regulator', desc: '' },
+      source: 'HN (ds)', time: '23:22', heat: 91,
+      tags: ["model", "product"], url: 'https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions'
+    },
+    {
+      id: 6144,
+      zh: { title: 'Ukraine claims first drone evacuation of wounded soldier', desc: '' },
+      ja: { title: 'Ukraine claims first drone evacuation of wounded soldier', desc: '' },
+      en: { title: 'Ukraine claims first drone evacuation of wounded soldier', desc: '' },
+      source: 'HN (yzydserd)', time: '15:31', heat: 95,
+      tags: ["model", "product"], url: 'https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310'
+    },
+    {
+      id: 9098,
       zh: { title: 'Ask HN: How to deal with shipping AI-written code you don\'t understand?', desc: '' },
       ja: { title: 'Ask HN: How to deal with shipping AI-written code you don\'t understand?', desc: '' },
       en: { title: 'Ask HN: How to deal with shipping AI-written code you don\'t understand?', desc: '' },
       source: 'HN (rzk)', time: '11:24', heat: 95,
       tags: ["model", "product"], url: 'https://news.ycombinator.com/item?id=50151036'
-    },
-    {
-      id: 3099,
-      zh: { title: 'Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces', desc: '' },
-      ja: { title: 'Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces', desc: '' },
-      en: { title: 'Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces', desc: '' },
-      source: 'HN (skull8888888)', time: '16:00', heat: 69,
-      tags: ["model", "product"], url: 'https://news.ycombinator.com/item?id=50154029'
-    },
-    {
-      id: 8082,
-      zh: { title: '[arXiv] Behavioral Couplings: From Formation to Behavioral Emergence in Language Models', desc: 'Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For ' },
-      ja: { title: '[arXiv] Behavioral Couplings: From Formation to Behavioral Emergence in Language Models', desc: 'Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For ' },
-      en: { title: '[arXiv] Behavioral Couplings: From Formation to Behavioral Emergence in Language Models', desc: 'Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For ' },
-      source: 'arXiv', time: '22:03', heat: 67,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.23847v1'
-    },
-    {
-      id: 1882,
-      zh: { title: '[arXiv] AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery', desc: 'Reproducible and analytically robust research findings are essential to scientific progress, but eva' },
-      ja: { title: '[arXiv] AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery', desc: 'Reproducible and analytically robust research findings are essential to scientific progress, but eva' },
-      en: { title: '[arXiv] AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery', desc: 'Reproducible and analytically robust research findings are essential to scientific progress, but eva' },
-      source: 'arXiv', time: '22:03', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.23845v1'
-    },
-    {
-      id: 4079,
-      zh: { title: '[arXiv] GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search', desc: 'Optimizing product listings for generative search requires language agents not only to rewrite effec' },
-      ja: { title: '[arXiv] GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search', desc: 'Optimizing product listings for generative search requires language agents not only to rewrite effec' },
-      en: { title: '[arXiv] GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search', desc: 'Optimizing product listings for generative search requires language agents not only to rewrite effec' },
-      source: 'arXiv', time: '22:03', heat: 69,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.23709v1'
-    },
-    {
-      id: 8334,
-      zh: { title: '[arXiv] PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State', desc: 'Presence-aware intelligence is the capacity of an AI system\'s intelligence layer to adapt appropriat' },
-      ja: { title: '[arXiv] PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State', desc: 'Presence-aware intelligence is the capacity of an AI system\'s intelligence layer to adapt appropriat' },
-      en: { title: '[arXiv] PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State', desc: 'Presence-aware intelligence is the capacity of an AI system\'s intelligence layer to adapt appropriat' },
-      source: 'arXiv', time: '22:03', heat: 68,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.23625v1'
-    },
-    {
-      id: 3949,
-      zh: { title: '[arXiv] SIT-Eval: Situation-Based Interactive Turn-by-Turn Evaluation of Conversational Agents', desc: 'The rapid proliferation of conversational AI agents necessitates evaluation methods that assess perf' },
-      ja: { title: '[arXiv] SIT-Eval: Situation-Based Interactive Turn-by-Turn Evaluation of Conversational Agents', desc: 'The rapid proliferation of conversational AI agents necessitates evaluation methods that assess perf' },
-      en: { title: '[arXiv] SIT-Eval: Situation-Based Interactive Turn-by-Turn Evaluation of Conversational Agents', desc: 'The rapid proliferation of conversational AI agents necessitates evaluation methods that assess perf' },
-      source: 'arXiv', time: '22:03', heat: 71,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.23612v1'
-    },
-  ]},
-  { day: '2026-10-17', items: [
-    {
-      id: 7150,
-      zh: { title: 'The fire retardant in the seafood chain', desc: '' },
-      ja: { title: 'The fire retardant in the seafood chain', desc: '' },
-      en: { title: 'The fire retardant in the seafood chain', desc: '' },
-      source: 'HN (gumby)', time: '19:37', heat: 90,
-      tags: ["model", "product"], url: 'https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/'
-    },
-  ]},
-  { day: '2026-10-16', items: [
-    {
-      id: 8012,
-      zh: { title: 'Coconuts in Medieval Britain (2015)', desc: '' },
-      ja: { title: 'Coconuts in Medieval Britain (2015)', desc: '' },
-      en: { title: 'Coconuts in Medieval Britain (2015)', desc: '' },
-      source: 'HN (wolfi1)', time: '08:28', heat: 62,
-      tags: ["model", "product"], url: 'https://www.themarysue.com/monty-python-holy-grail-coconuts/'
     },
   ]},
 ];
