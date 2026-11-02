@@ -1,9 +1,59 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-11-01T21:45:35.394473+00:00
+// Generated: 2026-11-02T04:46:28.404389+00:00
 const NEWS_DATA = [
+  { day: '2026-11-02', items: [
+    {
+      id: 2114,
+      zh: { title: 'AI fan wikis riddled with errors are muddying the waters of games culture', desc: '' },
+      ja: { title: 'AI fan wikis riddled with errors are muddying the waters of games culture', desc: '' },
+      en: { title: 'AI fan wikis riddled with errors are muddying the waters of games culture', desc: '' },
+      source: 'HN (rdmuser)', time: '01:47', heat: 74,
+      tags: ["model", "product"], url: 'https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture'
+    },
+    {
+      id: 7963,
+      zh: { title: '[arXiv] Subquadratic Attention with a Hierarchical Tree-Structured Indexer', desc: 'The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilitie' },
+      ja: { title: '[arXiv] Subquadratic Attention with a Hierarchical Tree-Structured Indexer', desc: 'The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilitie' },
+      en: { title: '[arXiv] Subquadratic Attention with a Hierarchical Tree-Structured Indexer', desc: 'The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilitie' },
+      source: 'arXiv', time: '04:46', heat: 80,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.42112v1'
+    },
+    {
+      id: 6025,
+      zh: { title: '[arXiv] The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Resul', desc: 'AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. W' },
+      ja: { title: '[arXiv] The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Resul', desc: 'AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. W' },
+      en: { title: '[arXiv] The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Resul', desc: 'AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. W' },
+      source: 'arXiv', time: '04:46', heat: 82,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.42066v1'
+    },
+    {
+      id: 5936,
+      zh: { title: '[arXiv] CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness', desc: 'Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training la' },
+      ja: { title: '[arXiv] CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness', desc: 'Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training la' },
+      en: { title: '[arXiv] CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness', desc: 'Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training la' },
+      source: 'arXiv', time: '04:46', heat: 70,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.42054v1'
+    },
+    {
+      id: 4420,
+      zh: { title: '[arXiv] DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention', desc: 'Linear attention scales linearly with sequence length, but its finite-state memory can limit long-co' },
+      ja: { title: '[arXiv] DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention', desc: 'Linear attention scales linearly with sequence length, but its finite-state memory can limit long-co' },
+      en: { title: '[arXiv] DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention', desc: 'Linear attention scales linearly with sequence length, but its finite-state memory can limit long-co' },
+      source: 'arXiv', time: '04:46', heat: 79,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.41994v1'
+    },
+    {
+      id: 5661,
+      zh: { title: '[arXiv] Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions', desc: 'Multimodal Large Language Models (MLLMs) have achieved impressive performance across a wide range of' },
+      ja: { title: '[arXiv] Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions', desc: 'Multimodal Large Language Models (MLLMs) have achieved impressive performance across a wide range of' },
+      en: { title: '[arXiv] Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions', desc: 'Multimodal Large Language Models (MLLMs) have achieved impressive performance across a wide range of' },
+      source: 'arXiv', time: '04:46', heat: 76,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.41951v1'
+    },
+  ]},
   { day: '2026-11-01', items: [
     {
-      id: 3967,
+      id: 9133,
       zh: { title: 'The AI cost of JavaScript frameworks', desc: '' },
       ja: { title: 'The AI cost of JavaScript frameworks', desc: '' },
       en: { title: 'The AI cost of JavaScript frameworks', desc: '' },
@@ -11,23 +61,15 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/'
     },
     {
-      id: 1385,
-      zh: { title: 'Frontier Airlines Likely Breached', desc: '' },
-      ja: { title: 'Frontier Airlines Likely Breached', desc: '' },
-      en: { title: 'Frontier Airlines Likely Breached', desc: '' },
-      source: 'HN (999900000999)', time: '16:46', heat: 95,
-      tags: ["model", "product"], url: 'https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/'
+      id: 8052,
+      zh: { title: 'Domain hacks with unusual Unicode characters (2018)', desc: '' },
+      ja: { title: 'Domain hacks with unusual Unicode characters (2018)', desc: '' },
+      en: { title: 'Domain hacks with unusual Unicode characters (2018)', desc: '' },
+      source: 'HN (n_plus_1_acc)', time: '10:44', heat: 83,
+      tags: ["model", "product"], url: 'https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/'
     },
     {
-      id: 2809,
-      zh: { title: 'US Jobs Pickup May Keep Fed on Track to Hike Rates Again', desc: '' },
-      ja: { title: 'US Jobs Pickup May Keep Fed on Track to Hike Rates Again', desc: '' },
-      en: { title: 'US Jobs Pickup May Keep Fed on Track to Hike Rates Again', desc: '' },
-      source: 'HN (frank_clover)', time: '18:51', heat: 64,
-      tags: ["model", "product"], url: 'https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again'
-    },
-    {
-      id: 5247,
+      id: 7912,
       zh: { title: 'Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)', desc: '' },
       ja: { title: 'Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)', desc: '' },
       en: { title: 'Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)', desc: '' },
@@ -35,54 +77,12 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://arxiv.org/abs/2409.02292'
     },
     {
-      id: 6388,
-      zh: { title: '[arXiv] TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races', desc: 'We present TextSeal2, a distortion-free watermark for large language models that keeps its signal un' },
-      ja: { title: '[arXiv] TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races', desc: 'We present TextSeal2, a distortion-free watermark for large language models that keeps its signal un' },
-      en: { title: '[arXiv] TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races', desc: 'We present TextSeal2, a distortion-free watermark for large language models that keeps its signal un' },
-      source: 'arXiv', time: '21:45', heat: 68,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.40613v1'
-    },
-    {
-      id: 4891,
-      zh: { title: '[arXiv] When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact ', desc: 'Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assi' },
-      ja: { title: '[arXiv] When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact ', desc: 'Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assi' },
-      en: { title: '[arXiv] When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact ', desc: 'Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assi' },
-      source: 'arXiv', time: '21:45', heat: 70,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.40611v1'
-    },
-    {
-      id: 1416,
-      zh: { title: '[arXiv] VeriCUA: Verification as Agentic Exploration for Computer-Using Agents', desc: 'Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requi' },
-      ja: { title: '[arXiv] VeriCUA: Verification as Agentic Exploration for Computer-Using Agents', desc: 'Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requi' },
-      en: { title: '[arXiv] VeriCUA: Verification as Agentic Exploration for Computer-Using Agents', desc: 'Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requi' },
-      source: 'arXiv', time: '21:45', heat: 76,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.40578v1'
-    },
-    {
-      id: 1934,
-      zh: { title: '[arXiv] Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis o', desc: 'This study investigates the capabilities of Large Language Models to simulate counselling clients in' },
-      ja: { title: '[arXiv] Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis o', desc: 'This study investigates the capabilities of Large Language Models to simulate counselling clients in' },
-      en: { title: '[arXiv] Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis o', desc: 'This study investigates the capabilities of Large Language Models to simulate counselling clients in' },
-      source: 'arXiv', time: '21:45', heat: 73,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.40563v1'
-    },
-    {
-      id: 4596,
-      zh: { title: '[arXiv] Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs', desc: 'As AI\'s mathematical capabilities rapidly improve, meaningful benchmarks are shifting from universit' },
-      ja: { title: '[arXiv] Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs', desc: 'As AI\'s mathematical capabilities rapidly improve, meaningful benchmarks are shifting from universit' },
-      en: { title: '[arXiv] Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs', desc: 'As AI\'s mathematical capabilities rapidly improve, meaningful benchmarks are shifting from universit' },
-      source: 'arXiv', time: '21:45', heat: 69,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.40551v1'
-    },
-  ]},
-  { day: '2026-10-30', items: [
-    {
-      id: 9383,
-      zh: { title: 'Understanding Email Encryption (2025)', desc: '' },
-      ja: { title: 'Understanding Email Encryption (2025)', desc: '' },
-      en: { title: 'Understanding Email Encryption (2025)', desc: '' },
-      source: 'HN (nmjenkins)', time: '20:55', heat: 95,
-      tags: ["model", "product"], url: 'https://www.fastmail.com/blog/email-encryption/'
+      id: 4667,
+      zh: { title: 'Frontier Airlines Likely Breached', desc: '' },
+      ja: { title: 'Frontier Airlines Likely Breached', desc: '' },
+      en: { title: 'Frontier Airlines Likely Breached', desc: '' },
+      source: 'HN (999900000999)', time: '16:46', heat: 95,
+      tags: ["model", "product"], url: 'https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/'
     },
   ]},
 ];
