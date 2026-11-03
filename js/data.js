@@ -1,59 +1,59 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-11-03T00:37:36.365892+00:00
+// Generated: 2026-11-03T13:44:02.498404+00:00
 const NEWS_DATA = [
   { day: '2026-11-03', items: [
     {
-      id: 5059,
-      zh: { title: '[arXiv] Subquadratic Attention with a Hierarchical Tree-Structured Indexer', desc: 'The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilitie' },
-      ja: { title: '[arXiv] Subquadratic Attention with a Hierarchical Tree-Structured Indexer', desc: 'The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilitie' },
-      en: { title: '[arXiv] Subquadratic Attention with a Hierarchical Tree-Structured Indexer', desc: 'The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilitie' },
-      source: 'arXiv', time: '00:37', heat: 68,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.42112v1'
+      id: 6812,
+      zh: { title: 'Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly', desc: '' },
+      ja: { title: 'Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly', desc: '' },
+      en: { title: 'Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly', desc: '' },
+      source: 'HN (entryleveljobsc)', time: '11:16', heat: 75,
+      tags: ["model", "product"], url: 'https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html'
     },
     {
-      id: 7131,
-      zh: { title: '[arXiv] The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Resul', desc: 'AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. W' },
-      ja: { title: '[arXiv] The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Resul', desc: 'AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. W' },
-      en: { title: '[arXiv] The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Resul', desc: 'AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. W' },
-      source: 'arXiv', time: '00:37', heat: 70,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.42066v1'
+      id: 9317,
+      zh: { title: '[arXiv] WebHarbor: Docking Real Websites for Evolving GUI Agent Environments', desc: 'GUI web agents require realistic and interactive environments that remain stable during both evaluat' },
+      ja: { title: '[arXiv] WebHarbor: Docking Real Websites for Evolving GUI Agent Environments', desc: 'GUI web agents require realistic and interactive environments that remain stable during both evaluat' },
+      en: { title: '[arXiv] WebHarbor: Docking Real Websites for Evolving GUI Agent Environments', desc: 'GUI web agents require realistic and interactive environments that remain stable during both evaluat' },
+      source: 'arXiv', time: '13:44', heat: 74,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.03634v1'
     },
     {
-      id: 8251,
-      zh: { title: '[arXiv] CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness', desc: 'Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training la' },
-      ja: { title: '[arXiv] CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness', desc: 'Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training la' },
-      en: { title: '[arXiv] CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness', desc: 'Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training la' },
-      source: 'arXiv', time: '00:37', heat: 83,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.42054v1'
+      id: 5186,
+      zh: { title: '[arXiv] D&amp;A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models', desc: 'Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot lea' },
+      ja: { title: '[arXiv] D&amp;A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models', desc: 'Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot lea' },
+      en: { title: '[arXiv] D&amp;A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models', desc: 'Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot lea' },
+      source: 'arXiv', time: '13:44', heat: 85,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.03622v1'
     },
     {
-      id: 3633,
-      zh: { title: '[arXiv] DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention', desc: 'Linear attention scales linearly with sequence length, but its finite-state memory can limit long-co' },
-      ja: { title: '[arXiv] DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention', desc: 'Linear attention scales linearly with sequence length, but its finite-state memory can limit long-co' },
-      en: { title: '[arXiv] DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention', desc: 'Linear attention scales linearly with sequence length, but its finite-state memory can limit long-co' },
-      source: 'arXiv', time: '00:37', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.41994v1'
+      id: 6042,
+      zh: { title: '[arXiv] Strategist: Evolving Reasoning with Agents', desc: 'A model is only half of an AI agent system. The other half is the inference strategy: the reasoning ' },
+      ja: { title: '[arXiv] Strategist: Evolving Reasoning with Agents', desc: 'A model is only half of an AI agent system. The other half is the inference strategy: the reasoning ' },
+      en: { title: '[arXiv] Strategist: Evolving Reasoning with Agents', desc: 'A model is only half of an AI agent system. The other half is the inference strategy: the reasoning ' },
+      source: 'arXiv', time: '13:44', heat: 73,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.03618v1'
     },
     {
-      id: 7822,
-      zh: { title: '[arXiv] Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions', desc: 'Multimodal Large Language Models (MLLMs) have achieved impressive performance across a wide range of' },
-      ja: { title: '[arXiv] Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions', desc: 'Multimodal Large Language Models (MLLMs) have achieved impressive performance across a wide range of' },
-      en: { title: '[arXiv] Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions', desc: 'Multimodal Large Language Models (MLLMs) have achieved impressive performance across a wide range of' },
-      source: 'arXiv', time: '00:37', heat: 80,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2610.41951v1'
+      id: 7274,
+      zh: { title: '[arXiv] Tracing the Scientific Discovery Capacity of LLMs to Their Training Data', desc: 'Large language models (LLMs) show growing promise for scientific discovery, yet basic questions rema' },
+      ja: { title: '[arXiv] Tracing the Scientific Discovery Capacity of LLMs to Their Training Data', desc: 'Large language models (LLMs) show growing promise for scientific discovery, yet basic questions rema' },
+      en: { title: '[arXiv] Tracing the Scientific Discovery Capacity of LLMs to Their Training Data', desc: 'Large language models (LLMs) show growing promise for scientific discovery, yet basic questions rema' },
+      source: 'arXiv', time: '13:44', heat: 83,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.03617v1'
+    },
+    {
+      id: 3455,
+      zh: { title: '[arXiv] DiabAgent: Toward Agentic Physiological Control', desc: 'As pretraining scales, medical language models have advanced rapidly in clinical question answering.' },
+      ja: { title: '[arXiv] DiabAgent: Toward Agentic Physiological Control', desc: 'As pretraining scales, medical language models have advanced rapidly in clinical question answering.' },
+      en: { title: '[arXiv] DiabAgent: Toward Agentic Physiological Control', desc: 'As pretraining scales, medical language models have advanced rapidly in clinical question answering.' },
+      source: 'arXiv', time: '13:44', heat: 76,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.03601v1'
     },
   ]},
   { day: '2026-11-02', items: [
     {
-      id: 8005,
-      zh: { title: 'The SEC Should Block Anthropic\'s IPO to Protect the Public', desc: '' },
-      ja: { title: 'The SEC Should Block Anthropic\'s IPO to Protect the Public', desc: '' },
-      en: { title: 'The SEC Should Block Anthropic\'s IPO to Protect the Public', desc: '' },
-      source: 'HN (cdrnsf)', time: '22:30', heat: 95,
-      tags: ["model", "product"], url: 'https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/'
-    },
-    {
-      id: 1814,
+      id: 4729,
       zh: { title: 'Egoless Mathematics in the AI Era', desc: '' },
       ja: { title: 'Egoless Mathematics in the AI Era', desc: '' },
       en: { title: 'Egoless Mathematics in the AI Era', desc: '' },
@@ -61,28 +61,12 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/'
     },
     {
-      id: 7214,
-      zh: { title: 'Anthropic\'s growth just flattened', desc: '' },
-      ja: { title: 'Anthropic\'s growth just flattened', desc: '' },
-      en: { title: 'Anthropic\'s growth just flattened', desc: '' },
-      source: 'HN (cdrnsf)', time: '22:33', heat: 95,
-      tags: ["model", "product"], url: 'https://www.regenerator1.com/p/anthropics-growth-just-flattened'
-    },
-    {
-      id: 8869,
-      zh: { title: 'Oracle files to sell $20B in new stock, bonds to finance AI buildout', desc: '' },
-      ja: { title: 'Oracle files to sell $20B in new stock, bonds to finance AI buildout', desc: '' },
-      en: { title: 'Oracle files to sell $20B in new stock, bonds to finance AI buildout', desc: '' },
-      source: 'HN (smartmic)', time: '19:27', heat: 95,
-      tags: ["model", "product"], url: 'https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html'
-    },
-    {
-      id: 6074,
-      zh: { title: 'C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)', desc: '' },
-      ja: { title: 'C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)', desc: '' },
-      en: { title: 'C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)', desc: '' },
-      source: 'HN (ibobev)', time: '14:56', heat: 79,
-      tags: ["model", "product"], url: 'https://retrogamecoders.com/c64-basic-dungeon-part11/'
+      id: 7427,
+      zh: { title: 'Scaling Git at OpenAI', desc: '' },
+      ja: { title: 'Scaling Git at OpenAI', desc: '' },
+      en: { title: 'Scaling Git at OpenAI', desc: '' },
+      source: 'HN (makeramen)', time: '23:47', heat: 95,
+      tags: ["model", "product"], url: 'https://openai.com/index/scaling-git-at-openai/'
     },
   ]},
 ];
