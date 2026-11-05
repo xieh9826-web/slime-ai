@@ -1,33 +1,27 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-11-05T05:28:32.714894+00:00
+// Generated: 2026-11-05T14:06:50.196258+00:00
 const NEWS_DATA = [
+  { day: '2026-11-05', items: [
+    {
+      id: 7250,
+      zh: { title: 'Baidu released ERNIE 5.5 Flash Base', desc: '' },
+      ja: { title: 'Baidu released ERNIE 5.5 Flash Base', desc: '' },
+      en: { title: 'Baidu released ERNIE 5.5 Flash Base', desc: '' },
+      source: 'HN (pretext)', time: '09:29', heat: 95,
+      tags: ["model", "product"], url: 'https://ernie.baidu.com/release/ernie-5-5-flash-base/'
+    },
+    {
+      id: 6506,
+      zh: { title: 'GPT-6 Astra covertly underperforms on safety research', desc: '' },
+      ja: { title: 'GPT-6 Astra covertly underperforms on safety research', desc: '' },
+      en: { title: 'GPT-6 Astra covertly underperforms on safety research', desc: '' },
+      source: 'HN (lucrbvi)', time: '07:44', heat: 70,
+      tags: ["model", "product"], url: 'https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/'
+    },
+  ]},
   { day: '2026-11-04', items: [
     {
-      id: 6726,
-      zh: { title: 'Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s', desc: '' },
-      ja: { title: 'Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s', desc: '' },
-      en: { title: 'Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s', desc: '' },
-      source: 'HN (peter_d_sherman)', time: '19:55', heat: 95,
-      tags: ["model", "product"], url: 'https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra'
-    },
-    {
-      id: 1822,
-      zh: { title: 'AI is forcing us to pay off 40 years of technical debt', desc: '' },
-      ja: { title: 'AI is forcing us to pay off 40 years of technical debt', desc: '' },
-      en: { title: 'AI is forcing us to pay off 40 years of technical debt', desc: '' },
-      source: 'HN (pseudolus)', time: '11:52', heat: 95,
-      tags: ["model", "product"], url: 'https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability'
-    },
-    {
-      id: 6962,
-      zh: { title: 'Launch HN: Kino AI (YC S23) – AI media manager and video editor', desc: '' },
-      ja: { title: 'Launch HN: Kino AI (YC S23) – AI media manager and video editor', desc: '' },
-      en: { title: 'Launch HN: Kino AI (YC S23) – AI media manager and video editor', desc: '' },
-      source: 'HN (lukeigel)', time: '17:31', heat: 90,
-      tags: ["model", "product"], url: 'https://news.ycombinator.com/item?id=50368804'
-    },
-    {
-      id: 8152,
+      id: 2530,
       zh: { title: 'Ask HN: What\'s your current AI agentic setup?', desc: '' },
       ja: { title: 'Ask HN: What\'s your current AI agentic setup?', desc: '' },
       en: { title: 'Ask HN: What\'s your current AI agentic setup?', desc: '' },
@@ -35,12 +29,22 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://news.ycombinator.com/item?id=50366117'
     },
     {
-      id: 3490,
-      zh: { title: 'OpenAI to acquire Pierre Computer Company', desc: '' },
-      ja: { title: 'OpenAI to acquire Pierre Computer Company', desc: '' },
-      en: { title: 'OpenAI to acquire Pierre Computer Company', desc: '' },
-      source: 'HN (itunpredictable)', time: '15:21', heat: 95,
-      tags: ["model", "product"], url: 'https://openai.com/index/openai-to-acquire-pierre/'
+      id: 4922,
+      zh: { title: 'AI is forcing us to pay off 40 years of technical debt', desc: '' },
+      ja: { title: 'AI is forcing us to pay off 40 years of technical debt', desc: '' },
+      en: { title: 'AI is forcing us to pay off 40 years of technical debt', desc: '' },
+      source: 'HN (pseudolus)', time: '11:52', heat: 95,
+      tags: ["model", "product"], url: 'https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability'
+    },
+  ]},
+  { day: '2026-11-03', items: [
+    {
+      id: 1140,
+      zh: { title: 'Future Maintenance of Mbed TLS', desc: '' },
+      ja: { title: 'Future Maintenance of Mbed TLS', desc: '' },
+      en: { title: 'Future Maintenance of Mbed TLS', desc: '' },
+      source: 'HN (jonesjohnson)', time: '07:39', heat: 79,
+      tags: ["model", "product"], url: 'https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/'
     },
   ]},
 ];
