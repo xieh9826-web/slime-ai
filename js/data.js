@@ -1,17 +1,59 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-11-05T23:20:12.621195+00:00
+// Generated: 2026-11-06T05:26:53.219511+00:00
 const NEWS_DATA = [
-  { day: '2026-11-05', items: [
+  { day: '2026-11-06', items: [
     {
-      id: 8995,
-      zh: { title: 'MS Paint Remote Code Execution Vulnerability', desc: '' },
-      ja: { title: 'MS Paint Remote Code Execution Vulnerability', desc: '' },
-      en: { title: 'MS Paint Remote Code Execution Vulnerability', desc: '' },
-      source: 'HN (kuberwastaken)', time: '20:43', heat: 95,
-      tags: ["model", "product"], url: 'https://www.cve.org/CVERecord?id=CVE-2026-83844'
+      id: 5102,
+      zh: { title: 'Closed AI models dominate the price-performance frontier', desc: '' },
+      ja: { title: 'Closed AI models dominate the price-performance frontier', desc: '' },
+      en: { title: 'Closed AI models dominate the price-performance frontier', desc: '' },
+      source: 'HN (kevin_hu)', time: '02:49', heat: 68,
+      tags: ["model", "product"], url: 'https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/'
     },
     {
-      id: 3694,
+      id: 1145,
+      zh: { title: '[arXiv] Scientist World: Grow a Research World for AI-Scientists', desc: 'AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for gra' },
+      ja: { title: '[arXiv] Scientist World: Grow a Research World for AI-Scientists', desc: 'AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for gra' },
+      en: { title: '[arXiv] Scientist World: Grow a Research World for AI-Scientists', desc: 'AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for gra' },
+      source: 'arXiv', time: '05:26', heat: 85,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.08478v1'
+    },
+    {
+      id: 8413,
+      zh: { title: '[arXiv] Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviati', desc: 'Typed-decision models score options that the caller supplies at request time, so their accuracy depe' },
+      ja: { title: '[arXiv] Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviati', desc: 'Typed-decision models score options that the caller supplies at request time, so their accuracy depe' },
+      en: { title: '[arXiv] Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviati', desc: 'Typed-decision models score options that the caller supplies at request time, so their accuracy depe' },
+      source: 'arXiv', time: '05:26', heat: 75,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.08439v1'
+    },
+    {
+      id: 7754,
+      zh: { title: '[arXiv] Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety', desc: 'Neural networks are likely to be among the most consequential artefacts in human history. As these s' },
+      ja: { title: '[arXiv] Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety', desc: 'Neural networks are likely to be among the most consequential artefacts in human history. As these s' },
+      en: { title: '[arXiv] Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety', desc: 'Neural networks are likely to be among the most consequential artefacts in human history. As these s' },
+      source: 'arXiv', time: '05:26', heat: 71,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.08438v1'
+    },
+    {
+      id: 3636,
+      zh: { title: '[arXiv] MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue', desc: 'LLM-based medical assistants that follow a patient across visits need a memory that keeps the patien' },
+      ja: { title: '[arXiv] MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue', desc: 'LLM-based medical assistants that follow a patient across visits need a memory that keeps the patien' },
+      en: { title: '[arXiv] MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue', desc: 'LLM-based medical assistants that follow a patient across visits need a memory that keeps the patien' },
+      source: 'arXiv', time: '05:26', heat: 69,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.08433v1'
+    },
+    {
+      id: 3746,
+      zh: { title: '[arXiv] StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning', desc: 'Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, b' },
+      ja: { title: '[arXiv] StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning', desc: 'Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, b' },
+      en: { title: '[arXiv] StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning', desc: 'Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, b' },
+      source: 'arXiv', time: '05:26', heat: 77,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.08403v1'
+    },
+  ]},
+  { day: '2026-11-05', items: [
+    {
+      id: 5375,
       zh: { title: 'Claude Code sends your email address to websites', desc: '' },
       ja: { title: 'Claude Code sends your email address to websites', desc: '' },
       en: { title: 'Claude Code sends your email address to websites', desc: '' },
@@ -19,65 +61,25 @@ const NEWS_DATA = [
       tags: ["model", "product"], url: 'https://github.com/anthropics/claude-code/issues/107757'
     },
     {
-      id: 7157,
-      zh: { title: 'Tencent Launches Hy4, One of the Leading Open-Source AI Models', desc: '' },
-      ja: { title: 'Tencent Launches Hy4, One of the Leading Open-Source AI Models', desc: '' },
-      en: { title: 'Tencent Launches Hy4, One of the Leading Open-Source AI Models', desc: '' },
-      source: 'HN (gmays)', time: '20:21', heat: 79,
-      tags: ["model", "product"], url: 'https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/'
+      id: 9699,
+      zh: { title: 'MS Paint Remote Code Execution Vulnerability', desc: '' },
+      ja: { title: 'MS Paint Remote Code Execution Vulnerability', desc: '' },
+      en: { title: 'MS Paint Remote Code Execution Vulnerability', desc: '' },
+      source: 'HN (kuberwastaken)', time: '20:43', heat: 95,
+      tags: ["model", "product"], url: 'https://www.cve.org/CVERecord?id=CVE-2026-83844'
     },
     {
-      id: 4393,
-      zh: { title: 'Bild AI (YC W25) Is Hiring Founding Product Engineers', desc: '' },
-      ja: { title: 'Bild AI (YC W25) Is Hiring Founding Product Engineers', desc: '' },
-      en: { title: 'Bild AI (YC W25) Is Hiring Founding Product Engineers', desc: '' },
-      source: 'HN (rooppal)', time: '17:01', heat: 50,
-      tags: ["model", "product"], url: 'https://www.ycombinator.com/companies/bild-ai/jobs'
-    },
-    {
-      id: 8667,
-      zh: { title: '[arXiv] Reasoning over Non-Parametric Memory in Multilingual LLMs: A Cognitive-Based Analysis of Relational ', desc: 'Retrieval-augmented generation (RAG) assumes that language models can reason over relations stated i' },
-      ja: { title: '[arXiv] Reasoning over Non-Parametric Memory in Multilingual LLMs: A Cognitive-Based Analysis of Relational ', desc: 'Retrieval-augmented generation (RAG) assumes that language models can reason over relations stated i' },
-      en: { title: '[arXiv] Reasoning over Non-Parametric Memory in Multilingual LLMs: A Cognitive-Based Analysis of Relational ', desc: 'Retrieval-augmented generation (RAG) assumes that language models can reason over relations stated i' },
-      source: 'arXiv', time: '23:20', heat: 70,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.06715v1'
-    },
-    {
-      id: 5230,
-      zh: { title: '[arXiv] ALTO: African and Levantine Tech-Facilitated Gender-Based Violence Corpus', desc: 'Tech-facilitated gender based violence (TFGBV) is a pervasive online harm affecting women and gender' },
-      ja: { title: '[arXiv] ALTO: African and Levantine Tech-Facilitated Gender-Based Violence Corpus', desc: 'Tech-facilitated gender based violence (TFGBV) is a pervasive online harm affecting women and gender' },
-      en: { title: '[arXiv] ALTO: African and Levantine Tech-Facilitated Gender-Based Violence Corpus', desc: 'Tech-facilitated gender based violence (TFGBV) is a pervasive online harm affecting women and gender' },
-      source: 'arXiv', time: '23:20', heat: 71,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.06706v1'
-    },
-    {
-      id: 2314,
-      zh: { title: '[arXiv] NaijaFacts: A Framework for Disentangling Language from Knowledge in Facts about Nigeria', desc: 'Multilingual benchmarks for African languages mostly translate generic questions into local language' },
-      ja: { title: '[arXiv] NaijaFacts: A Framework for Disentangling Language from Knowledge in Facts about Nigeria', desc: 'Multilingual benchmarks for African languages mostly translate generic questions into local language' },
-      en: { title: '[arXiv] NaijaFacts: A Framework for Disentangling Language from Knowledge in Facts about Nigeria', desc: 'Multilingual benchmarks for African languages mostly translate generic questions into local language' },
-      source: 'arXiv', time: '23:20', heat: 79,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.06504v1'
-    },
-    {
-      id: 7781,
-      zh: { title: '[arXiv] ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs', desc: 'Graph-based retrieval-augmented generation (GraphRAG) answers questions by retrieving over a knowled' },
-      ja: { title: '[arXiv] ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs', desc: 'Graph-based retrieval-augmented generation (GraphRAG) answers questions by retrieving over a knowled' },
-      en: { title: '[arXiv] ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs', desc: 'Graph-based retrieval-augmented generation (GraphRAG) answers questions by retrieving over a knowled' },
-      source: 'arXiv', time: '23:20', heat: 77,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.06481v1'
-    },
-    {
-      id: 3180,
-      zh: { title: '[arXiv] LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution', desc: 'As LLM-based agents develop, they have been increasingly applied in the legal domain. Legal Judgment' },
-      ja: { title: '[arXiv] LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution', desc: 'As LLM-based agents develop, they have been increasingly applied in the legal domain. Legal Judgment' },
-      en: { title: '[arXiv] LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution', desc: 'As LLM-based agents develop, they have been increasingly applied in the legal domain. Legal Judgment' },
-      source: 'arXiv', time: '23:20', heat: 69,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.06381v1'
+      id: 8989,
+      zh: { title: 'Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue', desc: '' },
+      ja: { title: 'Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue', desc: '' },
+      en: { title: 'Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue', desc: '' },
+      source: 'HN (randycupertino)', time: '23:09', heat: 95,
+      tags: ["model", "product"], url: 'https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html'
     },
   ]},
   { day: '2026-11-04', items: [
     {
-      id: 4411,
+      id: 9961,
       zh: { title: 'Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)', desc: '' },
       ja: { title: 'Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)', desc: '' },
       en: { title: 'Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)', desc: '' },
