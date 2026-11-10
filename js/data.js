@@ -1,88 +1,90 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-11-10T01:14:05.467552+00:00
+// Generated: 2026-11-10T14:26:43.005274+00:00
 const NEWS_DATA = [
   { day: '2026-11-10', items: [
     {
-      id: 3622,
-      zh: { title: '[arXiv] BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design', desc: 'The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While ' },
-      ja: { title: '[arXiv] BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design', desc: 'The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While ' },
-      en: { title: '[arXiv] BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design', desc: 'The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While ' },
-      source: 'arXiv', time: '01:14', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.09825v1'
+      id: 6926,
+      zh: { title: 'Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM', desc: '' },
+      ja: { title: 'Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM', desc: '' },
+      en: { title: 'Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM', desc: '' },
+      source: 'HN (anushka_gandhi)', time: '13:51', heat: 64,
+      tags: ["model", "product"], url: 'https://neuracryption.com/research'
     },
     {
-      id: 2822,
-      zh: { title: '[arXiv] Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregre', desc: 'Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [M' },
-      ja: { title: '[arXiv] Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregre', desc: 'Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [M' },
-      en: { title: '[arXiv] Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregre', desc: 'Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [M' },
-      source: 'arXiv', time: '01:14', heat: 73,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.09803v1'
+      id: 5519,
+      zh: { title: 'Fireworks AI security breach impacts Notion and their customers', desc: '' },
+      ja: { title: 'Fireworks AI security breach impacts Notion and their customers', desc: '' },
+      en: { title: 'Fireworks AI security breach impacts Notion and their customers', desc: '' },
+      source: 'HN (werrett)', time: '07:19', heat: 95,
+      tags: ["model", "product"], url: 'https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor'
     },
     {
-      id: 5468,
-      zh: { title: '[arXiv] ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large L', desc: 'Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lif' },
-      ja: { title: '[arXiv] ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large L', desc: 'Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lif' },
-      en: { title: '[arXiv] ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large L', desc: 'Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lif' },
-      source: 'arXiv', time: '01:14', heat: 80,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.09770v1'
+      id: 7977,
+      zh: { title: '[arXiv] HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal ', desc: 'As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and ' },
+      ja: { title: '[arXiv] HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal ', desc: 'As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and ' },
+      en: { title: '[arXiv] HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal ', desc: 'As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and ' },
+      source: 'arXiv', time: '14:26', heat: 78,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.12872v1'
     },
     {
-      id: 2677,
-      zh: { title: '[arXiv] Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Dedu', desc: 'Large language model (LLM) agents coordinate through conversation, and the same message can be phras' },
-      ja: { title: '[arXiv] Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Dedu', desc: 'Large language model (LLM) agents coordinate through conversation, and the same message can be phras' },
-      en: { title: '[arXiv] Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Dedu', desc: 'Large language model (LLM) agents coordinate through conversation, and the same message can be phras' },
-      source: 'arXiv', time: '01:14', heat: 70,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.09768v1'
+      id: 6557,
+      zh: { title: '[arXiv] PORT: Preference Optimization via Robust Token-Level Reweighting', desc: 'Preference optimization has become a central approach for aligning large language models with human ' },
+      ja: { title: '[arXiv] PORT: Preference Optimization via Robust Token-Level Reweighting', desc: 'Preference optimization has become a central approach for aligning large language models with human ' },
+      en: { title: '[arXiv] PORT: Preference Optimization via Robust Token-Level Reweighting', desc: 'Preference optimization has become a central approach for aligning large language models with human ' },
+      source: 'arXiv', time: '14:26', heat: 81,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.12763v1'
     },
     {
-      id: 1039,
-      zh: { title: '[arXiv] MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory', desc: 'LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session t' },
-      ja: { title: '[arXiv] MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory', desc: 'LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session t' },
-      en: { title: '[arXiv] MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory', desc: 'LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session t' },
-      source: 'arXiv', time: '01:14', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.09721v1'
+      id: 9741,
+      zh: { title: '[arXiv] The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?', desc: 'Large language models (LLMs) increasingly mediate how people seek and consume information, including' },
+      ja: { title: '[arXiv] The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?', desc: 'Large language models (LLMs) increasingly mediate how people seek and consume information, including' },
+      en: { title: '[arXiv] The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?', desc: 'Large language models (LLMs) increasingly mediate how people seek and consume information, including' },
+      source: 'arXiv', time: '14:26', heat: 85,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.12750v1'
+    },
+    {
+      id: 5360,
+      zh: { title: '[arXiv] Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards', desc: 'Reinforcement learning with verifiable rewards is increasingly used to improve language model reason' },
+      ja: { title: '[arXiv] Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards', desc: 'Reinforcement learning with verifiable rewards is increasingly used to improve language model reason' },
+      en: { title: '[arXiv] Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards', desc: 'Reinforcement learning with verifiable rewards is increasingly used to improve language model reason' },
+      source: 'arXiv', time: '14:26', heat: 82,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.12728v1'
+    },
+    {
+      id: 6100,
+      zh: { title: '[arXiv] TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge', desc: 'AI is used in much of the clinical trial pipeline. However, selecting the statistical design of a tr' },
+      ja: { title: '[arXiv] TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge', desc: 'AI is used in much of the clinical trial pipeline. However, selecting the statistical design of a tr' },
+      en: { title: '[arXiv] TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge', desc: 'AI is used in much of the clinical trial pipeline. However, selecting the statistical design of a tr' },
+      source: 'arXiv', time: '14:26', heat: 65,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.12640v1'
     },
   ]},
   { day: '2026-11-09', items: [
     {
-      id: 1523,
+      id: 7240,
       zh: { title: 'Claude Fable 5.2 and Mythos 5.2', desc: '' },
       ja: { title: 'Claude Fable 5.2 and Mythos 5.2', desc: '' },
       en: { title: 'Claude Fable 5.2 and Mythos 5.2', desc: '' },
-      source: 'HN (meetpateltech)', time: '18:56', heat: 95,
+      source: 'HN (lairv)', time: '18:01', heat: 95,
       tags: ["model", "product"], url: 'https://www.anthropic.com/claude-fable-and-mythos-5-2'
     },
     {
-      id: 5026,
-      zh: { title: 'Google Gemini routes personal Drive files and emails to human annotators', desc: '' },
-      ja: { title: 'Google Gemini routes personal Drive files and emails to human annotators', desc: '' },
-      en: { title: 'Google Gemini routes personal Drive files and emails to human annotators', desc: '' },
-      source: 'HN (gf74918)', time: '18:24', heat: 95,
-      tags: ["model", "product"], url: 'https://github.com/thisisme6598/gemini_files/'
-    },
-    {
-      id: 8827,
-      zh: { title: 'Payments Canada announces launch of Canada\'s Real-Time Rail (RTR) payment system', desc: '' },
-      ja: { title: 'Payments Canada announces launch of Canada\'s Real-Time Rail (RTR) payment system', desc: '' },
-      en: { title: 'Payments Canada announces launch of Canada\'s Real-Time Rail (RTR) payment system', desc: '' },
-      source: 'HN (ocd)', time: '16:00', heat: 95,
-      tags: ["model", "product"], url: 'https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy'
-    },
-    {
-      id: 2925,
-      zh: { title: 'Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far', desc: '' },
-      ja: { title: 'Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far', desc: '' },
-      en: { title: 'Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far', desc: '' },
-      source: 'HN (theanonymousone)', time: '20:04', heat: 95,
-      tags: ["model", "product"], url: 'https://artificialanalysis.ai/models/claude-fable-5-2'
-    },
-    {
-      id: 7334,
+      id: 3665,
       zh: { title: 'Foldable Flight: The Best Paper Airplanes', desc: '' },
       ja: { title: 'Foldable Flight: The Best Paper Airplanes', desc: '' },
       en: { title: 'Foldable Flight: The Best Paper Airplanes', desc: '' },
       source: 'HN (vismit2000)', time: '12:19', heat: 95,
       tags: ["model", "product"], url: 'https://www.foldableflight.com'
+    },
+  ]},
+  { day: '2026-11-08', items: [
+    {
+      id: 6935,
+      zh: { title: 'Show HN: Ghanaian street games you can play in the browser', desc: '' },
+      ja: { title: 'Show HN: Ghanaian street games you can play in the browser', desc: '' },
+      en: { title: 'Show HN: Ghanaian street games you can play in the browser', desc: '' },
+      source: 'HN (samuelaidoo45)', time: '15:31', heat: 68,
+      tags: ["model", "product"], url: 'https://www.ghanastreetgames.com/'
     },
   ]},
 ];
