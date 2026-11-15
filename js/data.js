@@ -1,90 +1,88 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-11-14T22:01:27.110743+00:00
+// Generated: 2026-11-15T05:09:12.942726+00:00
 const NEWS_DATA = [
+  { day: '2026-11-15', items: [
+    {
+      id: 9100,
+      zh: { title: 'Show HN: Gawain – Require type hints on all Python variables', desc: '' },
+      ja: { title: 'Show HN: Gawain – Require type hints on all Python variables', desc: '' },
+      en: { title: 'Show HN: Gawain – Require type hints on all Python variables', desc: '' },
+      source: 'HN (MarinhoD)', time: '04:39', heat: 54,
+      tags: ["model", "product"], url: 'https://github.com/matheuzgomes/gawain'
+    },
+    {
+      id: 6112,
+      zh: { title: 'Kiri – The Modern Container Runtime', desc: '' },
+      ja: { title: 'Kiri – The Modern Container Runtime', desc: '' },
+      en: { title: 'Kiri – The Modern Container Runtime', desc: '' },
+      source: 'HN (nikolay)', time: '04:40', heat: 54,
+      tags: ["model", "product"], url: 'https://runkiri.com/'
+    },
+    {
+      id: 1763,
+      zh: { title: 'Show HN: A custom font based on the Jamaican flag alphabet', desc: '' },
+      ja: { title: 'Show HN: A custom font based on the Jamaican flag alphabet', desc: '' },
+      en: { title: 'Show HN: A custom font based on the Jamaican flag alphabet', desc: '' },
+      source: 'HN (bobbiechen)', time: '00:56', heat: 58,
+      tags: ["model", "product"], url: 'https://bobbiec.github.io/jamaican-font.html'
+    },
+    {
+      id: 1909,
+      zh: { title: 'The Single Router in Southern Arkansas That Ground Air Travel to a Halt', desc: '' },
+      ja: { title: 'The Single Router in Southern Arkansas That Ground Air Travel to a Halt', desc: '' },
+      en: { title: 'The Single Router in Southern Arkansas That Ground Air Travel to a Halt', desc: '' },
+      source: 'HN (lxm)', time: '03:05', heat: 68,
+      tags: ["model", "product"], url: 'https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c'
+    },
+    {
+      id: 5569,
+      zh: { title: '[arXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation', desc: 'Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing ' },
+      ja: { title: '[arXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation', desc: 'Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing ' },
+      en: { title: '[arXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation', desc: 'Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing ' },
+      source: 'arXiv', time: '05:09', heat: 69,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17316v1'
+    },
+    {
+      id: 4195,
+      zh: { title: '[arXiv] Goal Encoding in LLMs', desc: 'We investigate whether and how LLMs encode goals: internal neural representations that precede and g' },
+      ja: { title: '[arXiv] Goal Encoding in LLMs', desc: 'We investigate whether and how LLMs encode goals: internal neural representations that precede and g' },
+      en: { title: '[arXiv] Goal Encoding in LLMs', desc: 'We investigate whether and how LLMs encode goals: internal neural representations that precede and g' },
+      source: 'arXiv', time: '05:09', heat: 83,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17297v1'
+    },
+    {
+      id: 6965,
+      zh: { title: '[arXiv] Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon', desc: 'On-device inference requires kernels that make effective use of local accelerators. Efficient traini' },
+      ja: { title: '[arXiv] Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon', desc: 'On-device inference requires kernels that make effective use of local accelerators. Efficient traini' },
+      en: { title: '[arXiv] Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon', desc: 'On-device inference requires kernels that make effective use of local accelerators. Efficient traini' },
+      source: 'arXiv', time: '05:09', heat: 82,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17294v1'
+    },
+    {
+      id: 8997,
+      zh: { title: '[arXiv] Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs', desc: 'We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive in' },
+      ja: { title: '[arXiv] Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs', desc: 'We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive in' },
+      en: { title: '[arXiv] Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs', desc: 'We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive in' },
+      source: 'arXiv', time: '05:09', heat: 78,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17280v1'
+    },
+    {
+      id: 6057,
+      zh: { title: '[arXiv] Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents', desc: 'Decision models answer a question with a typed output, such as a choice among options with a probabi' },
+      ja: { title: '[arXiv] Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents', desc: 'Decision models answer a question with a typed output, such as a choice among options with a probabi' },
+      en: { title: '[arXiv] Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents', desc: 'Decision models answer a question with a typed output, such as a choice among options with a probabi' },
+      source: 'arXiv', time: '05:09', heat: 84,
+      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17167v1'
+    },
+  ]},
   { day: '2026-11-14', items: [
     {
-      id: 3143,
+      id: 1700,
       zh: { title: 'Lovable apps expose passport details and more than 200K private messages', desc: '' },
       ja: { title: 'Lovable apps expose passport details and more than 200K private messages', desc: '' },
       en: { title: 'Lovable apps expose passport details and more than 200K private messages', desc: '' },
       source: 'HN (armcat)', time: '17:43', heat: 95,
       tags: ["model", "product"], url: 'https://www.crissyfield.de/research/lovable-en/'
-    },
-    {
-      id: 9465,
-      zh: { title: 'Tech Companies Are Trying to Shift the Concept of Privacy (Again)', desc: '' },
-      ja: { title: 'Tech Companies Are Trying to Shift the Concept of Privacy (Again)', desc: '' },
-      en: { title: 'Tech Companies Are Trying to Shift the Concept of Privacy (Again)', desc: '' },
-      source: 'HN (gslin)', time: '12:45', heat: 95,
-      tags: ["model", "product"], url: 'https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again'
-    },
-    {
-      id: 2704,
-      zh: { title: 'Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM', desc: '' },
-      ja: { title: 'Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM', desc: '' },
-      en: { title: 'Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM', desc: '' },
-      source: 'HN (wondersky)', time: '14:09', heat: 95,
-      tags: ["model", "product"], url: 'https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/'
-    },
-    {
-      id: 6449,
-      zh: { title: '[arXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation', desc: 'Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing ' },
-      ja: { title: '[arXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation', desc: 'Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing ' },
-      en: { title: '[arXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation', desc: 'Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing ' },
-      source: 'arXiv', time: '22:01', heat: 85,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17316v1'
-    },
-    {
-      id: 1275,
-      zh: { title: '[arXiv] Goal Encoding in LLMs', desc: 'We investigate whether and how LLMs encode goals: internal neural representations that precede and g' },
-      ja: { title: '[arXiv] Goal Encoding in LLMs', desc: 'We investigate whether and how LLMs encode goals: internal neural representations that precede and g' },
-      en: { title: '[arXiv] Goal Encoding in LLMs', desc: 'We investigate whether and how LLMs encode goals: internal neural representations that precede and g' },
-      source: 'arXiv', time: '22:01', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17297v1'
-    },
-    {
-      id: 4888,
-      zh: { title: '[arXiv] Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon', desc: 'On-device inference requires kernels that make effective use of local accelerators. Efficient traini' },
-      ja: { title: '[arXiv] Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon', desc: 'On-device inference requires kernels that make effective use of local accelerators. Efficient traini' },
-      en: { title: '[arXiv] Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon', desc: 'On-device inference requires kernels that make effective use of local accelerators. Efficient traini' },
-      source: 'arXiv', time: '22:01', heat: 81,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17294v1'
-    },
-    {
-      id: 6168,
-      zh: { title: '[arXiv] Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs', desc: 'We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive in' },
-      ja: { title: '[arXiv] Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs', desc: 'We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive in' },
-      en: { title: '[arXiv] Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs', desc: 'We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive in' },
-      source: 'arXiv', time: '22:01', heat: 68,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17280v1'
-    },
-    {
-      id: 4419,
-      zh: { title: '[arXiv] Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents', desc: 'Decision models answer a question with a typed output, such as a choice among options with a probabi' },
-      ja: { title: '[arXiv] Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents', desc: 'Decision models answer a question with a typed output, such as a choice among options with a probabi' },
-      en: { title: '[arXiv] Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents', desc: 'Decision models answer a question with a typed output, such as a choice among options with a probabi' },
-      source: 'arXiv', time: '22:01', heat: 72,
-      tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.17167v1'
-    },
-  ]},
-  { day: '2026-11-11', items: [
-    {
-      id: 7712,
-      zh: { title: 'Seagate\'s new hybrid drive raises some old questions', desc: '' },
-      ja: { title: 'Seagate\'s new hybrid drive raises some old questions', desc: '' },
-      en: { title: 'Seagate\'s new hybrid drive raises some old questions', desc: '' },
-      source: 'HN (PaulHoule)', time: '14:32', heat: 75,
-      tags: ["model", "product"], url: 'https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/'
-    },
-  ]},
-  { day: '2026-11-10', items: [
-    {
-      id: 1560,
-      zh: { title: 'Generative AI uses more energy on non-English text', desc: '' },
-      ja: { title: 'Generative AI uses more energy on non-English text', desc: '' },
-      en: { title: 'Generative AI uses more energy on non-English text', desc: '' },
-      source: 'HN (DeepLogin)', time: '15:07', heat: 95,
-      tags: ["model", "product"], url: 'https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/'
     },
   ]},
 ];
