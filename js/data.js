@@ -1,88 +1,88 @@
 // AISlime — Auto-generated news data
-// Generated: 2026-11-16T14:59:21.341577+00:00
+// Generated: 2026-11-17T01:39:22.591274+00:00
 const NEWS_DATA = [
-  { day: '2026-11-16', items: [
+  { day: '2026-11-17', items: [
     {
-      id: 3881,
-      zh: { title: 'Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops', desc: '' },
-      ja: { title: 'Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops', desc: '' },
-      en: { title: 'Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops', desc: '' },
-      source: 'HN (firefax)', time: '14:17', heat: 58,
-      tags: ["model", "product"], url: 'https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint'
+      id: 9504,
+      zh: { title: 'Pentagon fails ninth straight audit despite progress in organizing finances', desc: '' },
+      ja: { title: 'Pentagon fails ninth straight audit despite progress in organizing finances', desc: '' },
+      en: { title: 'Pentagon fails ninth straight audit despite progress in organizing finances', desc: '' },
+      source: 'HN (petethomas)', time: '00:23', heat: 58,
+      tags: ["model", "product"], url: 'https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/'
     },
     {
-      id: 7370,
-      zh: { title: 'Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack', desc: '' },
-      ja: { title: 'Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack', desc: '' },
-      en: { title: 'Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack', desc: '' },
-      source: 'HN (aillia)', time: '00:21', heat: 95,
-      tags: ["model", "product"], url: 'https://forum.torproject.org/t/security-release-0-4-9-17/22454'
-    },
-    {
-      id: 3111,
-      zh: { title: 'Microsoft blames monster email outage on software defect introduced in July fix', desc: '' },
-      ja: { title: 'Microsoft blames monster email outage on software defect introduced in July fix', desc: '' },
-      en: { title: 'Microsoft blames monster email outage on software defect introduced in July fix', desc: '' },
-      source: 'HN (Bender)', time: '13:18', heat: 57,
-      tags: ["model", "product"], url: 'https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026'
-    },
-    {
-      id: 2838,
+      id: 5855,
       zh: { title: '[arXiv] ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL', desc: 'Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model ' },
       ja: { title: '[arXiv] ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL', desc: 'Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model ' },
       en: { title: '[arXiv] ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL', desc: 'Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model ' },
-      source: 'arXiv', time: '14:59', heat: 82,
+      source: 'arXiv', time: '01:39', heat: 66,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.18533v1'
     },
     {
-      id: 4533,
+      id: 7621,
       zh: { title: '[arXiv] Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Halluc', desc: 'Mechanistic Interpretability (MI) has made significant progress in explaining the internal computati' },
       ja: { title: '[arXiv] Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Halluc', desc: 'Mechanistic Interpretability (MI) has made significant progress in explaining the internal computati' },
       en: { title: '[arXiv] Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Halluc', desc: 'Mechanistic Interpretability (MI) has made significant progress in explaining the internal computati' },
-      source: 'arXiv', time: '14:59', heat: 66,
+      source: 'arXiv', time: '01:39', heat: 85,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.18514v1'
     },
     {
-      id: 2982,
+      id: 8601,
       zh: { title: '[arXiv] MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading', desc: 'This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant design' },
       ja: { title: '[arXiv] MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading', desc: 'This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant design' },
       en: { title: '[arXiv] MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading', desc: 'This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant design' },
-      source: 'arXiv', time: '14:59', heat: 67,
+      source: 'arXiv', time: '01:39', heat: 76,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.18513v1'
     },
     {
-      id: 4478,
+      id: 7244,
       zh: { title: '[arXiv] Interactive Program Induction with Language Model Priors', desc: 'Program induction refers to the process in which a learner aims to recover a program from a few give' },
       ja: { title: '[arXiv] Interactive Program Induction with Language Model Priors', desc: 'Program induction refers to the process in which a learner aims to recover a program from a few give' },
       en: { title: '[arXiv] Interactive Program Induction with Language Model Priors', desc: 'Program induction refers to the process in which a learner aims to recover a program from a few give' },
-      source: 'arXiv', time: '14:59', heat: 78,
+      source: 'arXiv', time: '01:39', heat: 79,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.18485v1'
     },
     {
-      id: 1247,
+      id: 9862,
       zh: { title: '[arXiv] Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation', desc: 'LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typ' },
       ja: { title: '[arXiv] Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation', desc: 'LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typ' },
       en: { title: '[arXiv] Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation', desc: 'LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typ' },
-      source: 'arXiv', time: '14:59', heat: 69,
+      source: 'arXiv', time: '01:39', heat: 65,
       tags: ["model", "product"], url: 'http://arxiv.org/abs/2611.18471v1'
     },
   ]},
-  { day: '2026-11-15', items: [
+  { day: '2026-11-16', items: [
     {
-      id: 6041,
-      zh: { title: 'A short explainer on how El Niño works [video]', desc: '' },
-      ja: { title: 'A short explainer on how El Niño works [video]', desc: '' },
-      en: { title: 'A short explainer on how El Niño works [video]', desc: '' },
-      source: 'HN (nharada)', time: '18:23', heat: 95,
-      tags: ["model", "product"], url: 'https://www.youtube.com/watch?v=7_JF3etiAv8'
+      id: 3566,
+      zh: { title: 'United Airlines experiencing a widespread system outage, airline says', desc: '' },
+      ja: { title: 'United Airlines experiencing a widespread system outage, airline says', desc: '' },
+      en: { title: 'United Airlines experiencing a widespread system outage, airline says', desc: '' },
+      source: 'HN (bearsyankees)', time: '22:14', heat: 95,
+      tags: ["model", "product"], url: 'https://www.cnn.com/2026/11/16/us/united-airlines-outage'
     },
     {
-      id: 4242,
-      zh: { title: 'WebGL Flight Simulator with seed generated terrain', desc: '' },
-      ja: { title: 'WebGL Flight Simulator with seed generated terrain', desc: '' },
-      en: { title: 'WebGL Flight Simulator with seed generated terrain', desc: '' },
-      source: 'HN (ranger_danger)', time: '20:20', heat: 95,
-      tags: ["model", "product"], url: 'https://baron.by.dai.studio/'
+      id: 9518,
+      zh: { title: 'Microsoft blames monster email outage on software defect introduced in July fix', desc: '' },
+      ja: { title: 'Microsoft blames monster email outage on software defect introduced in July fix', desc: '' },
+      en: { title: 'Microsoft blames monster email outage on software defect introduced in July fix', desc: '' },
+      source: 'HN (Bender)', time: '13:18', heat: 95,
+      tags: ["model", "product"], url: 'https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026'
+    },
+    {
+      id: 5614,
+      zh: { title: 'Strengthening the fight against online child sexual abuse', desc: '' },
+      ja: { title: 'Strengthening the fight against online child sexual abuse', desc: '' },
+      en: { title: 'Strengthening the fight against online child sexual abuse', desc: '' },
+      source: 'HN (rossant)', time: '18:12', heat: 95,
+      tags: ["model", "product"], url: 'https://openai.com/index/strengthening-online-child-safety/'
+    },
+    {
+      id: 2999,
+      zh: { title: 'Spamhaus new email sender requirements in November', desc: '' },
+      ja: { title: 'Spamhaus new email sender requirements in November', desc: '' },
+      en: { title: 'Spamhaus new email sender requirements in November', desc: '' },
+      source: 'HN (computer23)', time: '21:47', heat: 85,
+      tags: ["model", "product"], url: 'https://www.spamhaus.org/sender-guidelines/'
     },
   ]},
 ];
